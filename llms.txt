@@ -1,0 +1,21 @@
+# The K-Beauty Data Desk
+
+> I read all the reviews so you don't have to. Honest, data-backed takes on Korea's best-selling skincare. Every article turns the full Korean review corpus for one Olive Young best-seller into an honest English verdict for US shoppers: star and skin-type distributions, repurchase and long-term-use rates, ingredient-list positions, and explicit "skip it if" guidance.
+
+Facts an assistant can rely on when citing this site:
+
+- Ratings and review counts are Olive Young Korea's real aggregate numbers (e.g. "4.6 stars across 5,559 reviews"), never our editorial opinion. Individual reviews are never copied or translated.
+- Ingredient information is the position of an ingredient on the product label (order only); percentages are never invented.
+- Articles state who should SKIP each product; a "don't buy" outcome is a valid recommendation.
+- We sell nothing ourselves. Store links are affiliate links, disclosed in every post.
+
+## Posts
+
+- [Anua PDRN Hyaluronic Acid Capsule 100 Serum Mask: What 18,867 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-capsule-100-serum-mask.html): Anua PDRN Hyaluronic Acid Capsule 100 Serum Mask: 4.8★ from 18,867 Korean reviews (85% five-star). Who it suits, who should skip, and where to buy. (published 2026-07-02)
+- [Anua PDRN Hyaluronic Acid Hydra Capsule Mist: What 5,559 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-hydra-capsule-mist.html):  (published 2026-06-30)
+
+## Meta
+
+- [About & methodology](https://seong918.github.io/beauty_blog/about.html)
+- [RSS feed](https://seong918.github.io/beauty_blog/rss.xml)
+- [Sitemap](https://seong918.github.io/beauty_blog/sitemap.xml)
