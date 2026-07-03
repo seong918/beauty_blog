@@ -11,7 +11,8 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
-- [Anua PDRN Hyaluronic Acid Capsule 100 Serum Mask: What 18,867 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-capsule-100-serum-mask.html): Anua PDRN Hyaluronic Acid Capsule 100 Serum Mask: 4.8★ from 18,867 Korean reviews (85% five-star). Who it suits, who should skip, and where to buy. (published 2026-07-02)
+- [메디힐 Serum 40+: What 41,773 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/serum-40.html): 메디힐 Serum 40+: 4.7★ from 41,773 Korean reviews (82% five-star). Who it suits, who should skip, and where to buy. (published 2026-07-03)
+- [Anua PDRN Hyaluronic Acid Capsule 100 Serum Mask: What 18,867 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-capsule-100-serum-mask.html):  (published 2026-07-02)
 - [Anua PDRN Hyaluronic Acid Hydra Capsule Mist: What 5,559 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-hydra-capsule-mist.html):  (published 2026-06-30)
 
 ## Meta
