@@ -11,10 +11,10 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
-- [Wellage 100 Ampoule: What 8,410 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/wellage-100-ampoule.html): Wellage 100 Ampoule: 4.8★ from 8,410 Korean reviews (89% five-star). Who it suits, who should skip, and where to buy. (published 2026-07-04)
-- [Mediheal Madecassoside Blemish Repair Serum: What 41,806 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/madecassoside-blemish-repair-serum.html):  (published 2026-07-03)
-- [Anua PDRN Hyaluronic Acid Capsule 100 Serum Mask: What 18,867 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-capsule-100-serum-mask.html):  (published 2026-07-02)
-- [Anua PDRN Hyaluronic Acid Hydra Capsule Mist: What 5,559 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-hydra-capsule-mist.html):  (published 2026-06-30)
+- [Wellage Real Hyaluronic Blue 100 Ampoule: What 8,455 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html): Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 8,455 Korean reviews (89% five-star). Who it suits, who should skip, and where to buy. (published 2026-07-04)
+- [Mediheal Madecassoside Blemish Repair Serum: What 41,856 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/mediheal-madecassoside-blemish-repair-serum.html): Mediheal Madecassoside Blemish Repair Serum: 4.7★ from 41,856 Korean reviews (82% five-star). Who it suits, who should skip, and where to buy. (published 2026-07-03)
+- [Anua PDRN Hyaluronic Acid Capsule Serum: What 19,105 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-capsule-serum.html): Anua PDRN Hyaluronic Acid Capsule Serum: 4.8★ from 19,105 Korean reviews (84% five-star). Who it suits, who should skip, and where to buy. (published 2026-07-02)
+- [Anua PDRN Hyaluronic Acid Hydra Capsule Mist: What 5,711 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-hydra-capsule-mist.html): Anua PDRN Hyaluronic Acid Hydra Capsule Mist: 4.6★ from 5,711 Korean reviews (76% five-star). Who it suits, who should skip, and where to buy. (published 2026-06-30)
 
 ## Meta
 
