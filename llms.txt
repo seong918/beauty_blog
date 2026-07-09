@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [Abib Hyaluronic Boom Cream Water Tube: What 189 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/abib-hyaluronic-boom-cream-water-tube.html): Abib Hyaluronic Boom Cream Water Tube: 5.0★ from 189 Korean reviews (99% five-star). Who it suits, who should skip, and where to buy. (published 2026-07-09)
 - [Abib Hyaluronic Boom Serum Waterdrop: What 182 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/abib-hyaluronic-boom-serum-waterdrop.html): Abib Hyaluronic Boom Serum Waterdrop: 5.0★ from 182 Korean reviews (100% five-star). Who it suits, who should skip, and where to buy. (published 2026-07-08)
 - [innisfree Retinol Cica Pore Ampoule: What 799 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/innisfree-retinol-cica-pore-ampoule.html): innisfree Retinol Cica Pore Ampoule: 5.0★ from 799 Korean reviews (97% five-star). Who it suits, who should skip, and where to buy. (published 2026-07-07)
 - [Aestura Atobarrier 365 Cream: What 35,090 Real Reviews Actually Say (2026)](https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-cream.html): Aestura Atobarrier 365 Cream: 4.9★ from 35,090 Korean reviews (90% five-star). Who it suits, who should skip, and where to buy. (published 2026-07-06)
@@ -22,6 +23,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Meta
 
+- [All products ranked by review volume](https://seong918.github.io/beauty_blog/rankings.html)
 - [About & methodology](https://seong918.github.io/beauty_blog/about.html)
 - [RSS feed](https://seong918.github.io/beauty_blog/rss.xml)
 - [Sitemap](https://seong918.github.io/beauty_blog/sitemap.xml)
