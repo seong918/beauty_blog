@@ -45,3 +45,4 @@ User-agent: Bytespider
 Allow: /
 
 Sitemap: https://seong918.github.io/beauty_blog/sitemap.xml
+# LLM guide: https://seong918.github.io/beauty_blog/llms.txt (full content: https://seong918.github.io/beauty_blog/llms-full.txt)

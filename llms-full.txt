@@ -1,0 +1,72 @@
+# The K-Beauty Data Desk — full fact digest
+
+> I read all the reviews so you don't have to. Honest, data-backed takes on Korea's best-selling skincare. One section per reviewed product; every number is Olive Young Korea's own aggregate review data. Individual reviews are never quoted.
+
+## Abib Hyaluronic Boom Cream Water Tube: What 189 Real Reviews Actually Say (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/abib-hyaluronic-boom-cream-water-tube.html
+- Published: 2026-07-09
+- Summary: Abib Hyaluronic Boom Cream Water Tube: 5.0★ from 189 Korean reviews (99% five-star). Who it suits, who should skip, and where to buy.
+- Rating: 5.0 / 5 from 189 reviews (5★ 99% · 4★ 0% · 3★ 1% · 2★ 0% · 1★ 0%)
+
+## Abib Hyaluronic Boom Serum Waterdrop: What 182 Real Reviews Actually Say (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/abib-hyaluronic-boom-serum-waterdrop.html
+- Published: 2026-07-08
+- Summary: Abib Hyaluronic Boom Serum Waterdrop: 5.0★ from 182 Korean reviews (100% five-star). Who it suits, who should skip, and where to buy.
+- Rating: 5.0 / 5 from 182 reviews (5★ 100% · 4★ 0% · 3★ 0% · 2★ 0% · 1★ 0%)
+
+## innisfree Retinol Cica Pore Ampoule: What 799 Real Reviews Actually Say (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/innisfree-retinol-cica-pore-ampoule.html
+- Published: 2026-07-07
+- Summary: innisfree Retinol Cica Pore Ampoule: 5.0★ from 799 Korean reviews (97% five-star). Who it suits, who should skip, and where to buy.
+- Rating: 5.0 / 5 from 799 reviews (5★ 97% · 4★ 3% · 3★ 0% · 2★ 0% · 1★ 0%)
+
+## Aestura Atobarrier 365 Cream: What 35,090 Real Reviews Actually Say (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-cream.html
+- Published: 2026-07-06
+- Summary: Aestura Atobarrier 365 Cream: 4.9★ from 35,090 Korean reviews (90% five-star). Who it suits, who should skip, and where to buy.
+- Rating: 4.9 / 5 from 35,090 reviews (5★ 90% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 1%)
+
+## La Roche-Posay Cicaplast Baume B5: What 24,566 Real Reviews Actually Say (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html
+- Published: 2026-07-05
+- Summary: La Roche-Posay Cicaplast Baume B5: 4.8★ from 24,566 Korean reviews (86% five-star). Who it suits, who should skip, and where to buy.
+- Rating: 4.8 / 5 from 24,566 reviews (5★ 86% · 4★ 10% · 3★ 3% · 2★ 1% · 1★ 1%)
+
+## Wellage Real Hyaluronic Blue 100 Ampoule: What 8,455 Real Reviews Actually Say (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html
+- Published: 2026-07-04
+- Summary: Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 8,455 Korean reviews (89% five-star). Who it suits, who should skip, and where to buy.
+- Rating: 4.8 / 5 from 8,455 reviews (5★ 89% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 0%)
+
+## Mediheal Madecassoside Blemish Repair Serum: What 41,856 Real Reviews Actually Say (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/mediheal-madecassoside-blemish-repair-serum.html
+- Published: 2026-07-03
+- Summary: Mediheal Madecassoside Blemish Repair Serum: 4.7★ from 41,856 Korean reviews (82% five-star). Who it suits, who should skip, and where to buy.
+- Rating: 4.7 / 5 from 41,856 reviews (5★ 82% · 4★ 13% · 3★ 4% · 2★ 1% · 1★ 1%)
+
+## Anua PDRN Hyaluronic Acid Capsule Serum: What 19,105 Real Reviews Actually Say (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-capsule-serum.html
+- Published: 2026-07-02
+- Summary: Anua PDRN Hyaluronic Acid Capsule Serum: 4.8★ from 19,105 Korean reviews (84% five-star). Who it suits, who should skip, and where to buy.
+- Rating: 4.8 / 5 from 19,105 reviews (5★ 84% · 4★ 10% · 3★ 4% · 2★ 1% · 1★ 1%)
+
+## Anua PDRN Hyaluronic Acid Hydra Capsule Mist: What 5,711 Real Reviews Actually Say (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-hydra-capsule-mist.html
+- Published: 2026-06-30
+- Summary: Anua PDRN Hyaluronic Acid Hydra Capsule Mist: 4.6★ from 5,711 Korean reviews (76% five-star). Who it suits, who should skip, and where to buy.
+- Rating: 4.6 / 5 from 5,711 reviews (5★ 76% · 4★ 14% · 3★ 7% · 2★ 2% · 1★ 2%)
+
+## Meta
+
+- Rankings: https://seong918.github.io/beauty_blog/rankings.html
+- Methodology: https://seong918.github.io/beauty_blog/about.html
+- RSS: https://seong918.github.io/beauty_blog/rss.xml

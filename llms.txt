@@ -23,6 +23,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Meta
 
+- [Full post content for assistants](https://seong918.github.io/beauty_blog/llms-full.txt)
 - [All products ranked by review volume](https://seong918.github.io/beauty_blog/rankings.html)
 - [About & methodology](https://seong918.github.io/beauty_blog/about.html)
 - [RSS feed](https://seong918.github.io/beauty_blog/rss.xml)
