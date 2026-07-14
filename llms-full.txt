@@ -1,6 +1,13 @@
 # The K-Beauty Data Desk — full fact digest
 
-> I read all the reviews so you don't have to. Honest, data-backed takes on Korea's best-selling skincare. One section per reviewed product; every number is Olive Young Korea's own aggregate review data. Individual reviews are never quoted.
+> Aggregate Olive Young review data, with capped-sample theme analysis when available, decoded into honest K-beauty verdicts. One section per reviewed product; every number is Olive Young Korea's own aggregate review data. Individual reviews are never quoted.
+
+## 셀리맥스 Cream: What 1,149 Real Reviews Actually Say (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/cream.html
+- Published: 2026-07-14
+- Summary: 셀리맥스 Cream: 4.9★ from 1,149 Korean reviews (95% five-star). A combination and dry skin pick, rated highest for fine lines. Includes who should skip it.
+- Rating: 4.9 / 5 from 1,149 reviews (5★ 95% · 4★ 4% · 3★ 1% · 2★ 0% · 1★ 0%)
 
 ## La Roche-Posay Cicaplast Multi Repair Cream: What 18,592 Real Reviews Actually Say (2026)
 
