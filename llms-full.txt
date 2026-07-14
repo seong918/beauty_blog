@@ -1,103 +1,103 @@
 # The K-Beauty Data Desk — full fact digest
 
-> Aggregate Olive Young review data, with capped-sample theme analysis when available, decoded into honest K-beauty verdicts. One section per reviewed product; every number is Olive Young Korea's own aggregate review data. Individual reviews are never quoted.
+> Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## 셀리맥스 Cream: What 1,149 Real Reviews Actually Say (2026)
+## Celimax Tranexamic Acid Dark Spot Cream: What 1,149 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/cream.html
+- URL: https://seong918.github.io/beauty_blog/posts/celimax-tranexamic-acid-dark-spot-cream.html
 - Published: 2026-07-14
-- Summary: 셀리맥스 Cream: 4.9★ from 1,149 Korean reviews (95% five-star). A combination and dry skin pick, rated highest for fine lines. Includes who should skip it.
+- Summary: Celimax Tranexamic Acid Dark Spot Cream: 4.9★ from 1,149 Olive Young Korea review records (95% five-star).
 - Rating: 4.9 / 5 from 1,149 reviews (5★ 95% · 4★ 4% · 3★ 1% · 2★ 0% · 1★ 0%)
 
-## La Roche-Posay Cicaplast Multi Repair Cream: What 18,592 Real Reviews Actually Say (2026)
+## La Roche-Posay Cicaplast Multi Repair Cream: What 18,592 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-multi-repair-cream.html
 - Published: 2026-07-13
-- Summary: La Roche-Posay Cicaplast Multi Repair Cream: 4.8★ from 18,592 Korean reviews (84% five-star). A combination and dry skin pick, rated highest for…
+- Summary: La Roche-Posay Cicaplast Multi Repair Cream: 4.8★ from 18,592 Olive Young Korea review records (84% five-star).
 - Rating: 4.8 / 5 from 18,592 reviews (5★ 84% · 4★ 11% · 3★ 3% · 2★ 1% · 1★ 1%)
 
-## Arencia Vitamin C Booster Shot: What 582 Real Reviews Actually Say (2026)
+## Arencia Vitamin C Booster Shot: What 582 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/arencia-vitamin-c-booster-shot.html
 - Published: 2026-07-12
-- Summary: Arencia Vitamin C Booster Shot: 4.9★ from 582 Korean reviews (95% five-star). A combination and dry skin pick, rated highest for fine lines. Includes…
+- Summary: Arencia Vitamin C Booster Shot: 4.9★ from 582 Olive Young Korea review records (95% five-star).
 - Rating: 4.9 / 5 from 582 reviews (5★ 95% · 4★ 3% · 3★ 1% · 2★ 0% · 1★ 1%)
 
-## S.NATURE Aqua Squalane Moisture Cream: What 15,832 Real Reviews Actually Say (2026)
+## S.NATURE Aqua Squalane Moisture Cream: What 15,832 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/s-nature-aqua-squalane-moisture-cream.html
 - Published: 2026-07-11
-- Summary: S.NATURE Aqua Squalane Moisture Cream: 4.8★ from 15,832 Korean reviews (86% five-star). A combination and dry skin pick, rated highest for hydration.…
+- Summary: S.NATURE Aqua Squalane Moisture Cream: 4.8★ from 15,832 Olive Young Korea review records (86% five-star).
 - Rating: 4.8 / 5 from 15,832 reviews (5★ 86% · 4★ 10% · 3★ 3% · 2★ 1% · 1★ 1%)
 
-## Aestura Atobarrier 365 Hydro Soothing Cream: What 11,903 Real Reviews Actually Say (2026)
+## Aestura Atobarrier 365 Hydro Soothing Cream: What 11,903 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-hydro-soothing-cream.html
 - Published: 2026-07-10
-- Summary: Aestura Atobarrier 365 Hydro Soothing Cream: 4.8★ from 11,903 Korean reviews (88% five-star). A combination skin pick, rated highest for hydration.…
+- Summary: Aestura Atobarrier 365 Hydro Soothing Cream: 4.8★ from 11,903 Olive Young Korea review records (88% five-star).
 - Rating: 4.8 / 5 from 11,903 reviews (5★ 88% · 4★ 9% · 3★ 2% · 2★ 0% · 1★ 1%)
 
-## Abib Hyaluronic Boom Cream Water Tube: What 189 Real Reviews Actually Say (2026)
+## Abib Hyaluronic Boom Cream Water Tube: What 189 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/abib-hyaluronic-boom-cream-water-tube.html
 - Published: 2026-07-09
-- Summary: Abib Hyaluronic Boom Cream Water Tube: 5.0★ from 189 Korean reviews (99% five-star). An early look at a new release, 189 reviews in. Who it suits so…
+- Summary: Abib Hyaluronic Boom Cream Water Tube: 5.0★ from 189 Olive Young Korea review records (99% five-star).
 - Rating: 5.0 / 5 from 189 reviews (5★ 99% · 4★ 0% · 3★ 1% · 2★ 0% · 1★ 0%)
 
-## Abib Hyaluronic Boom Serum Waterdrop: What 182 Real Reviews Actually Say (2026)
+## Abib Hyaluronic Boom Serum Waterdrop: What 182 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/abib-hyaluronic-boom-serum-waterdrop.html
 - Published: 2026-07-08
-- Summary: Abib Hyaluronic Boom Serum Waterdrop: 5.0★ from 182 Korean reviews (100% five-star). An early look at a new release, 182 reviews in. Who it suits so…
+- Summary: Abib Hyaluronic Boom Serum Waterdrop: 5.0★ from 182 Olive Young Korea review records (100% five-star).
 - Rating: 5.0 / 5 from 182 reviews (5★ 100% · 4★ 0% · 3★ 0% · 2★ 0% · 1★ 0%)
 
-## innisfree Retinol Cica Pore Ampoule: What 799 Real Reviews Actually Say (2026)
+## innisfree Retinol Cica Pore Ampoule: What 799 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/innisfree-retinol-cica-pore-ampoule.html
 - Published: 2026-07-07
-- Summary: innisfree Retinol Cica Pore Ampoule: 5.0★ from 799 Korean reviews (97% five-star). A combination skin pick, rated highest for fine lines. Includes who…
+- Summary: innisfree Retinol Cica Pore Ampoule: 5.0★ from 799 Olive Young Korea review records (97% five-star).
 - Rating: 5.0 / 5 from 799 reviews (5★ 97% · 4★ 3% · 3★ 0% · 2★ 0% · 1★ 0%)
 
-## Aestura Atobarrier 365 Cream: What 35,090 Real Reviews Actually Say (2026)
+## Aestura Atobarrier 365 Cream: What 35,090 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-cream.html
 - Published: 2026-07-06
-- Summary: Aestura Atobarrier 365 Cream: 4.9★ from 35,090 Korean reviews (90% five-star). A dry and combination skin pick, rated highest for hydration. Includes…
+- Summary: Aestura Atobarrier 365 Cream: 4.9★ from 35,090 Olive Young Korea review records (90% five-star).
 - Rating: 4.9 / 5 from 35,090 reviews (5★ 90% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 1%)
 
-## La Roche-Posay Cicaplast Baume B5: What 24,566 Real Reviews Actually Say (2026)
+## La Roche-Posay Cicaplast Baume B5: What 24,566 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html
 - Published: 2026-07-05
-- Summary: La Roche-Posay Cicaplast Baume B5: 4.8★ from 24,566 Korean reviews (86% five-star). A dry and combination skin pick, rated highest for soothing…
+- Summary: La Roche-Posay Cicaplast Baume B5: 4.8★ from 24,566 Olive Young Korea review records (86% five-star).
 - Rating: 4.8 / 5 from 24,566 reviews (5★ 86% · 4★ 10% · 3★ 3% · 2★ 1% · 1★ 1%)
 
-## Wellage Real Hyaluronic Blue 100 Ampoule: What 8,455 Real Reviews Actually Say (2026)
+## Wellage Real Hyaluronic Blue 100 Ampoule: What 8,455 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html
 - Published: 2026-07-04
-- Summary: Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 8,455 Korean reviews (89% five-star). A combination and dry skin pick, rated highest for hydration.…
+- Summary: Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 8,455 Olive Young Korea review records (89% five-star).
 - Rating: 4.8 / 5 from 8,455 reviews (5★ 89% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 0%)
 
-## Mediheal Madecassoside Blemish Repair Serum: What 41,856 Real Reviews Actually Say (2026)
+## Mediheal Madecassoside Blemish Repair Serum: What 41,856 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/mediheal-madecassoside-blemish-repair-serum.html
 - Published: 2026-07-03
-- Summary: Mediheal Madecassoside Blemish Repair Serum: 4.7★ from 41,856 Korean reviews (82% five-star). A combination skin pick, rated highest for soothing…
+- Summary: Mediheal Madecassoside Blemish Repair Serum: 4.7★ from 41,856 Olive Young Korea review records (82% five-star).
 - Rating: 4.7 / 5 from 41,856 reviews (5★ 82% · 4★ 13% · 3★ 4% · 2★ 1% · 1★ 1%)
 
-## Anua PDRN Hyaluronic Acid Capsule Serum: What 19,105 Real Reviews Actually Say (2026)
+## Anua PDRN Hyaluronic Acid Capsule Serum: What 19,105 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-capsule-serum.html
 - Published: 2026-07-02
-- Summary: Anua PDRN Hyaluronic Acid Capsule Serum: 4.8★ from 19,105 Korean reviews (84% five-star). A dry and combination skin pick, rated highest for hydration.…
+- Summary: Anua PDRN Hyaluronic Acid Capsule Serum: 4.8★ from 19,105 Olive Young Korea review records (84% five-star).
 - Rating: 4.8 / 5 from 19,105 reviews (5★ 84% · 4★ 10% · 3★ 4% · 2★ 1% · 1★ 1%)
 
-## Anua PDRN Hyaluronic Acid Hydra Capsule Mist: What 5,711 Real Reviews Actually Say (2026)
+## Anua PDRN Hyaluronic Acid Hydra Capsule Mist: What 5,711 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-hydra-capsule-mist.html
 - Published: 2026-06-30
-- Summary: Anua PDRN Hyaluronic Acid Hydra Capsule Mist: 4.6★ from 5,711 Korean reviews (76% five-star). A dry and combination skin pick, rated highest for…
+- Summary: Anua PDRN Hyaluronic Acid Hydra Capsule Mist: 4.6★ from 5,711 Olive Young Korea review records (76% five-star).
 - Rating: 4.6 / 5 from 5,711 reviews (5★ 76% · 4★ 14% · 3★ 7% · 2★ 2% · 1★ 2%)
 
 ## Meta
