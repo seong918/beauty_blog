@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Physiogel Daily Mune Ampoule: What 9,450 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/physiogel-daily-mune-ampoule.html
+- Published: 2026-07-20
+- Summary: Physiogel Daily Mune Ampoule: 4.8★ from 9,450 Olive Young Korea review records (87% five-star).
+- Rating: 4.8 / 5 from 9,450 reviews (5★ 87% · 4★ 9% · 3★ 2% · 2★ 0% · 1★ 0%)
+
 ## Physiogel Red Soothing Rosateca Redness Reducing Serum: What 86 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/physiogel-red-soothing-rosateca-redness-reducing-serum.html
