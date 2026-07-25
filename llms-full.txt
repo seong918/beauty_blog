@@ -1,173 +1,173 @@
 # The K-Beauty Data Desk — full fact digest
 
-> Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
+> Captured aggregate review data from a Korean K-beauty retail platform, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured aggregates from a Korean K-beauty retail platform; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Torriden Dive-In Low Molecular Hyaluronic Acid Serum: What 3,919 Olive Young Review Signals Show (2026)
+## Torriden Dive-In Low Molecular Hyaluronic Acid Serum: What 3,919 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/torriden-dive-in-low-molecular-hyaluronic-acid-serum.html
 - Published: 2026-07-25
-- Summary: Torriden Dive-In Low Molecular Hyaluronic Acid Serum: 4.9★ from 3,919 Olive Young Korea review records (90% five-star).
+- Summary: Torriden Dive-In Low Molecular Hyaluronic Acid Serum: 4.9★ from 3,919 K-beauty retail review records (90% five-star).
 - Rating: 4.9 / 5 from 3,919 reviews (5★ 90% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 0%)
 
-## La Roche-Posay Cicaplast Multi Repair Cream: What 18,048 Olive Young Review Signals Show (2026)
+## La Roche-Posay Cicaplast Multi Repair Cream: What 18,048 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-multi-repair-cream.html
 - Published: 2026-07-24
-- Summary: La Roche-Posay Cicaplast Multi Repair Cream: 4.8★ from 18,048 Olive Young Korea review records (84% five-star).
+- Summary: La Roche-Posay Cicaplast Multi Repair Cream: 4.8★ from 18,048 K-beauty retail review records (84% five-star).
 - Rating: 4.8 / 5 from 18,048 reviews (5★ 84% · 4★ 11% · 3★ 4% · 2★ 1% · 1★ 1%)
 
-## Rejudex Derma Repairing Solution Ampoule: What 106 Olive Young Review Signals Show (2026)
+## Rejudex Derma Repairing Solution Ampoule: What 106 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/rejudex-derma-repairing-solution-ampoule.html
 - Published: 2026-07-23
-- Summary: Rejudex Derma Repairing Solution Ampoule: 5.0★ from 106 Olive Young Korea review records (97% five-star).
+- Summary: Rejudex Derma Repairing Solution Ampoule: 5.0★ from 106 K-beauty retail review records (97% five-star).
 - Rating: 5.0 / 5 from 106 reviews (5★ 97% · 4★ 2% · 3★ 1% · 2★ 0% · 1★ 0%)
 
-## Rejuvedex Derma Repairing Cream: What 1 Olive Young Review Signals Show (2026)
+## Rejuvedex Derma Repairing Cream: What 1 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/rejuvedex-derma-repairing-cream.html
 - Published: 2026-07-22
-- Summary: Rejuvedex Derma Repairing Cream: 5.0★ from 1 Olive Young Korea review records (100% five-star).
+- Summary: Rejuvedex Derma Repairing Cream: 5.0★ from 1 K-beauty retail review records (100% five-star).
 - Rating: 5.0 / 5 from 1 reviews (5★ 100% · 4★ 0% · 3★ 0% · 2★ 0% · 1★ 0%)
 
-## Bring Green Zinc Teca Trouble Serum Large Size: What 21,810 Olive Young Review Signals Show (2026)
+## Bring Green Zinc Teca Trouble Serum Large Size: What 21,810 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/bring-green-zinc-teca-trouble-serum-large-size.html
 - Published: 2026-07-21
-- Summary: Bring Green Zinc Teca Trouble Serum Large Size: 4.7★ from 21,810 Olive Young Korea review records (82% five-star).
+- Summary: Bring Green Zinc Teca Trouble Serum Large Size: 4.7★ from 21,810 K-beauty retail review records (82% five-star).
 - Rating: 4.7 / 5 from 21,810 reviews (5★ 82% · 4★ 12% · 3★ 5% · 2★ 1% · 1★ 1%)
 
-## Physiogel Daily Mune Ampoule: What 9,450 Olive Young Review Signals Show (2026)
+## Physiogel Daily Mune Ampoule: What 9,450 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/physiogel-daily-mune-ampoule.html
 - Published: 2026-07-20
-- Summary: Physiogel Daily Mune Ampoule: 4.8★ from 9,450 Olive Young Korea review records (87% five-star).
+- Summary: Physiogel Daily Mune Ampoule: 4.8★ from 9,450 K-beauty retail review records (87% five-star).
 - Rating: 4.8 / 5 from 9,450 reviews (5★ 87% · 4★ 9% · 3★ 2% · 2★ 0% · 1★ 0%)
 
-## Physiogel Red Soothing Rosateca Redness Reducing Serum: What 86 Olive Young Review Signals Show (2026)
+## Physiogel Red Soothing Rosateca Redness Reducing Serum: What 86 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/physiogel-red-soothing-rosateca-redness-reducing-serum.html
 - Published: 2026-07-19
-- Summary: Physiogel Red Soothing Rosateca Redness Reducing Serum: 4.9★ from 86 Olive Young Korea review records (93% five-star).
+- Summary: Physiogel Red Soothing Rosateca Redness Reducing Serum: 4.9★ from 86 K-beauty retail review records (93% five-star).
 - Rating: 4.9 / 5 from 86 reviews (5★ 93% · 4★ 3% · 3★ 2% · 2★ 1% · 1★ 0%)
 
-## Estrar Atobarrier365 Hydro Soothing Cream: What 12,246 Olive Young Review Signals Show (2026)
+## Estrar Atobarrier365 Hydro Soothing Cream: What 12,246 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/estrar-atobarrier365-hydro-soothing-cream.html
 - Published: 2026-07-18
-- Summary: Estrar Atobarrier365 Hydro Soothing Cream: 4.8★ from 12,246 Olive Young Korea review records (88% five-star).
+- Summary: Estrar Atobarrier365 Hydro Soothing Cream: 4.8★ from 12,246 K-beauty retail review records (88% five-star).
 - Rating: 4.8 / 5 from 12,246 reviews (5★ 88% · 4★ 9% · 3★ 2% · 2★ 0% · 1★ 1%)
 
-## Celladix Trouble Sebum Rebalancing 131 Ampoule: What 5,047 Olive Young Review Signals Show (2026)
+## Celladix Trouble Sebum Rebalancing 131 Ampoule: What 5,047 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/celladix-trouble-sebum-rebalancing-131-ampoule.html
 - Published: 2026-07-17
-- Summary: Celladix Trouble Sebum Rebalancing 131 Ampoule: 4.7★ from 5,047 Olive Young Korea review records (83% five-star).
+- Summary: Celladix Trouble Sebum Rebalancing 131 Ampoule: 4.7★ from 5,047 K-beauty retail review records (83% five-star).
 - Rating: 4.7 / 5 from 5,047 reviews (5★ 83% · 4★ 9% · 3★ 5% · 2★ 2% · 1★ 2%)
 
-## Dr.G Red Blemish Clear Soothing Cream EX: What 1,946 Olive Young Review Signals Show (2026)
+## Dr.G Red Blemish Clear Soothing Cream EX: What 1,946 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/dr-g-red-blemish-clear-soothing-cream-ex.html
 - Published: 2026-07-16
-- Summary: Dr.G Red Blemish Clear Soothing Cream EX: 5.0★ from 1,946 Olive Young Korea review records (98% five-star).
+- Summary: Dr.G Red Blemish Clear Soothing Cream EX: 5.0★ from 1,946 K-beauty retail review records (98% five-star).
 - Rating: 5.0 / 5 from 1,946 reviews (5★ 98% · 4★ 1% · 3★ 0% · 2★ 0% · 1★ 0%)
 
-## Celimax The Vita A Retinal Shot Tightening Booster: What 2,006 Olive Young Review Signals Show (2026)
+## Celimax The Vita A Retinal Shot Tightening Booster: What 2,006 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/celimax-the-vita-a-retinal-shot-tightening-booster.html
 - Published: 2026-07-15
-- Summary: Celimax The Vita A Retinal Shot Tightening Booster: 4.8★ from 2,006 Olive Young Korea review records (86% five-star).
+- Summary: Celimax The Vita A Retinal Shot Tightening Booster: 4.8★ from 2,006 K-beauty retail review records (86% five-star).
 - Rating: 4.8 / 5 from 2,006 reviews (5★ 86% · 4★ 9% · 3★ 3% · 2★ 0% · 1★ 1%)
 
-## Celimax Tranexamic Acid Dark Spot Cream: What 1,149 Olive Young Review Signals Show (2026)
+## Celimax Tranexamic Acid Dark Spot Cream: What 1,149 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/celimax-tranexamic-acid-dark-spot-cream.html
 - Published: 2026-07-14
-- Summary: Celimax Tranexamic Acid Dark Spot Cream: 4.9★ from 1,149 Olive Young Korea review records (95% five-star).
+- Summary: Celimax Tranexamic Acid Dark Spot Cream: 4.9★ from 1,149 K-beauty retail review records (95% five-star).
 - Rating: 4.9 / 5 from 1,149 reviews (5★ 95% · 4★ 4% · 3★ 1% · 2★ 0% · 1★ 0%)
 
-## Arencia Vitamin C Booster Shot: What 582 Olive Young Review Signals Show (2026)
+## Arencia Vitamin C Booster Shot: What 582 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/arencia-vitamin-c-booster-shot.html
 - Published: 2026-07-12
-- Summary: Arencia Vitamin C Booster Shot: 4.9★ from 582 Olive Young Korea review records (95% five-star).
+- Summary: Arencia Vitamin C Booster Shot: 4.9★ from 582 K-beauty retail review records (95% five-star).
 - Rating: 4.9 / 5 from 582 reviews (5★ 95% · 4★ 3% · 3★ 1% · 2★ 0% · 1★ 1%)
 
-## S.NATURE Aqua Squalane Moisture Cream: What 15,832 Olive Young Review Signals Show (2026)
+## S.NATURE Aqua Squalane Moisture Cream: What 15,832 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/s-nature-aqua-squalane-moisture-cream.html
 - Published: 2026-07-11
-- Summary: S.NATURE Aqua Squalane Moisture Cream: 4.8★ from 15,832 Olive Young Korea review records (86% five-star).
+- Summary: S.NATURE Aqua Squalane Moisture Cream: 4.8★ from 15,832 K-beauty retail review records (86% five-star).
 - Rating: 4.8 / 5 from 15,832 reviews (5★ 86% · 4★ 10% · 3★ 3% · 2★ 1% · 1★ 1%)
 
-## Aestura Atobarrier 365 Hydro Soothing Cream: What 11,903 Olive Young Review Signals Show (2026)
+## Aestura Atobarrier 365 Hydro Soothing Cream: What 11,903 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-hydro-soothing-cream.html
 - Published: 2026-07-10
-- Summary: Aestura Atobarrier 365 Hydro Soothing Cream: 4.8★ from 11,903 Olive Young Korea review records (88% five-star).
+- Summary: Aestura Atobarrier 365 Hydro Soothing Cream: 4.8★ from 11,903 K-beauty retail review records (88% five-star).
 - Rating: 4.8 / 5 from 11,903 reviews (5★ 88% · 4★ 9% · 3★ 2% · 2★ 0% · 1★ 1%)
 
-## Abib Hyaluronic Boom Cream Water Tube: What 189 Olive Young Review Signals Show (2026)
+## Abib Hyaluronic Boom Cream Water Tube: What 189 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/abib-hyaluronic-boom-cream-water-tube.html
 - Published: 2026-07-09
-- Summary: Abib Hyaluronic Boom Cream Water Tube: 5.0★ from 189 Olive Young Korea review records (99% five-star).
+- Summary: Abib Hyaluronic Boom Cream Water Tube: 5.0★ from 189 K-beauty retail review records (99% five-star).
 - Rating: 5.0 / 5 from 189 reviews (5★ 99% · 4★ 0% · 3★ 1% · 2★ 0% · 1★ 0%)
 
-## Abib Hyaluronic Boom Serum Waterdrop: What 182 Olive Young Review Signals Show (2026)
+## Abib Hyaluronic Boom Serum Waterdrop: What 182 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/abib-hyaluronic-boom-serum-waterdrop.html
 - Published: 2026-07-08
-- Summary: Abib Hyaluronic Boom Serum Waterdrop: 5.0★ from 182 Olive Young Korea review records (100% five-star).
+- Summary: Abib Hyaluronic Boom Serum Waterdrop: 5.0★ from 182 K-beauty retail review records (100% five-star).
 - Rating: 5.0 / 5 from 182 reviews (5★ 100% · 4★ 0% · 3★ 0% · 2★ 0% · 1★ 0%)
 
-## innisfree Retinol Cica Pore Ampoule: What 799 Olive Young Review Signals Show (2026)
+## innisfree Retinol Cica Pore Ampoule: What 799 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/innisfree-retinol-cica-pore-ampoule.html
 - Published: 2026-07-07
-- Summary: innisfree Retinol Cica Pore Ampoule: 5.0★ from 799 Olive Young Korea review records (97% five-star).
+- Summary: innisfree Retinol Cica Pore Ampoule: 5.0★ from 799 K-beauty retail review records (97% five-star).
 - Rating: 5.0 / 5 from 799 reviews (5★ 97% · 4★ 3% · 3★ 0% · 2★ 0% · 1★ 0%)
 
-## Aestura Atobarrier 365 Cream: What 35,090 Olive Young Review Signals Show (2026)
+## Aestura Atobarrier 365 Cream: What 35,090 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-cream.html
 - Published: 2026-07-06
-- Summary: Aestura Atobarrier 365 Cream: 4.9★ from 35,090 Olive Young Korea review records (90% five-star).
+- Summary: Aestura Atobarrier 365 Cream: 4.9★ from 35,090 K-beauty retail review records (90% five-star).
 - Rating: 4.9 / 5 from 35,090 reviews (5★ 90% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 1%)
 
-## La Roche-Posay Cicaplast Baume B5: What 24,566 Olive Young Review Signals Show (2026)
+## La Roche-Posay Cicaplast Baume B5: What 24,566 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html
 - Published: 2026-07-05
-- Summary: La Roche-Posay Cicaplast Baume B5: 4.8★ from 24,566 Olive Young Korea review records (86% five-star).
+- Summary: La Roche-Posay Cicaplast Baume B5: 4.8★ from 24,566 K-beauty retail review records (86% five-star).
 - Rating: 4.8 / 5 from 24,566 reviews (5★ 86% · 4★ 10% · 3★ 3% · 2★ 1% · 1★ 1%)
 
-## Wellage Real Hyaluronic Blue 100 Ampoule: What 8,455 Olive Young Review Signals Show (2026)
+## Wellage Real Hyaluronic Blue 100 Ampoule: What 8,455 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html
 - Published: 2026-07-04
-- Summary: Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 8,455 Olive Young Korea review records (89% five-star).
+- Summary: Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 8,455 K-beauty retail review records (89% five-star).
 - Rating: 4.8 / 5 from 8,455 reviews (5★ 89% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 0%)
 
-## Mediheal Madecassoside Blemish Repair Serum: What 41,856 Olive Young Review Signals Show (2026)
+## Mediheal Madecassoside Blemish Repair Serum: What 41,856 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/mediheal-madecassoside-blemish-repair-serum.html
 - Published: 2026-07-03
-- Summary: Mediheal Madecassoside Blemish Repair Serum: 4.7★ from 41,856 Olive Young Korea review records (82% five-star).
+- Summary: Mediheal Madecassoside Blemish Repair Serum: 4.7★ from 41,856 K-beauty retail review records (82% five-star).
 - Rating: 4.7 / 5 from 41,856 reviews (5★ 82% · 4★ 13% · 3★ 4% · 2★ 1% · 1★ 1%)
 
-## Anua PDRN Hyaluronic Acid Capsule Serum: What 19,105 Olive Young Review Signals Show (2026)
+## Anua PDRN Hyaluronic Acid Capsule Serum: What 19,105 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-capsule-serum.html
 - Published: 2026-07-02
-- Summary: Anua PDRN Hyaluronic Acid Capsule Serum: 4.8★ from 19,105 Olive Young Korea review records (84% five-star).
+- Summary: Anua PDRN Hyaluronic Acid Capsule Serum: 4.8★ from 19,105 K-beauty retail review records (84% five-star).
 - Rating: 4.8 / 5 from 19,105 reviews (5★ 84% · 4★ 10% · 3★ 4% · 2★ 1% · 1★ 1%)
 
-## Anua PDRN Hyaluronic Acid Hydra Capsule Mist: What 5,711 Olive Young Review Signals Show (2026)
+## Anua PDRN Hyaluronic Acid Hydra Capsule Mist: What 5,711 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-hydra-capsule-mist.html
 - Published: 2026-06-30
-- Summary: Anua PDRN Hyaluronic Acid Hydra Capsule Mist: 4.6★ from 5,711 Olive Young Korea review records (76% five-star).
+- Summary: Anua PDRN Hyaluronic Acid Hydra Capsule Mist: 4.6★ from 5,711 K-beauty retail review records (76% five-star).
 - Rating: 4.6 / 5 from 5,711 reviews (5★ 76% · 4★ 14% · 3★ 7% · 2★ 2% · 1★ 2%)
 
 ## Meta
