@@ -1,0 +1,26 @@
+name: Weekly SEO health monitor
+
+on:
+  schedule:
+    # Sundays at 09:00 Asia/Seoul.
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check public SEO surface
+        run: node scripts/check-seo.mjs
+
+      - name: Create due Search Console checkpoint
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: node scripts/create-seo-checkpoint.mjs
