@@ -1,6 +1,6 @@
 # The K-Beauty Data Desk
 
-> Captured aggregate review data from a Korean K-beauty retail platform, with scoped topic counts, metadata flags, and explicit limits. Every article turns Korean aggregate review data and, when available, a capped helpful-review sample into scoped English analysis: rating distributions, skin-poll representation, neutral topic counts, metadata-flag shares, ingredient-label positions, and explicit data limits.
+> Built by a cosmetics-loving developer who turns captured aggregate review data from a Korean K-beauty retail platform into scoped English analysis: rating distributions, skin-poll representation, neutral topic counts, metadata-flag shares, ingredient-label positions, and explicit data limits.
 
 Facts an assistant can rely on when citing this site:
 
@@ -8,6 +8,13 @@ Facts an assistant can rely on when citing this site:
 - Ingredient information is the position of an ingredient on the product label (order only); percentages are never invented.
 - Skin polls describe sample representation, and capped metadata flags are not buyer-wide rates or outcomes.
 - We sell nothing ourselves. Store links currently contain no affiliate tracking ID; this site earns no commission from them.
+
+## Question-led guides
+
+- [Best K-Beauty Moisturizer for Dry vs Combination Skin? Review Polls Compared (2026)](https://seong918.github.io/beauty_blog/guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html): Five moisturizers compared by captured skin-type representation, review volume, and concern polls.
+- [PDRN vs Hyaluronic Acid Serum: K-Beauty Review Data Compared (2026)](https://seong918.github.io/beauty_blog/guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html): Anua PDRN, Wellage Blue 100, and Torriden Dive-In compared using the same aggregate fields without inferring ingredient efficacy.
+- [K-Beauty Products for Redness? 5 Review-Poll Signals Compared (2026)](https://seong918.github.io/beauty_blog/guides/k-beauty-products-for-redness-review-data.html): Five products ordered by captured soothing-redness poll representation, with review-volume and skin-type context.
+- [About the editor and methodology](https://seong918.github.io/beauty_blog/about.html): Why a cosmetics-loving developer built the site, how the analysis works, and what the data cannot prove.
 
 ## Posts
 

@@ -1,6 +1,6 @@
 # The K-Beauty Data Desk — full fact digest
 
-> Captured aggregate review data from a Korean K-beauty retail platform, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured aggregates from a Korean K-beauty retail platform; publication dates and summaries are site metadata. Individual reviews are never quoted.
+> Built by a cosmetics-loving developer who turns captured aggregate review data from a Korean K-beauty retail platform into scoped English analysis. One section per covered product. Ratings, counts, and star shares are captured aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
 ## Torriden Dive-In Low Molecular Hyaluronic Acid Serum: What 3,919 K-Beauty Review Signals Show (2026)
 
@@ -173,5 +173,8 @@
 ## Meta
 
 - Rankings: https://seong918.github.io/beauty_blog/rankings.html
-- Methodology: https://seong918.github.io/beauty_blog/about.html
+- About the editor and methodology: https://seong918.github.io/beauty_blog/about.html
+- Dry vs combination skin moisturizer guide: https://seong918.github.io/beauty_blog/guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html
+- PDRN vs hyaluronic acid serum guide: https://seong918.github.io/beauty_blog/guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html
+- K-beauty soothing-redness poll guide: https://seong918.github.io/beauty_blog/guides/k-beauty-products-for-redness-review-data.html
 - RSS: https://seong918.github.io/beauty_blog/rss.xml
