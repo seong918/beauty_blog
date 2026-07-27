@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Bioderma Hydrabio Essence Lotion: What 9,621 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/bioderma-hydrabio-essence-lotion.html
+- Published: 2026-07-27
+- Summary: Bioderma Hydrabio Essence Lotion: 4.8★ from 9,621 Olive Young Korea review records (86% five-star).
+- Rating: 4.8 / 5 from 9,621 reviews (5★ 86% · 4★ 9% · 3★ 3% · 2★ 1% · 1★ 1%)
+
 ## Rejudex Derma Repairing Cream: What 1,534 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/rejudex-derma-repairing-cream.html
