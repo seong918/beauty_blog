@@ -1,4 +1,4 @@
-import { appendFileSync } from "node:fs";
+import { appendFileSync, writeFileSync } from "node:fs";
 
 const siteBase = "https://seong918.github.io/beauty_blog/";
 const sitemapUrl = `${siteBase}sitemap.xml`;
@@ -80,7 +80,7 @@ if (!keyFile.response.ok) {
 
 const passed = failures.length === 0;
 const summary = [
-  "# Weekly SEO health check",
+  "# SEO health check",
   "",
   `- Checked: ${new Date().toISOString()}`,
   `- Sitemap URLs: ${urls.length}`,
@@ -94,6 +94,9 @@ const summary = [
 ].join("\n");
 
 console.log(summary);
+if (process.env.SEO_REPORT_PATH) {
+  writeFileSync(process.env.SEO_REPORT_PATH, summary);
+}
 if (process.env.GITHUB_STEP_SUMMARY) {
   appendFileSync(process.env.GITHUB_STEP_SUMMARY, summary);
 }

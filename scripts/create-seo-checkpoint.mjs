@@ -1,7 +1,13 @@
+import { existsSync, readFileSync } from "node:fs";
+
 const token = process.env.GITHUB_TOKEN;
 const repository = process.env.GITHUB_REPOSITORY;
 const dryRun = process.env.DRY_RUN === "1";
 const now = new Date(process.env.SEO_CHECKPOINT_NOW || Date.now());
+const reportPath = process.env.SEO_REPORT_PATH;
+const technicalReport = reportPath && existsSync(reportPath)
+  ? readFileSync(reportPath, "utf8").trim()
+  : "The public technical SEO report was not generated. Review the workflow run logs.";
 
 if (!repository) {
   throw new Error("GITHUB_REPOSITORY is required.");
@@ -11,6 +17,11 @@ if (!dryRun && !token) {
 }
 
 const checkpoints = [
+  {
+    date: "2026-07-27T23:00:00Z",
+    title: "[SEO check] 2026-07-28 08:00 KST result",
+    period: "next-day",
+  },
   {
     date: "2026-08-09T00:00:00Z",
     title: "[SEO checkpoint] 2-week Search Console review",
@@ -50,6 +61,12 @@ for (const checkpoint of checkpoints) {
   const body = [
     `This is the scheduled ${checkpoint.period} SEO checkpoint for The K-Beauty Data Desk.`,
     "",
+    technicalReport,
+    "",
+    "## Authenticated dashboard follow-up",
+    "",
+    "GitHub Actions cannot access the signed-in Google Search Console or Bing Webmaster Tools sessions. Check these dashboard values separately:",
+    "",
     "Record the current values before changing titles or publishing more templated pages:",
     "",
     "- [ ] Google sitemap status and discovered-page count",
@@ -61,7 +78,7 @@ for (const checkpoint of checkpoints) {
     "- [ ] Referring domains or meaningful referral traffic",
     "- [ ] Decisions for the next two weeks",
     "",
-    "Baseline (2026-07-26): Google reported 1 indexed page in a delayed report; the homepage and three guides were submitted to the priority crawl queue. Bing successfully discovered 36 sitemap URLs.",
+    "Baseline (2026-07-27): the public sitemap contained 38 valid URLs, Google had indexed the homepage while the resubmitted sitemap was still processing, and Bing IndexNow accepted all 38 URLs.",
   ].join("\n");
 
   if (dryRun) {
