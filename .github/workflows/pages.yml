@@ -31,10 +31,11 @@ jobs:
         run: |
           node scripts/normalize-public-seo.mjs --apply
           node scripts/validate-public-seo.mjs
+          node scripts/prepare-pages.mjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: .pages-artifact
       - id: deployment
         uses: actions/deploy-pages@v4
       - name: Notify IndexNow

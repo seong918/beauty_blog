@@ -36,9 +36,10 @@ const canonicalUrls = sitemapUrls();
 const canonicalSet = new Set(canonicalUrls);
 const files = changedFiles();
 const firstInstall = files.includes(keyFile);
+const sitemapChanged = files.includes("sitemap.xml");
 
 let urlList;
-if (files.includes("__all__") || firstInstall) {
+if (files.includes("__all__") || firstInstall || sitemapChanged) {
   urlList = canonicalUrls;
 } else {
   urlList = files
