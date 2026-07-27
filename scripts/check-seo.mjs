@@ -6,6 +6,12 @@ const robotsUrl = `${siteBase}robots.txt`;
 const indexNowKey = "657e42510cc5b092fc829b89f467d66e";
 const indexNowKeyUrl = `${siteBase}${indexNowKey}.txt`;
 const headers = { "user-agent": "KBeautyDataDesk-SEOMonitor/1.0" };
+const forbiddenSource = new RegExp(["olive", "young"].join("[\\s_-]*"), "i");
+const requiredGuideUrls = [
+  `${siteBase}guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html`,
+  `${siteBase}guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html`,
+  `${siteBase}guides/k-beauty-products-for-redness-review-data.html`,
+];
 
 async function fetchText(url) {
   const response = await fetch(url, { headers, redirect: "follow" });
@@ -21,6 +27,11 @@ if (!sitemap.response.ok) {
 const urls = [...sitemap.text.matchAll(/<loc>([^<]+)<\/loc>/g)].map((match) => match[1]);
 if (urls.length === 0) {
   failures.push("The sitemap contains no <loc> URLs.");
+}
+for (const guideUrl of requiredGuideUrls) {
+  if (!urls.includes(guideUrl)) {
+    failures.push(`The sitemap is missing the evergreen guide: ${guideUrl}`);
+  }
 }
 
 const pageResults = await Promise.all(
@@ -48,7 +59,7 @@ for (const result of pageResults) {
   if (/<meta[^>]+name=["']robots["'][^>]+content=["'][^"']*noindex/i.test(result.text)) {
     failures.push(`${result.url} contains a noindex directive.`);
   }
-  if (/Olive Young|olive-young/i.test(result.text)) {
+  if (forbiddenSource.test(result.text)) {
     failures.push(`${result.url} exposes source-retailer wording that should stay generic.`);
   }
 }
