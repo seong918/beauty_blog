@@ -2,6 +2,7 @@ import { appendFileSync, writeFileSync } from "node:fs";
 
 const siteBase = "https://seong918.github.io/beauty_blog/";
 const sitemapUrl = `${siteBase}sitemap.xml`;
+const textSitemapUrl = `${siteBase}sitemap.txt`;
 const robotsUrl = `${siteBase}robots.txt`;
 const indexNowKey = "657e42510cc5b092fc829b89f467d66e";
 const indexNowKeyUrl = `${siteBase}${indexNowKey}.txt`;
@@ -32,6 +33,20 @@ for (const guideUrl of requiredGuideUrls) {
   if (!urls.includes(guideUrl)) {
     failures.push(`The sitemap is missing the evergreen guide: ${guideUrl}`);
   }
+}
+
+const textSitemap = await fetchText(textSitemapUrl);
+const textSitemapUrls = textSitemap.text
+  .split(/\r?\n/)
+  .map((url) => url.trim())
+  .filter(Boolean);
+const textSitemapMatches = textSitemap.response.ok
+  && textSitemapUrls.length === urls.length
+  && textSitemapUrls.every((url, index) => url === urls[index]);
+if (!textSitemap.response.ok) {
+  failures.push(`${textSitemapUrl} returned HTTP ${textSitemap.response.status}`);
+} else if (!textSitemapMatches) {
+  failures.push("The text sitemap does not match sitemap.xml.");
 }
 
 const pageResults = await Promise.all(
@@ -69,6 +84,8 @@ if (!robots.response.ok) {
   failures.push(`${robotsUrl} returned HTTP ${robots.response.status}`);
 } else if (!robots.text.includes(`Sitemap: ${sitemapUrl}`)) {
   failures.push("robots.txt does not declare the canonical sitemap URL.");
+} else if (!robots.text.includes(`Sitemap: ${textSitemapUrl}`)) {
+  failures.push("robots.txt does not declare the text sitemap fallback URL.");
 }
 
 const keyFile = await fetchText(indexNowKeyUrl);
@@ -84,8 +101,9 @@ const summary = [
   "",
   `- Checked: ${new Date().toISOString()}`,
   `- Sitemap URLs: ${urls.length}`,
+  `- Text sitemap mirror: ${textSitemapMatches ? "OK" : "FAIL"}`,
   `- Pages returning HTTP 200: ${pageResults.filter((result) => result.status === 200).length}/${urls.length}`,
-  `- robots.txt sitemap declaration: ${robots.response.ok && robots.text.includes(`Sitemap: ${sitemapUrl}`) ? "OK" : "FAIL"}`,
+  `- robots.txt sitemap declarations: ${robots.response.ok && robots.text.includes(`Sitemap: ${sitemapUrl}`) && robots.text.includes(`Sitemap: ${textSitemapUrl}`) ? "OK" : "FAIL"}`,
   `- IndexNow key file: ${keyFile.response.ok && keyFile.text.trim() === indexNowKey ? "OK" : "FAIL"}`,
   `- Result: ${passed ? "PASS" : "FAIL"}`,
   "",

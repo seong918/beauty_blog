@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
 import { join, relative } from "node:path";
 
 const siteBase = "https://seong918.github.io/beauty_blog/";
@@ -207,8 +207,9 @@ function rebuildSitemap(files) {
     "</urlset>",
     "",
   ].join("\n");
+  const text = `${urls.join("\n")}\n`;
 
-  return { xml, count: urls.length };
+  return { xml, text, count: urls.length };
 }
 
 const files = publicFiles();
@@ -234,6 +235,11 @@ const oldSitemap = readFileSync("sitemap.xml", "utf8");
 if (oldSitemap !== sitemap.xml) {
   changed.push("sitemap.xml");
   if (applyChanges) writeFileSync("sitemap.xml", sitemap.xml);
+}
+const oldTextSitemap = existsSync("sitemap.txt") ? readFileSync("sitemap.txt", "utf8") : "";
+if (oldTextSitemap !== sitemap.text) {
+  changed.push("sitemap.txt");
+  if (applyChanges) writeFileSync("sitemap.txt", sitemap.text);
 }
 
 if (changed.length > 0 && !applyChanges) {

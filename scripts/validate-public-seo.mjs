@@ -48,6 +48,16 @@ const sitemapSet = new Set(sitemapUrls);
 if (sitemapSet.size !== sitemapUrls.length) {
   failures.push("sitemap.xml contains duplicate URLs.");
 }
+const textSitemapUrls = readFileSync("sitemap.txt", "utf8")
+  .split(/\r?\n/)
+  .map((url) => url.trim())
+  .filter(Boolean);
+if (
+  textSitemapUrls.length !== sitemapUrls.length
+  || textSitemapUrls.some((url, index) => url !== sitemapUrls[index])
+) {
+  failures.push("sitemap.txt does not match the canonical URLs in sitemap.xml.");
+}
 
 const expectedCanonicals = new Set();
 for (const file of files.filter((path) => path.endsWith(".html") && path !== "404.html")) {
