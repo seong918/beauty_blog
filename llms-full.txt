@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Estra Atobarrier 365 Cream: What 7,040 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/estra-atobarrier-365-cream.html
+- Published: 2026-07-31
+- Summary: Estra Atobarrier 365 Cream: 4.8★ from 7,040 Olive Young Korea review records (89% five-star).
+- Rating: 4.8 / 5 from 7,040 reviews (5★ 89% · 4★ 8% · 3★ 2% · 2★ 1% · 1★ 1%)
+
 ## Medicube Zero Pore One Day Peptide Serum: What 295 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/medicube-zero-pore-one-day-peptide-serum.html
