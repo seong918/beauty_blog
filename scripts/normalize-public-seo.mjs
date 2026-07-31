@@ -29,6 +29,10 @@ const guideLinks = [
   },
 ];
 const forbiddenSource = new RegExp(["olive", "young"].join("[\\s_-]*"), "i");
+const requiredSitemapDeclarations = [
+  `Sitemap: ${siteBase}sitemap.xml`,
+  `Sitemap: ${siteBase}sitemap.txt`,
+];
 
 function walk(directory) {
   return readdirSync(directory)
@@ -141,6 +145,24 @@ function ensureAboutProfile(content) {
   return content;
 }
 
+function normalizeRobots(content) {
+  const required = new Set(requiredSitemapDeclarations);
+  const lines = content
+    .trimEnd()
+    .split(/\r?\n/)
+    .filter((line) => !required.has(line.trim()));
+  const guideIndex = lines.findIndex((line) => line.startsWith("# LLM guide:"));
+
+  if (guideIndex >= 0) {
+    lines.splice(guideIndex, 0, ...requiredSitemapDeclarations);
+  } else {
+    if (lines.at(-1) !== "") lines.push("");
+    lines.push(...requiredSitemapDeclarations);
+  }
+
+  return `${lines.join("\n")}\n`;
+}
+
 function canonicalFromHtml(content) {
   return content.match(/<link[^>]+rel=["']canonical["'][^>]+href=["']([^"']+)["']/i)?.[1]
     ?? content.match(/<link[^>]+href=["']([^"']+)["'][^>]+rel=["']canonical["']/i)?.[1]
@@ -240,6 +262,12 @@ const oldTextSitemap = existsSync("sitemap.txt") ? readFileSync("sitemap.txt", "
 if (oldTextSitemap !== sitemap.text) {
   changed.push("sitemap.txt");
   if (applyChanges) writeFileSync("sitemap.txt", sitemap.text);
+}
+const oldRobots = readFileSync("robots.txt", "utf8");
+const normalizedRobots = normalizeRobots(oldRobots);
+if (oldRobots !== normalizedRobots) {
+  changed.push("robots.txt");
+  if (applyChanges) writeFileSync("robots.txt", normalizedRobots);
 }
 
 if (changed.length > 0 && !applyChanges) {

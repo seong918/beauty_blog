@@ -19,6 +19,10 @@ const requiredGuides = [
   "guides/k-beauty-products-for-redness-review-data.html",
 ];
 const forbiddenSource = new RegExp(["olive", "young"].join("[\\s_-]*"), "i");
+const requiredSitemapDeclarations = [
+  `Sitemap: ${siteBase}sitemap.xml`,
+  `Sitemap: ${siteBase}sitemap.txt`,
+];
 
 function walk(directory) {
   return readdirSync(directory)
@@ -57,6 +61,16 @@ if (
   || textSitemapUrls.some((url, index) => url !== sitemapUrls[index])
 ) {
   failures.push("sitemap.txt does not match the canonical URLs in sitemap.xml.");
+}
+
+const robotsLines = readFileSync("robots.txt", "utf8")
+  .split(/\r?\n/)
+  .map((line) => line.trim());
+for (const declaration of requiredSitemapDeclarations) {
+  const count = robotsLines.filter((line) => line === declaration).length;
+  if (count !== 1) {
+    failures.push(`robots.txt must contain exactly one declaration: ${declaration}`);
+  }
 }
 
 const expectedCanonicals = new Set();
