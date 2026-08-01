@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Paula's Choice BHA Liquid Exfoliant: What 832 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/paula-s-choice-bha-liquid-exfoliant.html
+- Published: 2026-08-01
+- Summary: Paula's Choice BHA Liquid Exfoliant: 4.8★ from 832 Olive Young Korea review records (85% five-star).
+- Rating: 4.8 / 5 from 832 reviews (5★ 85% · 4★ 9% · 3★ 4% · 2★ 1% · 1★ 1%)
+
 ## Estra Atobarrier 365 Cream: What 7,040 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/estra-atobarrier-365-cream.html
