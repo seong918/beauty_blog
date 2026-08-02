@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [Ongredients Bakuglow Capsule Lotion: What 2,131 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/ongredients-bakuglow-capsule-lotion.html): Ongredients Bakuglow Capsule Lotion: 5.0★ from 2,131 Olive Young Korea review records (99% five-star). (published 2026-08-02)
 - [Paula's Choice BHA Liquid Exfoliant: What 832 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/paula-s-choice-bha-liquid-exfoliant.html): Paula's Choice BHA Liquid Exfoliant: 4.8★ from 832 Olive Young Korea review records (85% five-star). (published 2026-08-01)
 - [Estra Atobarrier 365 Cream: What 7,040 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/estra-atobarrier-365-cream.html): Estra Atobarrier 365 Cream: 4.8★ from 7,040 Olive Young Korea review records (89% five-star). (published 2026-07-31)
 - [Medicube Zero Pore One Day Peptide Serum: What 295 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/medicube-zero-pore-one-day-peptide-serum.html): Medicube Zero Pore One Day Peptide Serum: 4.8★ from 295 Olive Young Korea review records (86% five-star). (published 2026-07-30)
@@ -40,7 +41,6 @@ Facts an assistant can rely on when citing this site:
 - [La Roche-Posay Cicaplast Baume B5: What 24,566 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html): La Roche-Posay Cicaplast Baume B5: 4.8★ from 24,566 Olive Young Korea review records (86% five-star). (published 2026-07-05)
 - [Wellage Real Hyaluronic Blue 100 Ampoule: What 8,455 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html): Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 8,455 Olive Young Korea review records (89% five-star). (published 2026-07-04)
 - [Mediheal Madecassoside Blemish Repair Serum: What 41,856 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/mediheal-madecassoside-blemish-repair-serum.html): Mediheal Madecassoside Blemish Repair Serum: 4.7★ from 41,856 Olive Young Korea review records (82% five-star). (published 2026-07-03)
-- [Anua PDRN Hyaluronic Acid Capsule Serum: What 19,105 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-capsule-serum.html): Anua PDRN Hyaluronic Acid Capsule Serum: 4.8★ from 19,105 Olive Young Korea review records (84% five-star). (published 2026-07-02)
 
 ## Comparisons (same-methodology head-to-heads)
 
