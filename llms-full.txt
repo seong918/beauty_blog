@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Wellage Real Hyaluronic Blue 100 Ampoule: What 17,536 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html
+- Published: 2026-08-04
+- Summary: Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 17,536 Olive Young Korea review records (89% five-star).
+- Rating: 4.8 / 5 from 17,536 reviews (5★ 89% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 0%)
+
 ## numbuzin No.1 Pantothenic Acid Skincare 100 Blur Powder: What 14,339 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/numbuzin-no-1-pantothenic-acid-skincare-100-blur-powder.html
@@ -182,12 +189,6 @@
 - URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html
 - Published: 2026-07-05
 - Summary: La Roche-Posay Cicaplast Baume B5: 4.8★ from 24,566 Olive Young Korea review records (86% five-star).
-
-## Wellage Real Hyaluronic Blue 100 Ampoule: What 8,455 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html
-- Published: 2026-07-04
-- Summary: Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 8,455 Olive Young Korea review records (89% five-star).
 
 ## Mediheal Madecassoside Blemish Repair Serum: What 41,856 Olive Young Review Signals Show (2026)
 
