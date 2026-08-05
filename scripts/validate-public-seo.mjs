@@ -16,6 +16,7 @@ const publicRootFiles = [
 const requiredGuides = [
   "guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html",
   "guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html",
+  "guides/anua-vs-medicube-pdrn-serum-review-data.html",
   "guides/k-beauty-products-for-redness-review-data.html",
 ];
 const forbiddenSource = new RegExp(["olive", "young"].join("[\\s_-]*"), "i");

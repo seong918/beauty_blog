@@ -24,6 +24,10 @@ const guideLinks = [
     label: "PDRN vs hyaluronic acid serum: what does the data say?",
   },
   {
+    href: "guides/anua-vs-medicube-pdrn-serum-review-data.html",
+    label: "Anua vs Medicube PDRN serum: which review signals differ?",
+  },
+  {
     href: "guides/k-beauty-products-for-redness-review-data.html",
     label: "Which K-beauty products have the strongest soothing-redness poll signals?",
   },
@@ -138,7 +142,7 @@ function ensureAboutProfile(content) {
   );
 
   if (!content.includes("guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html")) {
-    const guideSection = `<h2>Start with a question</h2><p>Try the <a href="guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html">dry vs combination skin moisturizer guide</a>, the <a href="guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html">PDRN vs hyaluronic acid data guide</a>, or the <a href="guides/k-beauty-products-for-redness-review-data.html">soothing-redness review-poll guide</a>.</p>`;
+    const guideSection = `<h2>Start with a question</h2><p>Try the <a href="guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html">dry vs combination skin moisturizer guide</a>, the <a href="guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html">PDRN vs hyaluronic acid data guide</a>, the <a href="guides/anua-vs-medicube-pdrn-serum-review-data.html">Anua vs Medicube PDRN comparison</a>, or the <a href="guides/k-beauty-products-for-redness-review-data.html">soothing-redness review-poll guide</a>.</p>`;
     content = content.replace(/<h2>Affiliate disclosure<\/h2>/i, `${guideSection}<h2>Affiliate disclosure</h2>`);
   }
 
