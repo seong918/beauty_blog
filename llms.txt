@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [Kirin Please Wait a Moment: What 75 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/kirin-please-wait-a-moment.html): Kirin Please Wait a Moment: 4.9★ from 75 Olive Young Korea review records (93% five-star). (published 2026-08-08)
 - [Wellage Real Hyaluronic Blue 100 Ampoule: What 17,536 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html): Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 17,536 Olive Young Korea review records (89% five-star). (published 2026-08-04)
 - [numbuzin No.1 Pantothenic Acid Skincare 100 Blur Powder: What 14,339 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/numbuzin-no-1-pantothenic-acid-skincare-100-blur-powder.html): numbuzin No.1 Pantothenic Acid Skincare 100 Blur Powder: 4.8★ from 14,339 Olive Young Korea review records (85% five-star). (published 2026-08-03)
 - [Ongredients Bakuglow Capsule Lotion: What 2,131 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/ongredients-bakuglow-capsule-lotion.html): Ongredients Bakuglow Capsule Lotion: 5.0★ from 2,131 Olive Young Korea review records (99% five-star). (published 2026-08-02)
@@ -40,7 +41,6 @@ Facts an assistant can rely on when citing this site:
 - [Abib Hyaluronic Boom Serum Waterdrop: What 182 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/abib-hyaluronic-boom-serum-waterdrop.html): Abib Hyaluronic Boom Serum Waterdrop: 5.0★ from 182 Olive Young Korea review records (100% five-star). (published 2026-07-08)
 - [innisfree Retinol Cica Pore Ampoule: What 799 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/innisfree-retinol-cica-pore-ampoule.html): innisfree Retinol Cica Pore Ampoule: 5.0★ from 799 Olive Young Korea review records (97% five-star). (published 2026-07-07)
 - [Aestura Atobarrier 365 Cream: What 35,090 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-cream.html): Aestura Atobarrier 365 Cream: 4.9★ from 35,090 Olive Young Korea review records (90% five-star). (published 2026-07-06)
-- [La Roche-Posay Cicaplast Baume B5: What 24,566 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html): La Roche-Posay Cicaplast Baume B5: 4.8★ from 24,566 Olive Young Korea review records (86% five-star). (published 2026-07-05)
 
 ## Comparisons (same-methodology head-to-heads)
 
@@ -49,13 +49,6 @@ Facts an assistant can rely on when citing this site:
 - [Abib Hyaluronic Boom Serum Waterdrop vs Cream Water Tube](https://seong918.github.io/beauty_blog/compare/abib-hyaluronic-boom-serum-vs-cream.html)
 - [Anua PDRN vs Wellage Blue 100 vs Abib Boom: Serum/Ampoule Data Compared](https://seong918.github.io/beauty_blog/compare/best-hydrating-serum-anua-vs-wellage-vs-abib.html)
 - [Aestura Atobarrier 365 Cream vs Hydro Soothing Cream](https://seong918.github.io/beauty_blog/compare/aestura-atobarrier-365-cream-vs-hydro-soothing-cream.html)
-
-## Question-led guides
-
-- [Anua vs Medicube PDRN Serum: Review Data Compared](https://seong918.github.io/beauty_blog/guides/anua-vs-medicube-pdrn-serum-review-data.html): A matched-field comparison across 44,540 aggregate ratings, skin-type polls, concern shares, and capped-sample flags.
-- [PDRN vs Hyaluronic Acid Serum: What the Review Data Can Say](https://seong918.github.io/beauty_blog/guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html)
-- [Best K-Beauty Moisturizer for Dry vs Combination Skin](https://seong918.github.io/beauty_blog/guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html)
-- [K-Beauty Products for Redness: Review-Poll Data](https://seong918.github.io/beauty_blog/guides/k-beauty-products-for-redness-review-data.html)
 
 ## Meta
 
