@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Analysis of 322,854 displayed review records across 34 K-beauty product snapshots: rating distribution, sample-size effects, and reusable CSV data.">
+  <link rel="canonical" href="https://seong918.github.io/beauty_blog/guides/k-beauty-review-rating-distribution-2026.html">
+  <link rel="icon" type="image/svg+xml" href="https://seong918.github.io/beauty_blog/assets/favicon.svg"><link rel="alternate" type="application/rss+xml" href="https://seong918.github.io/beauty_blog/rss.xml">
+  <meta property="og:type" content="article"><meta property="og:site_name" content="The K-Beauty Data Desk"><meta property="og:title" content="K-Beauty Rating Distribution: 322,854 Review Records (2026)">
+  <meta property="og:description" content="Why a 5.0 average can carry less information than a 4.8: original analysis of 34 captured K-beauty product snapshots.">
+  <meta property="og:url" content="https://seong918.github.io/beauty_blog/guides/k-beauty-review-rating-distribution-2026.html"><meta property="og:image" content="https://seong918.github.io/beauty_blog/assets/og-card.png"><meta property="og:locale" content="en_US">
+  <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="K-Beauty Ratings Are Compressed: 322,854 Records"><meta name="twitter:description" content="34 product snapshots, one narrow 4.6–5.0 rating band, and a large sample-size gap."><meta name="twitter:image" content="https://seong918.github.io/beauty_blog/assets/og-card.png">
+  <meta name="robots" content="max-image-preview:large, max-snippet:-1"><title>K-Beauty Rating Distribution: 322,854 Review Records (2026)</title>
+  <style>body{max-width:860px;margin:0 auto;padding:48px 20px 90px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans KR',sans-serif;line-height:1.68;color:#23251c;background:#fff}h1{font-size:34px;line-height:1.18;letter-spacing:-.025em;margin-bottom:.3em}h2{margin-top:2.1em}h3{margin-top:1.5em}a{color:#5c6b34;text-decoration:none}a:hover{text-decoration:underline}.tag{color:#666;font-size:17px;margin:0 0 1.4em}.byline,.note{font-size:13px;color:#71756c}.answer{background:#f3f7eb;border:1px solid #d8e4c2;border-radius:12px;padding:15px 17px;margin:1.4em 0}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:1.4em 0}.stat{border:1px solid #e2e5db;border-radius:10px;padding:13px;background:#fafbf7}.stat b{display:block;font-size:24px;line-height:1.15;color:#43522e}.stat span{font-size:12px;color:#666}.chart{border:1px solid #e4e3da;border-radius:12px;padding:16px 18px;margin:1.3em 0}.barrow{display:grid;grid-template-columns:46px 1fr 76px;gap:10px;align-items:center;margin:10px 0}.track{height:18px;background:#ecefe6;border-radius:9px;overflow:hidden}.fill{height:100%;background:#71864f;border-radius:9px}.tablewrap{overflow-x:auto;margin:1.3em 0}table{border-collapse:collapse;width:100%;min-width:700px;font-size:14px}th,td{border:1px solid #e4e3da;padding:9px 10px;text-align:left;vertical-align:top}th{background:#f7f8f2}.callout{background:#faf7ef;border-left:4px solid #aa8c52;padding:11px 14px;margin:1.25em 0}.cite{border:1px dashed #9aa584;border-radius:10px;padding:14px 16px;background:#fbfcf8}.download{display:inline-block;background:#5c6b34;color:white;padding:9px 13px;border-radius:8px;font-weight:650}.download:hover{color:white;text-decoration:none;background:#48552a}footer{margin-top:3em;padding-top:1.4em;border-top:1px solid #eee;color:#777;font-size:13px}@media(max-width:700px){.stats{grid-template-columns:1fr 1fr}h1{font-size:30px}}@media(max-width:420px){.stats{grid-template-columns:1fr}.barrow{grid-template-columns:42px 1fr 66px}}</style>
+  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://seong918.github.io/beauty_blog/guides/k-beauty-review-rating-distribution-2026.html#article","url":"https://seong918.github.io/beauty_blog/guides/k-beauty-review-rating-distribution-2026.html","headline":"K-Beauty Rating Distribution: 322,854 Review Records (2026)","description":"Original analysis of rating compression and sample-size differences across 34 captured K-beauty product snapshots.","datePublished":"2026-08-09","dateModified":"2026-08-09","inLanguage":"en-US","author":{"@id":"https://seong918.github.io/beauty_blog/#editor"},"publisher":{"@id":"https://seong918.github.io/beauty_blog/#org"},"isPartOf":{"@id":"https://seong918.github.io/beauty_blog/#website"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://seong918.github.io/beauty_blog/guides/k-beauty-review-rating-distribution-2026.html"},"image":"https://seong918.github.io/beauty_blog/assets/og-card.png"},{"@type":"Dataset","@id":"https://seong918.github.io/beauty_blog/guides/k-beauty-review-rating-distribution-2026.html#dataset","name":"K-Beauty Product Snapshot Rating Distribution, 2026","description":"Average rating, displayed review-record count, five-star share, and capture date for 34 K-beauty product-page snapshots.","url":"https://seong918.github.io/beauty_blog/guides/k-beauty-review-rating-distribution-2026.html","datePublished":"2026-08-09","creator":{"@id":"https://seong918.github.io/beauty_blog/#editor"},"license":"https://creativecommons.org/licenses/by/4.0/","distribution":{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://seong918.github.io/beauty_blog/assets/data/k-beauty-review-rating-distribution-2026.csv"},"variableMeasured":["average rating","displayed review-record count","five-star share","capture date"]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why do the captured K-beauty ratings look so high?","acceptedAnswer":{"@type":"Answer","text":"All 34 captured averages fall between 4.6 and 5.0. The narrow range means a one-decimal headline score carries limited separation, especially when review bases differ sharply."}},{"@type":"Question","name":"Is a 5.0 product always better than a 4.8 product?","acceptedAnswer":{"@type":"Answer","text":"No. In this captured set, none of the 18 snapshots with at least 5,000 displayed review records averages 5.0, while every 5.0 snapshot has fewer than 5,000 records. Sample size and distribution matter alongside the rounded average."}},{"@type":"Question","name":"Are 322,854 review records the same as 322,854 verified buyers?","acceptedAnswer":{"@type":"Answer","text":"No. The total is the sum of displayed aggregate review-record counts across captured product pages. It does not establish unique people, verified purchase status, or independent product outcomes."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://seong918.github.io/beauty_blog/"},{"@type":"ListItem","position":2,"name":"K-beauty rating distribution report","item":"https://seong918.github.io/beauty_blog/guides/k-beauty-review-rating-distribution-2026.html"}]}]}</script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WC42SVESY5"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-WC42SVESY5')</script>
+</head>
+<body>
+  <h1>K-Beauty Ratings Are Compressed: 322,854 Review Records Across 34 Product Snapshots</h1>
+  <p class="tag">A descriptive 2026 data report on what rounded star averages hide—and why sample size belongs beside every rating.</p>
+  <p class="byline">By <a href="../about.html">The K-Beauty Data Desk editor</a>, a cosmetics-loving developer · Published 2026-08-09 · Data captured 2026-06-30 through 2026-08-08</p>
+
+  <div class="answer"><b>Headline finding:</b> every captured product average sits inside a narrow 4.6–5.0 band, even though displayed review bases range from 1 to 41,856 records. Seven snapshots show a rounded 5.0 average; all have fewer than 5,000 displayed records, and five have fewer than 1,000. A headline rating without its sample size can therefore look more decisive than the underlying evidence.</div>
+
+  <div class="stats" aria-label="Key findings">
+    <div class="stat"><b>322,854</b><span>displayed review records summed</span></div>
+    <div class="stat"><b>34</b><span>captured product-page snapshots</span></div>
+    <div class="stat"><b>4.6–5.0</b><span>full average-rating range</span></div>
+    <div class="stat"><b>95.1%</b><span>of records in 18 snapshots with 5k+</span></div>
+  </div>
+
+  <p><a class="download" href="../assets/data/k-beauty-review-rating-distribution-2026.csv" download>Download the 34-row CSV</a></p>
+  <p class="note">The CSV contains product name, article URL, capture date, rounded average rating, displayed review-record count, and five-star share. It is provided to make the calculations reproducible and easier to cite.</p>
+
+  <h2>Rating distribution: 82% of snapshots are 4.8 or higher</h2>
+  <div class="chart" role="img" aria-label="Distribution of 34 captured average ratings: one at 4.6, five at 4.7, fourteen at 4.8, seven at 4.9, and seven at 5.0">
+    <div class="barrow"><b>4.6</b><div class="track"><div class="fill" style="width:7.1%"></div></div><span>1 · 2.9%</span></div>
+    <div class="barrow"><b>4.7</b><div class="track"><div class="fill" style="width:35.7%"></div></div><span>5 · 14.7%</span></div>
+    <div class="barrow"><b>4.8</b><div class="track"><div class="fill" style="width:100%"></div></div><span>14 · 41.2%</span></div>
+    <div class="barrow"><b>4.9</b><div class="track"><div class="fill" style="width:50%"></div></div><span>7 · 20.6%</span></div>
+    <div class="barrow"><b>5.0</b><div class="track"><div class="fill" style="width:50%"></div></div><span>7 · 20.6%</span></div>
+  </div>
+  <p>The median captured average is 4.8. The simple mean across the 34 snapshots is 4.84, while the review-volume-weighted mean is lower at 4.78. That difference is descriptive, not proof of a platform effect: smaller snapshots happen to carry more of the rounded 4.9 and 5.0 scores in this selected dataset.</p>
+  <p>When the per-page star shares are approximately pooled using each displayed review count, the distribution is 85.5% five-star, 9.9% four-star, 3.2% three-star, 0.7% two-star, and 0.9% one-star. These are approximate because each source page rounds its displayed star shares to whole percentages, so the reconstructed shares do not sum perfectly.</p>
+
+  <h2>The clearest split appears when review bases are grouped</h2>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Displayed review base</th><th>Snapshots</th><th>Records summed</th><th>Share of all records</th><th>Mean rating</th><th>Mean five-star share</th><th>5.0 averages</th></tr></thead>
+    <tbody>
+      <tr><td>5,000 or more</td><td>18</td><td>307,022</td><td>95.1%</td><td>4.77</td><td>85.0%</td><td>0</td></tr>
+      <tr><td>500–4,999</td><td>9</td><td>14,898</td><td>4.6%</td><td>4.91</td><td>93.1%</td><td>3</td></tr>
+      <tr><td>Fewer than 500</td><td>7</td><td>934</td><td>0.3%</td><td>4.94</td><td>95.4%</td><td>4</td></tr>
+    </tbody>
+  </table></div>
+  <p>The seven snapshots below 500 records contribute only 0.3% of the combined review-record total, yet they contain four of the seven rounded 5.0 averages. The 18 snapshots with at least 5,000 records contribute 95.1% of all records and contain no 5.0 average.</p>
+  <div class="callout"><b>What this does not mean:</b> a lower-volume product is worse, manipulated, or unreliable. It means a rounded average has less context when fewer ratings sit underneath it. Formula, audience, launch timing, promotion, and who chooses to review can all differ.</div>
+
+  <h2>Review attention is highly concentrated</h2>
+  <p>The five largest snapshots account for 46.1% of all displayed review records. The largest ten account for 72.4%. By contrast, the bottom ten together account for just 0.97%.</p>
+  <p>That concentration matters when people compare products using only star averages. A 0.1-point difference can sit beside a hundred-fold or thousand-fold difference in review base. The score answers “what is the rounded average?”; the count answers “how much displayed rating history sits behind it?” Neither one establishes efficacy.</p>
+
+  <h2>Seven perfect-looking averages, seven very different contexts</h2>
+  <div class="tablewrap"><table>
+    <thead><tr><th>Captured product snapshot</th><th>Average</th><th>Displayed records</th><th>Five-star share</th></tr></thead>
+    <tbody>
+      <tr><td><a href="../posts/ongredients-bakuglow-capsule-lotion.html">Ongredients Bakuglow Capsule Lotion</a></td><td>5.0</td><td>2,131</td><td>99%</td></tr>
+      <tr><td><a href="../posts/dr-g-red-blemish-clear-soothing-cream-ex.html">Dr.G Red Blemish Clear Soothing Cream EX</a></td><td>5.0</td><td>1,946</td><td>98%</td></tr>
+      <tr><td><a href="../posts/innisfree-retinol-cica-pore-ampoule.html">innisfree Retinol Cica Pore Ampoule</a></td><td>5.0</td><td>799</td><td>97%</td></tr>
+      <tr><td><a href="../posts/abib-hyaluronic-boom-cream-water-tube.html">Abib Hyaluronic Boom Cream Water Tube</a></td><td>5.0</td><td>189</td><td>99%</td></tr>
+      <tr><td><a href="../posts/abib-hyaluronic-boom-serum-waterdrop.html">Abib Hyaluronic Boom Serum Waterdrop</a></td><td>5.0</td><td>182</td><td>100%</td></tr>
+      <tr><td><a href="../posts/rejudex-derma-repairing-solution-ampoule.html">Rejudex Derma Repairing Solution Ampoule</a></td><td>5.0</td><td>106</td><td>97%</td></tr>
+      <tr><td><a href="../posts/rejuvedex-derma-repairing-cream.html">Rejuvedex Derma Repairing Cream</a></td><td>5.0</td><td>1</td><td>100%</td></tr>
+    </tbody>
+  </table></div>
+  <p>A one-record 5.0 and a 2,131-record 5.0 are the same number on the surface but not the same amount of information. The five-star share adds detail, although it remains an aggregate distribution rather than verified evidence about results.</p>
+
+  <h2>A practical way to read a skincare rating</h2>
+  <ol>
+    <li><b>Read the rating and review base together.</b> Treat “4.8 from 20,000” as a different evidence context from “5.0 from 100.”</li>
+    <li><b>Look for the distribution.</b> A five-star share can distinguish two products with the same rounded average.</li>
+    <li><b>Check representation.</b> Skin-type and concern polls describe who or what is represented, not who will get a result.</li>
+    <li><b>Use current labels for product facts.</b> Ratings do not prove ingredient concentration, suitability, safety, or clinical performance.</li>
+    <li><b>Do not turn popularity into efficacy.</b> Review volume can show attention and a broader aggregate history; it cannot establish that a product caused an outcome.</li>
+  </ol>
+
+  <h2>Method and limits</h2>
+  <p>This report uses the 34 product-page snapshots listed on this site's <a href="../rankings.html">review-volume ranking</a> as of 2026-08-08. For each snapshot, the analysis aligns four displayed fields: rounded average rating, review-record count, five-star share, and capture date. The total of 322,854 is the sum of displayed review-record counts, not a count of unique people.</p>
+  <p>This is a convenience sample of products covered by this site—not a random or comprehensive sample of K-beauty. The unit is a captured product-page snapshot, so similarly named listings or repeat captures may appear. Records can overlap across products, reviewer identity is not independently verified, and promotion, visibility, product age, formula, region, and capture date can differ. No individual review text, identity, or photo is included.</p>
+  <p>All calculations are descriptive. No significance test or causal claim is made. See the <a href="../about.html">editor and methodology page</a> for the broader collection and interpretation rules.</p>
+
+  <h2>How to cite or reuse this report</h2>
+  <div class="cite"><b>Suggested citation:</b> The K-Beauty Data Desk (2026), “K-Beauty Rating Distribution: 322,854 Displayed Review Records Across 34 Product Snapshots,” published August 9, 2026. Link to this page when quoting the calculations.<br><br>The original calculations, chart values, and downloadable compilation may be reused under <a href="https://creativecommons.org/licenses/by/4.0/" rel="license">CC BY 4.0</a> with attribution. Underlying retail facts and product names remain attributable to their respective sources and owners.</div>
+
+  <h2>Quick answers</h2>
+  <h3>Why do the captured K-beauty ratings look so high?</h3>
+  <p>All 34 captured averages sit between 4.6 and 5.0. The narrow band means the one-decimal score alone does little to separate products; sample size and the five-star share add essential context.</p>
+  <h3>Is a 5.0 product always better than a 4.8 product?</h3>
+  <p>No. None of the 18 snapshots with at least 5,000 records averages 5.0, while every 5.0 snapshot has fewer than 5,000 records. This is a sample-size pattern, not a product-quality verdict.</p>
+  <h3>Are these 322,854 verified buyers?</h3>
+  <p>No. They are displayed aggregate review-record counts summed across captured product pages. The total does not establish unique people, verified purchase status, or independent product outcomes.</p>
+
+  <footer><a href="../">← All reviews</a> · <a href="../rankings.html">Review-volume ranking</a> · <a href="anua-vs-medicube-pdrn-serum-review-data.html">Anua vs Medicube PDRN</a> · <a href="../about.html">About the editor &amp; methodology</a></footer>
+</body>
+</html>

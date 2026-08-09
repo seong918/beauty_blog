@@ -16,6 +16,10 @@ const publicRootFiles = [
 ];
 const guideLinks = [
   {
+    href: "guides/k-beauty-review-rating-distribution-2026.html",
+    label: "Why do K-beauty ratings cluster near five stars? 322,854 records analyzed",
+  },
+  {
     href: "guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html",
     label: "Best K-beauty moisturizer for dry vs combination skin?",
   },
@@ -113,12 +117,13 @@ function ensureHomepageLinks(content) {
     );
   }
 
-  if (!guideLinks.every(({ href }) => content.includes(`href="${href}"`))) {
-    const guideBlock = `<div data-section="evergreen-guides" style="background:#f5f7ef;border:1px solid #dfe5d2;border-radius:10px;padding:14px 16px;margin:1.4em 0"><b>Start with your question</b><p style="margin:.45em 0 0">${guideLinks
-      .map(({ href, label }) => `<a href="${href}">${label}</a>`)
-      .join("<br>")}</p></div>`;
-    content = content.replace(/<div class="post">/i, `${guideBlock}<div class="post">`);
-  }
+  const guideBlock = `<div data-section="evergreen-guides" style="background:#f5f7ef;border:1px solid #dfe5d2;border-radius:10px;padding:14px 16px;margin:1.4em 0"><b>Start with research, not a product name</b><p style="margin:.45em 0 0">${guideLinks
+    .map(({ href, label }) => `<a href="${href}">${label}</a>`)
+    .join("<br>")}</p></div>`;
+  const existingGuideBlock = /<div\b[^>]*data-section=["']evergreen-guides["'][^>]*>[\s\S]*?<\/div>/i;
+  content = existingGuideBlock.test(content)
+    ? content.replace(existingGuideBlock, guideBlock)
+    : content.replace(/<div class="post">/i, `${guideBlock}<div class="post">`);
 
   return content;
 }
@@ -141,12 +146,35 @@ function ensureAboutProfile(content) {
     "Every page states its snapshot date and data limits so readers know when newer information may be needed.",
   );
 
-  if (!content.includes("guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html")) {
-    const guideSection = `<h2>Start with a question</h2><p>Try the <a href="guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html">dry vs combination skin moisturizer guide</a>, the <a href="guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html">PDRN vs hyaluronic acid data guide</a>, the <a href="guides/anua-vs-medicube-pdrn-serum-review-data.html">Anua vs Medicube PDRN comparison</a>, or the <a href="guides/k-beauty-products-for-redness-review-data.html">soothing-redness review-poll guide</a>.</p>`;
-    content = content.replace(/<h2>Affiliate disclosure<\/h2>/i, `${guideSection}<h2>Affiliate disclosure</h2>`);
-  }
+  const guideSection = `<section data-section="evergreen-guides"><h2>Start with a research question</h2><p>Begin with the original <a href="guides/k-beauty-review-rating-distribution-2026.html">322,854-record rating-distribution report</a>, then try the <a href="guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html">dry vs combination skin moisturizer guide</a>, the <a href="guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html">PDRN vs hyaluronic acid data guide</a>, the <a href="guides/anua-vs-medicube-pdrn-serum-review-data.html">Anua vs Medicube PDRN comparison</a>, or the <a href="guides/k-beauty-products-for-redness-review-data.html">soothing-redness review-poll guide</a>.</p></section>`;
+  const existingGuideSection = /<section\b[^>]*data-section=["']evergreen-guides["'][^>]*>[\s\S]*?<\/section>|<h2>Start with a question<\/h2><p>[\s\S]*?<\/p>/i;
+  content = existingGuideSection.test(content)
+    ? content.replace(existingGuideSection, guideSection)
+    : content.replace(/<h2>Affiliate disclosure<\/h2>/i, `${guideSection}<h2>Affiliate disclosure</h2>`);
 
   return content;
+}
+
+function ensureRankingsReportLink(content) {
+  const reportBlock = '<p data-section="rating-distribution-report" style="background:#f5f7ef;border:1px solid #dfe5d2;border-radius:10px;padding:12px 14px"><b>New data report:</b> The star averages below sit in a narrow range. See what changes when review-base size is added in the <a href="guides/k-beauty-review-rating-distribution-2026.html">analysis of 322,854 displayed review records</a>, with a downloadable CSV.</p>';
+  const existingReportBlock = /<p\b[^>]*data-section=["']rating-distribution-report["'][^>]*>[\s\S]*?<\/p>/i;
+  return existingReportBlock.test(content)
+    ? content.replace(existingReportBlock, reportBlock)
+    : content.replace(/(<p class="tag">[\s\S]*?<\/p>)/i, `$1${reportBlock}`);
+}
+
+function ensureLlmsGuideLinks(content) {
+  const guideSection = [
+    "## Data reports and evergreen guides",
+    "",
+    ...guideLinks.map(({ href, label }) => `- [${label}](${siteBase}${href})`),
+    "",
+  ].join("\n");
+  const existingGuideSection = /## Data reports and evergreen guides\n[\s\S]*?(?=## Meta)/i;
+  if (existingGuideSection.test(content)) {
+    return content.replace(existingGuideSection, `${guideSection}\n`);
+  }
+  return content.replace(/\n## Meta\n/i, `\n${guideSection}\n## Meta\n`);
 }
 
 function normalizeRobots(content) {
@@ -246,6 +274,8 @@ for (const file of files) {
   let normalized = stripSourceRetailer(original);
   if (file === "index.html") normalized = ensureHomepageLinks(normalized);
   if (file === "about.html") normalized = ensureAboutProfile(normalized);
+  if (file === "rankings.html") normalized = ensureRankingsReportLink(normalized);
+  if (file === "llms.txt") normalized = ensureLlmsGuideLinks(normalized);
 
   if (forbiddenSource.test(normalized)) {
     throw new Error(`Source-retailer reference remains after normalization: ${file}`);

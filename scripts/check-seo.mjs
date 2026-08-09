@@ -6,11 +6,14 @@ const textSitemapUrl = `${siteBase}sitemap.txt`;
 const robotsUrl = `${siteBase}robots.txt`;
 const indexNowKey = "657e42510cc5b092fc829b89f467d66e";
 const indexNowKeyUrl = `${siteBase}${indexNowKey}.txt`;
+const ratingDatasetUrl = `${siteBase}assets/data/k-beauty-review-rating-distribution-2026.csv`;
 const headers = { "user-agent": "KBeautyDataDesk-SEOMonitor/1.0" };
 const forbiddenSource = new RegExp(["olive", "young"].join("[\\s_-]*"), "i");
 const requiredGuideUrls = [
+  `${siteBase}guides/k-beauty-review-rating-distribution-2026.html`,
   `${siteBase}guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html`,
   `${siteBase}guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html`,
+  `${siteBase}guides/anua-vs-medicube-pdrn-serum-review-data.html`,
   `${siteBase}guides/k-beauty-products-for-redness-review-data.html`,
 ];
 
@@ -33,6 +36,14 @@ for (const guideUrl of requiredGuideUrls) {
   if (!urls.includes(guideUrl)) {
     failures.push(`The sitemap is missing the evergreen guide: ${guideUrl}`);
   }
+}
+
+const ratingDataset = await fetchText(ratingDatasetUrl);
+const ratingDatasetLines = ratingDataset.text.trim().split(/\r?\n/);
+if (!ratingDataset.response.ok) {
+  failures.push(`${ratingDatasetUrl} returned HTTP ${ratingDataset.response.status}`);
+} else if (ratingDatasetLines.length !== 35) {
+  failures.push(`The rating-distribution dataset should contain one header and 34 rows; found ${ratingDatasetLines.length} lines.`);
 }
 
 const textSitemap = await fetchText(textSitemapUrl);
@@ -105,6 +116,7 @@ const summary = [
   `- Pages returning HTTP 200: ${pageResults.filter((result) => result.status === 200).length}/${urls.length}`,
   `- robots.txt sitemap declarations: ${robots.response.ok && robots.text.includes(`Sitemap: ${sitemapUrl}`) && robots.text.includes(`Sitemap: ${textSitemapUrl}`) ? "OK" : "FAIL"}`,
   `- IndexNow key file: ${keyFile.response.ok && keyFile.text.trim() === indexNowKey ? "OK" : "FAIL"}`,
+  `- Downloadable rating dataset: ${ratingDataset.response.ok && ratingDatasetLines.length === 35 ? "OK" : "FAIL"}`,
   `- Result: ${passed ? "PASS" : "FAIL"}`,
   "",
   ...(failures.length ? ["## Failures", "", ...failures.map((failure) => `- ${failure}`)] : []),

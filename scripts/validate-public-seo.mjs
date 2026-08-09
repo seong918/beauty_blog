@@ -1,4 +1,4 @@
-import { readdirSync, readFileSync, statSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync, statSync } from "node:fs";
 import { join, relative } from "node:path";
 
 const siteBase = "https://seong918.github.io/beauty_blog/";
@@ -14,6 +14,7 @@ const publicRootFiles = [
   "skin-type.html",
 ];
 const requiredGuides = [
+  "guides/k-beauty-review-rating-distribution-2026.html",
   "guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html",
   "guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html",
   "guides/anua-vs-medicube-pdrn-serum-review-data.html",
@@ -24,6 +25,8 @@ const requiredSitemapDeclarations = [
   `Sitemap: ${siteBase}sitemap.xml`,
   `Sitemap: ${siteBase}sitemap.txt`,
 ];
+const ratingReportPath = "guides/k-beauty-review-rating-distribution-2026.html";
+const ratingDatasetPath = "assets/data/k-beauty-review-rating-distribution-2026.csv";
 
 function walk(directory) {
   return readdirSync(directory)
@@ -39,6 +42,19 @@ const files = [
   ...publicDirectories.flatMap((directory) => walk(directory)),
 ];
 const failures = [];
+
+if (!existsSync(ratingDatasetPath)) {
+  failures.push(`The rating-distribution dataset is missing: ${ratingDatasetPath}`);
+} else {
+  const datasetRows = readFileSync(ratingDatasetPath, "utf8").trim().split(/\r?\n/);
+  if (datasetRows.length !== 35) {
+    failures.push(`The rating-distribution dataset must contain one header and 34 rows; found ${datasetRows.length} lines.`);
+  }
+}
+const ratingReport = readFileSync(ratingReportPath, "utf8");
+if (!ratingReport.includes(`href="../${ratingDatasetPath}"`)) {
+  failures.push("The rating-distribution report does not link to its downloadable dataset.");
+}
 
 for (const file of files) {
   const content = readFileSync(file, "utf8");
