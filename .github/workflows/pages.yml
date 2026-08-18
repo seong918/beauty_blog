@@ -29,6 +29,7 @@ jobs:
           fetch-depth: 2
       - name: Normalize generated content and validate public SEO
         run: |
+          node scripts/validate-new-posts.mjs
           node scripts/normalize-public-seo.mjs --apply
           node scripts/validate-public-seo.mjs
           node scripts/prepare-pages.mjs
