@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## S.NATURE Aqua Squalane Moisture Cream: What 21,988 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/s-nature-aqua-squalane-moisture-cream.html
+- Published: 2026-08-18
+- Summary: S.NATURE Aqua Squalane Moisture Cream: 4.8★ from 21,988 Olive Young Korea review records (84% five-star).
+- Rating: 4.8 / 5 from 21,988 reviews (5★ 84% · 4★ 11% · 3★ 4% · 2★ 1% · 1★ 1%)
+
 ## Cellimax The Vita A Retinal Shot Tightening Dual Cream: What 23 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/cellimax-the-vita-a-retinal-shot-tightening-dual-cream.html
@@ -196,12 +203,6 @@
 - URL: https://seong918.github.io/beauty_blog/posts/arencia-vitamin-c-booster-shot.html
 - Published: 2026-07-12
 - Summary: Arencia Vitamin C Booster Shot: 4.9★ from 582 Olive Young Korea review records (95% five-star).
-
-## S.NATURE Aqua Squalane Moisture Cream: What 15,832 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/s-nature-aqua-squalane-moisture-cream.html
-- Published: 2026-07-11
-- Summary: S.NATURE Aqua Squalane Moisture Cream: 4.8★ from 15,832 Olive Young Korea review records (86% five-star).
 
 ## Aestura Atobarrier 365 Hydro Soothing Cream: What 11,903 Olive Young Review Signals Show (2026)
 
