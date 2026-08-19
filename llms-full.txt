@@ -2,14 +2,12 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Bring Green Tea Tree Cica Soothing Cream Plus: What 12,540 Olive Young Review Signals Show (2026)
+## BIODANCE Pore Perfecting Collagen Peptide Serum: What 4,937 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/bring-green-tea-tree-cica-soothing-cream-plus.html
-- Published: 2026-08-18
-- Summary: Bring Green Tea Tree Cica Soothing Cream Plus: 4.8★ from 12,540 Olive Young Korea review records; the captured view did not expose a star-by-star distribution.
-- Rating: 4.8 / 5 from 12,540 displayed reviews; star-by-star distribution was not visible in the captured view.
-- Polls: combination skin 52%; soothing concern 70%; gentle response 69%.
-- Scope: poll shares describe displayed response composition and are not clinical efficacy or individual-tolerance rates.
+- URL: https://seong918.github.io/beauty_blog/posts/biodance-pore-perfecting-collagen-peptide-serum.html
+- Published: 2026-08-19
+- Summary: BIODANCE Pore Perfecting Collagen Peptide Serum: 4.8★ from 4,937 Olive Young Korea review records (88% five-star).
+- Rating: 4.8 / 5 from 4,937 reviews (5★ 88% · 4★ 8% · 3★ 3% · 2★ 0% · 1★ 1%)
 
 ## S.NATURE Aqua Squalane Moisture Cream: What 21,988 Olive Young Review Signals Show (2026)
 
