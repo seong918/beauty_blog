@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Zeroid Soothing Cream: What 8,967 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/zeroid-soothing-cream.html
+- Published: 2026-08-20
+- Summary: Zeroid Soothing Cream: 4.8★ from 8,967 Olive Young Korea review records (87% five-star).
+- Rating: 4.8 / 5 from 8,967 reviews (5★ 87% · 4★ 9% · 3★ 3% · 2★ 1% · 1★ 1%)
+
 ## BIODANCE Pore Perfecting Collagen Peptide Serum: What 4,937 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/biodance-pore-perfecting-collagen-peptide-serum.html
