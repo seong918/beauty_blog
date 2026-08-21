@@ -2,6 +2,15 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Anua Peach 70 Niacinamide Serum: What 6,584 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/anua-peach-70-niacinamide-serum.html
+- Published: 2026-08-21
+- Summary: Anua Peach 70 Niacinamide Serum: 4.8★ from 6,584 Olive Young Korea review records; displayed polls showed 49% combination skin, 44% hydration concern, and a 73% gentle response.
+- Rating: 4.8 / 5 from 6,584 reviews; the captured screen did not expose a reliable full star distribution.
+- Displayed polls: combination skin 49% · hydration concern 44% · gentle response 73%.
+- Availability at capture: temporarily sold out.
+
 ## Zeroid Soothing Cream: What 8,967 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/zeroid-soothing-cream.html
