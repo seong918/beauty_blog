@@ -2,14 +2,12 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Anua Peach 70 Niacinamide Serum: What 6,584 Olive Young Review Signals Show (2026)
+## IOPE 잠시만 기다리십시오…: What 1,840 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/anua-peach-70-niacinamide-serum.html
+- URL: https://seong918.github.io/beauty_blog/posts/iope.html
 - Published: 2026-08-21
-- Summary: Anua Peach 70 Niacinamide Serum: 4.8★ from 6,584 Olive Young Korea review records; displayed polls showed 49% combination skin, 44% hydration concern, and a 73% gentle response.
-- Rating: 4.8 / 5 from 6,584 reviews; the captured screen did not expose a reliable full star distribution.
-- Displayed polls: combination skin 49% · hydration concern 44% · gentle response 73%.
-- Availability at capture: temporarily sold out.
+- Summary: IOPE 잠시만 기다리십시오…: 4.9★ from 1,840 Olive Young Korea review records (93% five-star).
+- Rating: 4.9 / 5 from 1,840 reviews (5★ 93% · 4★ 5% · 3★ 1% · 2★ 0% · 1★ 0%)
 
 ## Zeroid Soothing Cream: What 8,967 Olive Young Review Signals Show (2026)
 
@@ -17,14 +15,6 @@
 - Published: 2026-08-20
 - Summary: Zeroid Soothing Cream: 4.8★ from 8,967 Olive Young Korea review records (87% five-star).
 - Rating: 4.8 / 5 from 8,967 reviews (5★ 87% · 4★ 9% · 3★ 3% · 2★ 1% · 1★ 1%)
-
-## IOPE XMD Stem3 Clinical Recovery Serum: What 1,837 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/iope-xmd-stem3-clinical-recovery-serum.html
-- Published: 2026-08-20
-- Summary: IOPE XMD Stem3 Clinical Recovery Serum: 4.9★ from 1,837 Olive Young Korea review records; displayed polls showed 50% combination skin, 62% hydration concern, and a 73% gentle response.
-- Rating: 4.9 / 5 from 1,837 reviews; the captured screen did not expose a reliable full star distribution.
-- Displayed polls: combination skin 50% · hydration concern 62% · gentle response 73%.
 
 ## BIODANCE Pore Perfecting Collagen Peptide Serum: What 4,937 Olive Young Review Signals Show (2026)
 
