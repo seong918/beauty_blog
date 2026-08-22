@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic cream-format texture illustration</title>
+  <desc id="desc">A brand-neutral editorial illustration of an ivory cream ribbon on a sage and stone background. It is not a product photograph or a tested sample.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dde4d7"/><stop offset=".52" stop-color="#f1eee5"/><stop offset="1" stop-color="#d8cbb8"/></linearGradient>
+    <linearGradient id="cream" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fffef8"/><stop offset=".55" stop-color="#f2eee3"/><stop offset="1" stop-color="#dcd5c7"/></linearGradient>
+    <filter id="soft" x="-30%" y="-40%" width="160%" height="190%"><feDropShadow dx="0" dy="25" stdDeviation="28" flood-color="#4d5148" flood-opacity=".23"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1020" cy="150" r="230" fill="#c8d3c0" opacity=".55"/>
+  <circle cx="150" cy="720" r="260" fill="#e7dac6" opacity=".55"/>
+  <g filter="url(#soft)">
+    <path d="M220 485C310 378 430 326 557 337c119 10 206 80 327 69 56-5 111-24 151-60-38 91-122 151-220 162-120 14-219-53-337-52-96 1-183 47-258 104-35 27-64 13-66-16-1-18 24-43 66-59z" fill="url(#cream)"/>
+    <path d="M279 480c78-66 169-96 263-86 103 11 188 69 289 63 51-3 99-19 143-46-47 49-105 76-172 81-109 8-202-51-309-47-77 3-151 29-214 35z" fill="#fff" opacity=".72"/>
+  </g>
+  <path d="M349 344c80-51 176-73 266-55" fill="none" stroke="#ffffff" stroke-width="13" stroke-linecap="round" opacity=".48"/>
+  <text x="78" y="92" font-family="system-ui,-apple-system,sans-serif" font-size="21" font-weight="700" letter-spacing="3" fill="#5d6858">GENERIC FORMAT ILLUSTRATION</text>
+  <text x="78" y="135" font-family="system-ui,-apple-system,sans-serif" font-size="31" font-weight="750" fill="#344034">Cream ribbon · conceptual editorial visual</text>
+  <rect x="78" y="676" width="758" height="64" rx="18" fill="#fff" opacity=".78"/>
+  <text x="108" y="716" font-family="system-ui,-apple-system,sans-serif" font-size="21" fill="#536052">Not the actual formula, packaging, a user photo, or evidence from product use.</text>
+</svg>
