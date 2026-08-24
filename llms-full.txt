@@ -2,21 +2,12 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Isntree Onion Newpair Gel Cream Plus: What 5,024 Olive Young Review Signals Show (2026)
+## AESTURA Atobarrier 365 Cream: What 37,875 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/isntree-onion-newpair-gel-cream-plus.html
-- Published: 2026-08-23
-- Summary: Isntree Onion Newpair Gel Cream Plus: 4.8★ from 5,024 Olive Young Korea review records; displayed polls showed 53% combination skin, 47% soothing concern, and a 77% gentle response.
-- Rating: 4.8 / 5 from 5,024 reviews; star-by-star distribution was not reliably exposed in the captured screen.
-- Displayed polls: combination skin 53% · soothing concern 47% · gentle response 77%.
-
-## Centellian24 Madeca Cream Time Reverse: What 6,975 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/centellian24-madeca-cream-time-reverse.html
-- Published: 2026-08-22
-- Summary: Centellian24 Madeca Cream Time Reverse: 4.9★ from 6,975 Olive Young Korea review records; displayed polls showed 49% combination skin, 52% moisture concern, and a 72% gentle response.
-- Rating: 4.9 / 5 from 6,975 reviews; star-by-star distribution was not reliably exposed in the captured screen.
-- Displayed polls: combination skin 49% · moisture concern 52% · gentle response 72%.
+- URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-cream.html
+- Published: 2026-08-24
+- Summary: AESTURA Atobarrier 365 Cream: 4.9★ from 37,875 Olive Young Korea review records (90% five-star).
+- Rating: 4.9 / 5 from 37,875 reviews (5★ 90% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 1%)
 
 ## IOPE 잠시만 기다리십시오…: What 1,840 Olive Young Review Signals Show (2026)
 
@@ -264,12 +255,6 @@
 - URL: https://seong918.github.io/beauty_blog/posts/innisfree-retinol-cica-pore-ampoule.html
 - Published: 2026-07-07
 - Summary: innisfree Retinol Cica Pore Ampoule: 5.0★ from 799 Olive Young Korea review records (97% five-star).
-
-## Aestura Atobarrier 365 Cream: What 35,090 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-cream.html
-- Published: 2026-07-06
-- Summary: Aestura Atobarrier 365 Cream: 4.9★ from 35,090 Olive Young Korea review records (90% five-star).
 
 ## La Roche-Posay Cicaplast Baume B5: What 24,566 Olive Young Review Signals Show (2026)
 
