@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Kiehl's 1CC Pink Serum aggregate review snapshot</title>
+  <desc id="desc">Data card showing 5.0 stars from one review record and three displayed 100 percent poll responses, with a prominent small-sample warning.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff8fb"/><stop offset="1" stop-color="#f4dce7"/></linearGradient></defs>
+  <rect width="1200" height="630" rx="30" fill="url(#bg)"/>
+  <rect x="54" y="48" width="1092" height="534" rx="24" fill="#fff" stroke="#e5cbd7" stroke-width="2"/>
+  <text x="94" y="105" fill="#84415f" font-family="system-ui,sans-serif" font-size="20" font-weight="700" letter-spacing="2">CAPTURED 2026-08-25 · RETAIL AGGREGATES</text>
+  <text x="94" y="162" fill="#30242b" font-family="system-ui,sans-serif" font-size="42" font-weight="800">Kiehl's 1CC Pink Serum</text>
+  <text x="94" y="236" fill="#9b4e70" font-family="system-ui,sans-serif" font-size="64" font-weight="850">5.0 ★</text>
+  <text x="330" y="232" fill="#55464d" font-family="system-ui,sans-serif" font-size="29" font-weight="650">1 displayed review record</text>
+  <rect x="94" y="280" width="302" height="118" rx="18" fill="#fbf1f6"/>
+  <text x="118" y="322" fill="#755d68" font-family="system-ui,sans-serif" font-size="18" font-weight="650">SKIN-TYPE RESPONSE</text>
+  <text x="118" y="369" fill="#442e38" font-family="system-ui,sans-serif" font-size="28" font-weight="800">Combination · 100%</text>
+  <rect x="449" y="280" width="302" height="118" rx="18" fill="#fbf1f6"/>
+  <text x="473" y="322" fill="#755d68" font-family="system-ui,sans-serif" font-size="18" font-weight="650">CONCERN RESPONSE</text>
+  <text x="473" y="369" fill="#442e38" font-family="system-ui,sans-serif" font-size="28" font-weight="800">Soothing · 100%</text>
+  <rect x="804" y="280" width="302" height="118" rx="18" fill="#fbf1f6"/>
+  <text x="828" y="322" fill="#755d68" font-family="system-ui,sans-serif" font-size="18" font-weight="650">IRRITATION RESPONSE</text>
+  <text x="828" y="369" fill="#442e38" font-family="system-ui,sans-serif" font-size="28" font-weight="800">Ordinary · 100%</text>
+  <rect x="94" y="438" width="1012" height="96" rx="18" fill="#fff4df" stroke="#efd09d"/>
+  <text x="122" y="479" fill="#764d16" font-family="system-ui,sans-serif" font-size="24" font-weight="800">SMALL-SAMPLE LIMIT</text>
+  <text x="122" y="513" fill="#5f4a2f" font-family="system-ui,sans-serif" font-size="21">One response can create a 100% bar. This is not broad consensus, efficacy, or a safety result.</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic pink serum-format illustration</title>
+  <desc id="desc">A brand-neutral translucent pink serum ribbon and droplets on a warm stone-colored surface.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3eee9"/><stop offset="1" stop-color="#ddd4ce"/></linearGradient>
+    <linearGradient id="serum" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd5e4" stop-opacity=".82"/><stop offset="1" stop-color="#d987aa" stop-opacity=".72"/></linearGradient>
+    <filter id="shadow"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="30" fill="url(#surface)"/>
+  <ellipse cx="608" cy="515" rx="395" ry="85" fill="#8e6b79" opacity=".16" filter="url(#shadow)"/>
+  <path d="M228 465C360 331 470 308 602 376c115 59 219 43 365-75 58-47 118 24 64 79-163 165-334 218-506 140-105-48-172-29-250 44-61 57-116-35-47-99Z" fill="url(#serum)" stroke="#c9789c" stroke-opacity=".5" stroke-width="4"/>
+  <path d="M295 468c126-94 224-87 333-32 119 60 224 27 342-65" fill="none" stroke="#fff" stroke-opacity=".53" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="345" cy="284" r="48" fill="url(#serum)" stroke="#c9789c" stroke-opacity=".5" stroke-width="3"/>
+  <circle cx="845" cy="562" r="31" fill="url(#serum)" stroke="#c9789c" stroke-opacity=".5" stroke-width="3"/>
+  <circle cx="932" cy="228" r="19" fill="url(#serum)" stroke="#c9789c" stroke-opacity=".5" stroke-width="2"/>
+  <text x="70" y="738" fill="#756a70" font-family="system-ui,sans-serif" font-size="22" letter-spacing="1.2">GENERIC SERUM-FORMAT ILLUSTRATION · NOT THE PRODUCT</text>
+</svg>

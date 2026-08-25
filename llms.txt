@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [Kiehl's 1CC Pink Serum: What 1 Olive Young Review Record Shows (2026)](https://seong918.github.io/beauty_blog/posts/kiehls-1cc-pink-serum.html): Kiehl's 1CC Pink Serum: 5.0★ from 1 Olive Young Korea review record; a one-record launch snapshot with no star distribution inferred. (published 2026-08-25)
 - [AESTURA Atobarrier 365 Cream: What 37,875 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-cream.html): AESTURA Atobarrier 365 Cream: 4.9★ from 37,875 Olive Young Korea review records (90% five-star). (published 2026-08-24)
 - [IOPE 잠시만 기다리십시오…: What 1,840 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/iope.html): IOPE 잠시만 기다리십시오…: 4.9★ from 1,840 Olive Young Korea review records (93% five-star). (published 2026-08-21)
 - [Zeroid Soothing Cream: What 8,967 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/zeroid-soothing-cream.html): Zeroid Soothing Cream: 4.8★ from 8,967 Olive Young Korea review records (87% five-star). (published 2026-08-20)
