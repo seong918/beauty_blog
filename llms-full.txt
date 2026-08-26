@@ -2,13 +2,12 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Kiehl's 1CC Pink Serum: What 1 Olive Young Review Record Shows (2026)
+## 디오디너리 7% Toner: What 5,847 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/kiehls-1cc-pink-serum.html
-- Published: 2026-08-25
-- Summary: Kiehl's 1CC Pink Serum: 5.0★ from 1 Olive Young Korea review record; a one-record launch snapshot with no star distribution inferred.
-- Rating: 5.0 / 5 from 1 review; star-by-star distribution not displayed and not inferred.
-- Polls: combination skin 100% · soothing concern 100% · ordinary irritation response 100%; one-record captured base.
+- URL: https://seong918.github.io/beauty_blog/posts/7-toner.html
+- Published: 2026-08-26
+- Summary: 디오디너리 7% Toner: 4.7★ from 5,847 Olive Young Korea review records (80% five-star).
+- Rating: 4.7 / 5 from 5,847 reviews (5★ 80% · 4★ 14% · 3★ 5% · 2★ 1% · 1★ 1%)
 
 ## AESTURA Atobarrier 365 Cream: What 37,875 Olive Young Review Signals Show (2026)
 

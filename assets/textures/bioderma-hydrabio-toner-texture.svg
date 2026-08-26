@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic watery-toner format illustration</title>
+  <desc id="desc">Brand-neutral editorial illustration of translucent liquid ripples. It is not a photograph of Bioderma Hydrabio Toner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fcfd"/><stop offset="1" stop-color="#d9f0f5"/></linearGradient>
+    <radialGradient id="drop"><stop stop-color="#fff" stop-opacity=".95"/><stop offset=".7" stop-color="#9ed5e1" stop-opacity=".58"/><stop offset="1" stop-color="#56aabd" stop-opacity=".35"/></radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="600" cy="520" rx="390" ry="138" fill="none" stroke="#75bdcc" stroke-width="16" opacity=".72"/>
+  <ellipse cx="600" cy="520" rx="270" ry="92" fill="none" stroke="#a3d7e1" stroke-width="13" opacity=".82"/>
+  <path d="M600 120C520 244 470 318 470 405c0 79 58 135 130 135s130-56 130-135c0-87-50-161-130-285z" fill="url(#drop)" stroke="#6db5c5" stroke-width="8"/>
+  <circle cx="560" cy="352" r="22" fill="#fff" opacity=".8"/>
+  <text x="600" y="720" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="28" fill="#416d77">GENERIC WATERY-TONER FORMAT · NOT THE PRODUCT</text>
+</svg>
