@@ -2,6 +2,14 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Bioderma Atoderm Facial Lotion: What 27 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/bioderma-atoderm-facial-lotion.html
+- Published: 2026-08-27
+- Summary: Bioderma Atoderm Facial Lotion: 5.0★ from 27 Olive Young Korea review records; displayed polls were combination skin 54%, hydration concern 93%, and gentle response 96%.
+- Rating: 5.0 / 5 from 27 review records; star-by-star distribution not displayed and not inferred.
+- Polls: combination skin 54%, hydration concern 93%, and gentle response 96%; separate poll denominators were not displayed, and the launch-stage sample is small.
+
 ## Bioderma Cicabio Cream Plus: What 4,306 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/bioderma-cicabio-cream-plus.html
