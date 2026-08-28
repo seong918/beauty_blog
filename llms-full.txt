@@ -2,30 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Anua Heartleaf 77 B3 Zinc Trouble Serum: What 547 Olive Young Review Signals Show (2026)
+## 바이오힐보 3D리프팅 Cream: What 6,547 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/anua-heartleaf-77-b3-zinc-trouble-serum.html
+- URL: https://seong918.github.io/beauty_blog/posts/3d-cream.html
 - Published: 2026-08-28
-- Summary: Anua Heartleaf 77 B3 Zinc Trouble Serum: 4.7★ from 547 Olive Young Korea review records; displayed polls were combination skin 45%, soothing concern 55%, and gentle response 72%.
-- Rating: 4.7 / 5 from 547 review records; star-by-star distribution not displayed and not inferred.
-- Polls: combination skin 45%, soothing concern 55%, and gentle response 72%; separate poll denominators were not displayed.
-- Anonymous aggregate themes: 82% recent-positive classification; grouped around calming impressions, a light finish, and oil-control impressions. These are automated shopper-feedback themes, not verified outcomes.
+- Summary: 바이오힐보 3D리프팅 Cream: 4.9★ from 6,547 Olive Young Korea review records (89% five-star).
+- Rating: 4.9 / 5 from 6,547 reviews (5★ 89% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 0%)
 
-## Bioderma Atoderm Facial Lotion: What 27 Olive Young Review Signals Show (2026)
+## 디오디너리 7% Toner: What 5,847 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/bioderma-atoderm-facial-lotion.html
-- Published: 2026-08-27
-- Summary: Bioderma Atoderm Facial Lotion: 5.0★ from 27 Olive Young Korea review records; displayed polls were combination skin 54%, hydration concern 93%, and gentle response 96%.
-- Rating: 5.0 / 5 from 27 review records; star-by-star distribution not displayed and not inferred.
-- Polls: combination skin 54%, hydration concern 93%, and gentle response 96%; separate poll denominators were not displayed, and the launch-stage sample is small.
-
-## Bioderma Cicabio Cream Plus: What 4,306 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/bioderma-cicabio-cream-plus.html
+- URL: https://seong918.github.io/beauty_blog/posts/7-toner.html
 - Published: 2026-08-26
-- Summary: Bioderma Cicabio Cream Plus: 4.8★ from 4,306 Olive Young Korea review records; rank three in the captured skincare sales list.
-- Rating: 4.8 / 5 from 4,306 linked review records; star-by-star distribution not displayed and not inferred.
-- Polls: dry skin, moisture concern, and gentle response were labeled, but each share rendered as 0%; no usable distribution or suitability inference.
+- Summary: 디오디너리 7% Toner: 4.7★ from 5,847 Olive Young Korea review records (80% five-star).
 
 ## AESTURA Atobarrier 365 Cream: What 37,875 Olive Young Review Signals Show (2026)
 
