@@ -2,6 +2,8 @@ import { existsSync, readdirSync, readFileSync, statSync, writeFileSync } from "
 import { join, relative } from "node:path";
 
 const siteBase = "https://seong918.github.io/beauty_blog/";
+const measurementId = "G-WC42SVESY5";
+const referralTrackerUrl = `${siteBase}assets/search-referral-tracker.js`;
 const applyChanges = process.argv.includes("--apply");
 const publicDirectories = ["compare", "guides", "posts"];
 const publicRootFiles = [
@@ -177,6 +179,18 @@ function ensureLlmsGuideLinks(content) {
   return content.replace(/\n## Meta\n/i, `\n${guideSection}\n## Meta\n`);
 }
 
+function ensureMeasurement(content) {
+  if (!content.includes(measurementId)) {
+    const bootstrap = `<script async src="https://www.googletagmanager.com/gtag/js?id=${measurementId}"></script><script data-kbdd-ga4="${measurementId}">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${measurementId}')</script>`;
+    content = content.replace(/<\/head>/i, `${bootstrap}</head>`);
+  }
+
+  const trackerTag = `<script defer src="${referralTrackerUrl}" data-kbdd-tracker="search-referrals-v1"></script>`;
+  const existingTracker = /<script\b[^>]*src=["'][^"']*search-referral-tracker\.js[^"']*["'][^>]*>\s*<\/script>/gi;
+  content = content.replace(existingTracker, "");
+  return content.replace(/<\/head>/i, `${trackerTag}</head>`);
+}
+
 function normalizeRobots(content) {
   const required = new Set(requiredSitemapDeclarations);
   const lines = content
@@ -276,6 +290,7 @@ for (const file of files) {
   if (file === "about.html") normalized = ensureAboutProfile(normalized);
   if (file === "rankings.html") normalized = ensureRankingsReportLink(normalized);
   if (file === "llms.txt") normalized = ensureLlmsGuideLinks(normalized);
+  if (file.endsWith(".html")) normalized = ensureMeasurement(normalized);
 
   if (forbiddenSource.test(normalized)) {
     throw new Error(`Source-retailer reference remains after normalization: ${file}`);
