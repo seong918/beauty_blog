@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic translucent serum-format illustration</title>
+  <desc id="desc">A brand-neutral code-drawn ribbon and droplets illustrating a general liquid serum format, not a real product.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edf7f1"/><stop offset="1" stop-color="#f8f4e7"/></linearGradient>
+    <linearGradient id="gel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9eee3" stop-opacity=".86"/><stop offset=".55" stop-color="#fff" stop-opacity=".8"/><stop offset="1" stop-color="#b9dac9" stop-opacity=".7"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#46695b" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="600" cy="648" rx="430" ry="74" fill="#839f91" opacity=".13"/>
+  <path d="M206 514 C340 324 480 290 627 365 C758 432 871 420 1000 270 C927 503 778 606 596 555 C455 515 337 536 206 514Z" fill="url(#gel)" stroke="#fff" stroke-width="5" filter="url(#shadow)"/>
+  <path d="M327 483 C462 376 543 370 655 429 C760 485 840 457 919 366" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round" opacity=".56"/>
+  <circle cx="308" cy="258" r="57" fill="url(#gel)" stroke="#fff" stroke-width="5" filter="url(#shadow)"/>
+  <circle cx="902" cy="205" r="34" fill="url(#gel)" stroke="#fff" stroke-width="4" filter="url(#shadow)"/>
+  <circle cx="1018" cy="407" r="22" fill="url(#gel)" stroke="#fff" stroke-width="3"/>
+  <text x="600" y="736" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" letter-spacing="3" fill="#5e766b">GENERIC SERUM FORMAT · NOT PRODUCT IMAGERY</text>
+</svg>

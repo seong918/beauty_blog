@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Anua Heartleaf 77 B3 Zinc Trouble Serum review data</title>
+  <desc id="desc">Captured August 28 2026: skincare sales rank 3, rating 4.7 from 547 records, combination skin 45 percent, soothing concern 55 percent, gentle response 72 percent.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf6f1"/><stop offset="1" stop-color="#f7f2df"/></linearGradient></defs>
+  <rect width="1200" height="630" rx="42" fill="url(#bg)"/>
+  <circle cx="1060" cy="96" r="150" fill="#b7d8c8" opacity=".42"/>
+  <circle cx="113" cy="570" r="128" fill="#eadca7" opacity=".45"/>
+  <text x="72" y="82" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#315848">THE K-BEAUTY DATA DESK · 2026-08-28</text>
+  <text x="72" y="145" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#173f35">Anua Heartleaf 77 B3 Zinc</text>
+  <text x="72" y="193" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#173f35">Trouble Serum</text>
+  <g transform="translate(72 235)">
+    <rect width="310" height="142" rx="22" fill="#fff" opacity=".92"/>
+    <text x="26" y="48" font-family="Arial,sans-serif" font-size="20" fill="#60776d">SKINCARE SALES RANK</text>
+    <text x="26" y="112" font-family="Arial,sans-serif" font-size="60" font-weight="700" fill="#2e765e">#3</text>
+  </g>
+  <g transform="translate(407 235)">
+    <rect width="310" height="142" rx="22" fill="#fff" opacity=".92"/>
+    <text x="26" y="48" font-family="Arial,sans-serif" font-size="20" fill="#60776d">AVERAGE RATING</text>
+    <text x="26" y="112" font-family="Arial,sans-serif" font-size="60" font-weight="700" fill="#2e765e">4.7 / 5</text>
+  </g>
+  <g transform="translate(742 235)">
+    <rect width="386" height="142" rx="22" fill="#fff" opacity=".92"/>
+    <text x="26" y="48" font-family="Arial,sans-serif" font-size="20" fill="#60776d">REVIEW RECORDS</text>
+    <text x="26" y="112" font-family="Arial,sans-serif" font-size="60" font-weight="700" fill="#2e765e">547</text>
+  </g>
+  <g font-family="Arial,sans-serif" transform="translate(72 424)">
+    <text y="0" font-size="22" font-weight="700" fill="#315848">DISPLAYED POLLS</text>
+    <text y="56" font-size="30" font-weight="700" fill="#173f35">Combination skin 45%</text>
+    <text x="365" y="56" font-size="30" font-weight="700" fill="#173f35">Soothing concern 55%</text>
+    <text x="770" y="56" font-size="30" font-weight="700" fill="#173f35">Gentle 72%</text>
+    <text y="116" font-size="20" fill="#60776d">Retailer aggregates, not clinical outcomes · no star distribution displayed</text>
+  </g>
+</svg>
