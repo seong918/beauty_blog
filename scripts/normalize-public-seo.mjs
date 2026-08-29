@@ -6,6 +6,22 @@ const measurementId = "G-WC42SVESY5";
 const referralTrackerUrl = `${siteBase}assets/search-referral-tracker.js`;
 const applyChanges = process.argv.includes("--apply");
 const publicDirectories = ["compare", "guides", "posts"];
+const excludedPublicPaths = new Set([
+  "posts/product.html",
+  "posts/iope.html",
+  "posts/kirin-please-wait-a-moment.html",
+]);
+const excludedPublicUrls = new Set(
+  [...excludedPublicPaths].map((path) => `${siteBase}${path}`),
+);
+const excludedPublicBasenames = new Set(
+  [...excludedPublicPaths].map((path) => path.split("/").at(-1)),
+);
+const excludedVisibleLabels = [
+  "IOPE 잠시만 기다리십시오",
+  "잠시만 기다리십시오",
+  "Kirin Please Wait a Moment",
+];
 const publicRootFiles = [
   "404.html",
   "about.html",
@@ -57,7 +73,71 @@ function publicFiles() {
   return [
     ...publicRootFiles,
     ...publicDirectories.flatMap((directory) => walk(directory)),
-  ];
+  ].filter((path) => !excludedPublicPaths.has(relative(".", path).replaceAll("\\", "/")));
+}
+
+function removeExcludedItemListEntries(value) {
+  if (Array.isArray(value)) return value.map(removeExcludedItemListEntries);
+  if (!value || typeof value !== "object") return value;
+
+  const normalized = {};
+  for (const [key, child] of Object.entries(value)) {
+    if (key === "itemListElement" && Array.isArray(child)) {
+      normalized[key] = child
+        .filter((item) => !excludedPublicUrls.has(item?.url) && !excludedPublicUrls.has(item?.item))
+        .map((item, index) => ({
+          ...removeExcludedItemListEntries(item),
+          position: index + 1,
+        }));
+    } else {
+      normalized[key] = removeExcludedItemListEntries(child);
+    }
+  }
+  return normalized;
+}
+
+function stripExcludedReferences(content) {
+  content = content.replace(
+    /<script\b(?=[^>]*\btype=["']application\/ld\+json["'])[^>]*>([\s\S]*?)<\/script>/gi,
+    (block, json) => {
+      try {
+        return block.replace(json, JSON.stringify(removeExcludedItemListEntries(JSON.parse(json))));
+      } catch {
+        return block;
+      }
+    },
+  );
+
+  content = content.replace(
+    /<div\b[^>]*class=["'][^"']*\bpost\b[^"']*["'][^>]*>[\s\S]*?(?=<div\b[^>]*class=["'][^"']*\bpost\b|<footer\b)/gi,
+    (block) => [...excludedPublicPaths].some((path) => block.includes(`href="${path}"`) || block.includes(`href='${path}'`))
+      ? ""
+      : block,
+  );
+
+  content = content.replace(/<li\b[^>]*>[\s\S]*?<\/li>/gi, (item) => {
+    const hasExcludedLink = [...excludedPublicBasenames].some(
+      (basename) => item.includes(`href="${basename}"`) || item.includes(`href='${basename}'`)
+        || item.includes(`href="posts/${basename}"`) || item.includes(`href='posts/${basename}'`)
+        || item.includes(`href="../posts/${basename}"`) || item.includes(`href='../posts/${basename}'`),
+    );
+    return hasExcludedLink ? "" : item;
+  });
+
+  content = content.replace(/<item\b[^>]*>[\s\S]*?<\/item>/gi, (item) => (
+    [...excludedPublicUrls].some((url) => item.includes(url)) ? "" : item
+  ));
+  content = content
+    .split(/(?=^## )/m)
+    .filter((section) => ![...excludedPublicUrls].some((url) => section.includes(url)))
+    .join("");
+  content = content
+    .split(/\r?\n/)
+    .filter((line) => ![...excludedPublicUrls].some((url) => line.includes(url)))
+    .filter((line) => !excludedVisibleLabels.some((label) => line.includes(label)))
+    .join("\n");
+
+  return content;
 }
 
 function stripSourceRetailer(content) {
@@ -180,10 +260,19 @@ function ensureLlmsGuideLinks(content) {
 }
 
 function ensureMeasurement(content) {
-  if (!content.includes(measurementId)) {
-    const bootstrap = `<script async src="https://www.googletagmanager.com/gtag/js?id=${measurementId}"></script><script data-kbdd-ga4="${measurementId}">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${measurementId}')</script>`;
-    content = content.replace(/<\/head>/i, `${bootstrap}</head>`);
-  }
+  const externalTag = new RegExp(
+    `<script\\b[^>]*src=["']https://www\\.googletagmanager\\.com/gtag/js\\?id=${measurementId}["'][^>]*>\\s*</script>`,
+    "gi",
+  );
+  const markedBootstrap = /<script\b[^>]*data-kbdd-ga4=["'][^"']+["'][^>]*>[\s\S]*?<\/script>/gi;
+  const legacyBootstrap = new RegExp(
+    `<script>window\\.dataLayer=window\\.dataLayer\\|\\|\\[\\];function gtag\\(\\)\\{dataLayer\\.push\\(arguments\\)\\}gtag\\('js',new Date\\(\\)\\);gtag\\('config','${measurementId}'\\)</script>`,
+    "gi",
+  );
+  content = content.replace(externalTag, "").replace(markedBootstrap, "").replace(legacyBootstrap, "");
+
+  const bootstrap = `<script data-kbdd-ga4="${measurementId}">(function(){var p=new URLSearchParams(location.search);if((p.get('utm_source')||'').toLowerCase()==='healthcheck')return;window.dataLayer=window.dataLayer||[];window.gtag=function(){window.dataLayer.push(arguments)};window.gtag('js',new Date());window.gtag('config','${measurementId}');var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=${measurementId}';document.head.appendChild(s)})();</script>`;
+  content = content.replace(/<\/head>/i, `${bootstrap}</head>`);
 
   const trackerTag = `<script defer src="${referralTrackerUrl}" data-kbdd-tracker="search-referrals-v1"></script>`;
   const existingTracker = /<script\b[^>]*src=["'][^"']*search-referral-tracker\.js[^"']*["'][^>]*>\s*<\/script>/gi;
@@ -285,7 +374,8 @@ const changed = [];
 
 for (const file of files) {
   const original = readFileSync(file, "utf8");
-  let normalized = stripSourceRetailer(original);
+  let normalized = stripExcludedReferences(original);
+  normalized = stripSourceRetailer(normalized);
   if (file === "index.html") normalized = ensureHomepageLinks(normalized);
   if (file === "about.html") normalized = ensureAboutProfile(normalized);
   if (file === "rankings.html") normalized = ensureRankingsReportLink(normalized);

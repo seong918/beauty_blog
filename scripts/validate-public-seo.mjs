@@ -6,6 +6,19 @@ const measurementId = "G-WC42SVESY5";
 const referralTrackerPath = "assets/search-referral-tracker.js";
 const referralTrackerUrl = `${siteBase}${referralTrackerPath}`;
 const publicDirectories = ["compare", "guides", "posts"];
+const excludedPublicPaths = new Set([
+  "posts/product.html",
+  "posts/iope.html",
+  "posts/kirin-please-wait-a-moment.html",
+]);
+const excludedPublicUrls = new Set(
+  [...excludedPublicPaths].map((path) => `${siteBase}${path}`),
+);
+const excludedVisibleLabels = [
+  "IOPE 잠시만 기다리십시오",
+  "잠시만 기다리십시오",
+  "Kirin Please Wait a Moment",
+];
 const publicRootFiles = [
   "404.html",
   "about.html",
@@ -44,7 +57,7 @@ function walk(directory) {
 const files = [
   ...publicRootFiles,
   ...publicDirectories.flatMap((directory) => walk(directory)),
-];
+].filter((path) => !excludedPublicPaths.has(relative(".", path).replaceAll("\\", "/")));
 const failures = [];
 
 if (!existsSync(referralTrackerPath)) {
@@ -126,6 +139,7 @@ for (const file of files.filter((path) => path.endsWith(".html") && path !== "40
   const h1Count = [...content.matchAll(/<h1\b/gi)].length;
   const lang = content.match(/<html\b[^>]*\blang=["']([^"']+)["']/i)?.[1] ?? "";
   const trackerCount = [...content.matchAll(/<script\b[^>]*src=["'][^"']*search-referral-tracker\.js[^"']*["'][^>]*>/gi)].length;
+  const gaBootstrapCount = [...content.matchAll(/<script\b[^>]*data-kbdd-ga4=["'][^"']+["'][^>]*>/gi)].length;
   const jsonLdBlocks = [...content.matchAll(/<script\b(?=[^>]*\btype=["']application\/ld\+json["'])[^>]*>([\s\S]*?)<\/script>/gi)];
   const schemaTypes = [];
   for (const block of jsonLdBlocks) {
@@ -141,7 +155,12 @@ for (const file of files.filter((path) => path.endsWith(".html") && path !== "40
   if (descriptionTags.length !== 1 || !description) failures.push(`${file} must contain one non-empty meta description.`);
   if (h1Count !== 1) failures.push(`${file} must contain exactly one h1; found ${h1Count}.`);
   if (!lang) failures.push(`${file} must declare the HTML language.`);
-  if (!content.includes(measurementId)) failures.push(`${file} is missing the GA4 measurement tag.`);
+  if (!content.includes(measurementId) || gaBootstrapCount !== 1) {
+    failures.push(`${file} must contain one canonical GA4 bootstrap.`);
+  }
+  if (!content.includes("utm_source") || !content.includes("healthcheck")) {
+    failures.push(`${file} must suppress GA4 during automated health checks.`);
+  }
   if (trackerCount !== 1 || !content.includes(referralTrackerUrl)) {
     failures.push(`${file} must load the canonical search-referral tracker exactly once.`);
   }
@@ -175,6 +194,22 @@ for (const canonical of expectedCanonicals) {
 for (const sitemapUrl of sitemapSet) {
   if (!expectedCanonicals.has(sitemapUrl)) {
     failures.push(`sitemap.xml contains a URL without a matching canonical page: ${sitemapUrl}`);
+  }
+}
+
+for (const excludedUrl of excludedPublicUrls) {
+  if (sitemapSet.has(excludedUrl)) failures.push(`Excluded placeholder URL remains in sitemap: ${excludedUrl}`);
+  for (const file of files) {
+    if (readFileSync(file, "utf8").includes(excludedUrl)) {
+      failures.push(`${file} still references excluded placeholder URL: ${excludedUrl}`);
+    }
+  }
+}
+for (const label of excludedVisibleLabels) {
+  for (const file of files) {
+    if (readFileSync(file, "utf8").includes(label)) {
+      failures.push(`${file} still contains excluded placeholder label: ${label}`);
+    }
   }
 }
 

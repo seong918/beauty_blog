@@ -38,3 +38,14 @@ The scheduled SEO workflow checks public crawlability every Sunday at 09:00 Asia
 ### GA4 reporting
 
 In GA4, create an exploration filtered to event name `ai_referral_visit`, then break it down by `ai_source` and `landing_path`. Use `organic_search_visit` with `search_engine` for a matching SEO landing-page view. Register the event parameters as custom dimensions if they are not already available in explorations.
+
+### 2026-08-29 performance findings and remediation
+
+- GA4 reported 17 active users and 25 sessions for the prior 90 days. Twenty-one sessions were direct, two were tagged as health checks, one was unassigned, and one came from Bing organic search.
+- Search Console reported 121 Google web impressions, zero clicks, a 0% CTR, and an average position of 12.7 for the three-month view. Only six pages were indexed.
+- Google AI search features reported 14 impressions across three data-led guide pages, led by the Anua-vs-Medicube PDRN comparison.
+- Both submitted Google sitemaps were still marked unreadable with zero discovered pages, although the current public XML sitemap loaded successfully.
+- Search Console reported zero external links and one recognized internal link.
+- Three captured loading/error pages are now excluded from the deployed artifact, internal discovery surfaces, structured lists, LLM digests, RSS, and sitemaps. New candidates with loading, CAPTCHA, blocked-request, or generic-product signals are rejected before publication.
+- The deployed GA4 bootstrap now skips visits carrying `utm_source=healthcheck`, preventing automated verification traffic from inflating audience and engagement reports.
+- After deployment, re-submit only `sitemap.xml`, request indexing for the highest-value guide and fresh article URLs, and use the sitemap's discovered-page count as the first recovery indicator.
