@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## medicube PDRN Pink Peptide Ampoule: What 15,113 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/medicube-pdrn-pink-peptide-ampoule.html
+- Published: 2026-08-29
+- Summary: medicube PDRN Pink Peptide Ampoule: 4.8★ from 15,113 Olive Young Korea review records (85% five-star).
+- Rating: 4.8 / 5 from 15,113 reviews (5★ 85% · 4★ 9% · 3★ 4% · 2★ 1% · 1★ 1%)
+
 ## 바이오힐보 3D리프팅 Cream: What 6,547 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/3d-cream.html
@@ -147,13 +154,6 @@
 - Published: 2026-07-29
 - Summary: 디오디너리 Niacinamide 10% 1%: 4.7★ from 12,387 Olive Young Korea review records (81% five-star).
 - Rating: 4.7 / 5 from 12,387 reviews (5★ 81% · 4★ 13% · 3★ 4% · 2★ 1% · 1★ 1%)
-
-## Medicube PDRN Pink Peptide Ampoule: What 25,435 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/medicube-pdrn-pink-peptide-ampoule.html
-- Published: 2026-07-28
-- Summary: Medicube PDRN Pink Peptide Ampoule: 4.7★ from 25,435 Olive Young Korea review records (84% five-star).
-- Rating: 4.7 / 5 from 25,435 reviews (5★ 84% · 4★ 10% · 3★ 4% · 2★ 1% · 1★ 1%)
 
 ## Bioderma Hydrabio Essence Lotion: What 9,621 Olive Young Review Signals Show (2026)
 
