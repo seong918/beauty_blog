@@ -96,7 +96,7 @@ function removeExcludedItemListEntries(value) {
   return normalized;
 }
 
-function stripExcludedReferences(content) {
+function stripExcludedReferences(content, file) {
   content = content.replace(
     /<script\b(?=[^>]*\btype=["']application\/ld\+json["'])[^>]*>([\s\S]*?)<\/script>/gi,
     (block, json) => {
@@ -127,10 +127,12 @@ function stripExcludedReferences(content) {
   content = content.replace(/<item\b[^>]*>[\s\S]*?<\/item>/gi, (item) => (
     [...excludedPublicUrls].some((url) => item.includes(url)) ? "" : item
   ));
-  content = content
-    .split(/(?=^## )/m)
-    .filter((section) => ![...excludedPublicUrls].some((url) => section.includes(url)))
-    .join("");
+  if (file === "llms-full.txt") {
+    content = content
+      .split(/(?=^## )/m)
+      .filter((section) => ![...excludedPublicUrls].some((url) => section.includes(url)))
+      .join("");
+  }
   content = content
     .split(/\r?\n/)
     .filter((line) => ![...excludedPublicUrls].some((url) => line.includes(url)))
@@ -374,7 +376,7 @@ const changed = [];
 
 for (const file of files) {
   const original = readFileSync(file, "utf8");
-  let normalized = stripExcludedReferences(original);
+  let normalized = stripExcludedReferences(original, file);
   normalized = stripSourceRetailer(normalized);
   if (file === "index.html") normalized = ensureHomepageLinks(normalized);
   if (file === "about.html") normalized = ensureAboutProfile(normalized);
