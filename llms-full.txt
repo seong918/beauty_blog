@@ -2,6 +2,15 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## belif Frozen Cream: What 14,013 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/belif-frozen-cream.html
+- Published: 2026-08-29
+- Summary: belif Frozen Cream: 4.9★ from 14,013 Olive Young Korea review records; displayed polls were combination skin 50%, soothing concern 59%, and gentle response 69%.
+- Rating: 4.9 / 5 from 14,013 reviews; no reliable star-by-star distribution was exposed.
+- Displayed polls: combination skin 50%; soothing concern 59%; gentle response 69%.
+- Scope: retailer aggregates and anonymous grouped themes only; no individual review text, names, or photographs reproduced.
+
 ## medicube PDRN Pink Peptide Ampoule: What 15,113 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/medicube-pdrn-pink-peptide-ampoule.html

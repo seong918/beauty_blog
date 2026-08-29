@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic gel-cream texture illustration</title>
+  <desc id="desc">A brand-neutral, code-drawn pale translucent gel-cream sweep with water-like droplets.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1fafc"/><stop offset=".55" stop-color="#f7fbf8"/><stop offset="1" stop-color="#e6f4f2"/></linearGradient>
+    <linearGradient id="gel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d6f2f5" stop-opacity=".88"/><stop offset=".5" stop-color="#f8ffff" stop-opacity=".95"/><stop offset="1" stop-color="#bde5e7" stop-opacity=".78"/></linearGradient>
+    <radialGradient id="drop"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset=".6" stop-color="#cfeff2" stop-opacity=".8"/><stop offset="1" stop-color="#7dc2cc" stop-opacity=".45"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="24" stdDeviation="20" flood-color="#4b8790" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#background)"/>
+  <ellipse cx="600" cy="650" rx="430" ry="72" fill="#80adb0" opacity=".12" filter="url(#blur)"/>
+  <path d="M171 551 C272 413 404 334 591 304 C771 274 905 329 1027 427 C881 405 788 441 683 516 C558 606 383 632 171 551 Z" fill="url(#gel)" stroke="#b8dfe2" stroke-width="5" filter="url(#shadow)"/>
+  <path d="M238 521 C371 418 507 378 668 374 C790 372 887 401 957 437 C810 430 717 473 621 523 C497 588 356 581 238 521 Z" fill="#fff" opacity=".48"/>
+  <ellipse cx="384" cy="265" rx="42" ry="54" fill="url(#drop)" stroke="#b1dce1" stroke-width="3"/>
+  <ellipse cx="887" cy="248" rx="30" ry="39" fill="url(#drop)" stroke="#b1dce1" stroke-width="3"/>
+  <ellipse cx="992" cy="333" rx="18" ry="24" fill="url(#drop)" stroke="#b1dce1" stroke-width="2"/>
+  <text x="64" y="730" fill="#52727a" font-family="system-ui,sans-serif" font-size="22" font-weight="650" letter-spacing="1.5">GENERIC GEL-CREAM FORMAT · NOT A PRODUCT PHOTOGRAPH</text>
+</svg>
