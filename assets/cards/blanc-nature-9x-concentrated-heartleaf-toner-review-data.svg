@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">BLANC NATURE Heartleaf Toner aggregate review data</title>
+  <desc id="desc">Skincare sales rank eight, 5.0 stars from 6,137 records, with dry skin 39 percent, hydration concern 75 percent, and gentle response 97 percent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#effaf5"/><stop offset="1" stop-color="#dbeee7"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4a9a80"/><stop offset="1" stop-color="#2f725e"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <circle cx="1040" cy="98" r="145" fill="#c8e5da" opacity=".65"/>
+  <circle cx="1110" cy="540" r="210" fill="#f9fffc" opacity=".7"/>
+  <text x="70" y="88" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" fill="#2c6151">THE K-BEAUTY DATA DESK · 2026-08-30</text>
+  <text x="70" y="148" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="800" fill="#173d32">BLANC NATURE HEARTLEAF TONER</text>
+  <text x="70" y="202" font-family="Arial,Helvetica,sans-serif" font-size="26" fill="#42675b">Olive Young Korea aggregate snapshot · skincare sales rank #8</text>
+  <rect x="70" y="244" width="330" height="154" rx="22" fill="#ffffff" opacity=".92"/>
+  <text x="104" y="312" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="800" fill="#245e4d">5.0 ★</text>
+  <text x="104" y="360" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#4d6f64">6,137 review records</text>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="454" y="268" font-size="24" font-weight="700" fill="#244f42">Dry skin · 39%</text><rect x="454" y="284" width="630" height="20" rx="10" fill="#d8e7e1"/><rect x="454" y="284" width="246" height="20" rx="10" fill="url(#bar)"/>
+    <text x="454" y="340" font-size="24" font-weight="700" fill="#244f42">Hydration concern · 75%</text><rect x="454" y="356" width="630" height="20" rx="10" fill="#d8e7e1"/><rect x="454" y="356" width="473" height="20" rx="10" fill="url(#bar)"/>
+    <text x="454" y="412" font-size="24" font-weight="700" fill="#244f42">Gentle response · 97%</text><rect x="454" y="428" width="630" height="20" rx="10" fill="#d8e7e1"/><rect x="454" y="428" width="611" height="20" rx="10" fill="url(#bar)"/>
+  </g>
+  <rect x="70" y="492" width="1060" height="82" rx="18" fill="#fff" opacity=".84"/>
+  <text x="100" y="528" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#365f53">DISPLAYED RETAIL SIGNALS — NOT CLINICAL OUTCOMES</text>
+  <text x="100" y="556" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#5b746c">No reliable star distribution or separate poll denominators were exposed; none are estimated.</text>
+</svg>
