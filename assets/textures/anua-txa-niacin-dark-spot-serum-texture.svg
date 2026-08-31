@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic translucent serum texture illustration</title>
+  <desc id="desc">A brand-neutral code-drawn illustration of clear serum droplets and a soft lavender gel ribbon on a pale surface.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbfaf7"/><stop offset="1" stop-color="#eee8f0"/></linearGradient>
+    <linearGradient id="gel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8eef9" stop-opacity=".82"/><stop offset=".55" stop-color="#c7a8cc" stop-opacity=".7"/><stop offset="1" stop-color="#8c6992" stop-opacity=".45"/></linearGradient>
+    <filter id="shadow"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="603" cy="580" rx="410" ry="88" fill="#876e8c" opacity=".16" filter="url(#shadow)"/>
+  <path d="M173 492C279 356 405 337 518 407c110 69 167 128 305 65 97-44 157-118 224-93 62 24 58 113-14 172-130 108-343 130-533 100-176-28-391-77-327-159Z" fill="url(#gel)"/>
+  <path d="M242 486c93-84 173-97 265-42 132 78 212 128 371 35 72-42 121-56 153-27" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round" opacity=".63"/>
+  <g fill="#fff" opacity=".7" stroke="#b495b9" stroke-width="3"><ellipse cx="326" cy="282" rx="58" ry="76"/><ellipse cx="901" cy="262" rx="42" ry="56"/><ellipse cx="744" cy="174" rx="25" ry="34"/></g>
+  <g fill="#8a6b90" opacity=".3"><circle cx="306" cy="257" r="13"/><circle cx="887" cy="243" r="9"/><circle cx="735" cy="161" r="6"/></g>
+  <text x="600" y="735" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#736778">GENERIC SERUM-FORMAT ILLUSTRATION · NOT THE PRODUCT OR A USER PHOTO</text>
+</svg>
