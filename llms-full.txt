@@ -2,6 +2,15 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Zeroid Intensive Cream: What 12,535 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/zeroid-intensive-cream.html
+- Published: 2026-09-01
+- Summary: Zeroid Intensive Cream: 4.8★ from 12,535 Olive Young Korea review records; displayed polls were dry skin 45%, hydration concern 72%, and gentle response 81%.
+- Rating: 4.8 / 5 from 12,535 reviews; no reliable star-by-star distribution was exposed.
+- Displayed polls: dry skin 45% · hydration concern 72% · gentle response 81%.
+- Scope: rank two in the captured skincare sales ranking; retail aggregates do not establish efficacy, safety, or individual fit.
+
 ## Anua TXA Niacin Dark Spot Serum: What 5,954 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/anua-txa-niacin-dark-spot-serum.html

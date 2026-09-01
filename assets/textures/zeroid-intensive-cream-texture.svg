@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic cream-format illustration</title>
+  <desc id="desc">A brand-neutral illustration of soft ivory cream swirls on a muted sage background.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e7eee4"/><stop offset="1" stop-color="#d5dfd1"/></linearGradient><linearGradient id="cream" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fffdf7"/><stop offset="1" stop-color="#e9e1d2"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#66705e" flood-opacity=".2"/></filter></defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="180" cy="155" r="95" fill="#eef2ea" opacity=".8"/><circle cx="1040" cy="650" r="180" fill="#cad7c5" opacity=".7"/>
+  <g filter="url(#shadow)">
+    <path d="M190 545c75-126 188-193 330-196 120-3 166-90 252-112 110-28 216 52 247 135 39 104-39 201-141 228-141 38-238-12-357 31-121 44-258 39-319-21-21-20-25-43-12-65z" fill="url(#cream)"/>
+    <path d="M315 525c80-83 173-107 283-82 82 18 139-25 205-48 68-24 132-7 165 27-50-16-99-4-149 29-77 51-146 64-230 45-99-22-174-12-274 29z" fill="#fff" opacity=".72"/>
+  </g>
+  <path d="M455 276c67-44 138-54 212-30" fill="none" stroke="#f9f4e9" stroke-width="34" stroke-linecap="round" opacity=".9"/>
+  <text x="68" y="92" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#4f614c">GENERIC CREAM FORMAT</text>
+  <text x="68" y="735" font-family="Arial, sans-serif" font-size="22" fill="#5b6758">Brand-neutral illustration · not product photography · not a use test</text>
+</svg>
