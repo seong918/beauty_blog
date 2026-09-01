@@ -2,23 +2,12 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Zeroid Intensive Cream: What 12,535 Olive Young Review Signals Show (2026)
+## 바이오힐보 Mist 2종: What 2,165 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/zeroid-intensive-cream.html
+- URL: https://seong918.github.io/beauty_blog/posts/mist-2.html
 - Published: 2026-09-01
-- Summary: Zeroid Intensive Cream: 4.8★ from 12,535 Olive Young Korea review records; displayed polls were dry skin 45%, hydration concern 72%, and gentle response 81%.
-- Rating: 4.8 / 5 from 12,535 reviews; no reliable star-by-star distribution was exposed.
-- Displayed polls: dry skin 45% · hydration concern 72% · gentle response 81%.
-- Scope: rank two in the captured skincare sales ranking; retail aggregates do not establish efficacy, safety, or individual fit.
-
-## Anua TXA Niacin Dark Spot Serum: What 5,954 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/anua-txa-niacin-dark-spot-serum.html
-- Published: 2026-08-31
-- Summary: Anua TXA Niacin Dark Spot Serum: 4.8★ from 5,954 Olive Young Korea review records; displayed polls were dry skin 49%, hydration concern 45%, and gentle response 69%.
-- Rating: 4.8 / 5 from 5,954 reviews; no reliable star-by-star distribution was exposed.
-- Displayed polls: dry skin 49% · hydration concern 45% · gentle response 69%.
-- Anonymous automated summary: 85% recent-positive classification; grouped themes concerned mark appearance, moisturized or nourished feel, and brighter or more even-looking tone. These are subjective retail themes, not measured outcomes.
+- Summary: 바이오힐보 Mist 2종: 4.9★ from 2,165 Olive Young Korea review records (91% five-star).
+- Rating: 4.9 / 5 from 2,165 reviews (5★ 91% · 4★ 7% · 3★ 1% · 2★ 0% · 1★ 1%)
 
 ## 동국제약 잠시만 기다리십시오…: What 1,343 Olive Young Review Signals Show (2026)
 
@@ -26,22 +15,6 @@
 - Published: 2026-08-31
 - Summary: 동국제약 잠시만 기다리십시오…: 4.8★ from 1,343 Olive Young Korea review records (88% five-star).
 - Rating: 4.8 / 5 from 1,343 reviews (5★ 88% · 4★ 7% · 3★ 3% · 2★ 1% · 1★ 1%)
-
-## BLANC NATURE 9x Concentrated Heartleaf Toner: What 6,137 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/blanc-nature-9x-concentrated-heartleaf-toner.html
-- Published: 2026-08-30
-- Summary: BLANC NATURE 9x Concentrated Heartleaf Toner: 5.0★ from 6,137 Olive Young Korea review records; displayed polls were dry skin 39%, hydration concern 75%, and gentle response 97%.
-- Rating: 5.0 / 5 from 6,137 reviews; no reliable star-by-star distribution was exposed.
-- Displayed polls: dry skin 39% · hydration concern 75% · gentle response 97%.
-
-## belif Frozen Cream: What 14,013 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/belif-frozen-cream.html
-- Published: 2026-08-29
-- Summary: belif Frozen Cream: 4.9★ from 14,013 Olive Young Korea review records; displayed polls were combination skin 50%, soothing concern 59%, and gentle response 69%.
-- Rating: 4.9 / 5 from 14,013 reviews; no reliable star-by-star distribution was exposed.
-- Displayed polls: combination skin 50% · soothing concern 59% · gentle response 69%.
 
 ## Centellian24 Madeca Cream Time Reverse: What 8,497 Olive Young Review Signals Show (2026)
 
