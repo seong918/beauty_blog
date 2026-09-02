@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Goodal serum aggregate review data</title>
+  <desc id="desc">Skincare sales rank four, 4.8 stars from 3,062 linked records, with displayed polls for combination skin 64 percent, wrinkle and brightening concern 49 percent, and gentle response 70 percent.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f8e8"/><stop offset="1" stop-color="#e7efd0"/></linearGradient></defs>
+  <rect width="1200" height="630" rx="38" fill="url(#bg)"/>
+  <circle cx="1050" cy="98" r="150" fill="#d8e68d" opacity=".55"/><circle cx="112" cy="560" r="180" fill="#f4d879" opacity=".35"/>
+  <text x="76" y="96" font-family="system-ui,sans-serif" font-size="28" font-weight="700" fill="#59702d">RETAILER SNAPSHOT · 2026-09-02</text>
+  <text x="76" y="160" font-family="system-ui,sans-serif" font-size="46" font-weight="750" fill="#2f3a28">Goodal Green Tangerine Vita C</text>
+  <text x="76" y="214" font-family="system-ui,sans-serif" font-size="36" font-weight="600" fill="#4e5b42">Dark Spot Care Serum Alpha</text>
+  <rect x="76" y="258" width="314" height="210" rx="24" fill="#fff" opacity=".9"/><text x="112" y="316" font-family="system-ui,sans-serif" font-size="24" fill="#66705d">SKINCARE SALES RANK</text><text x="112" y="410" font-family="system-ui,sans-serif" font-size="88" font-weight="800" fill="#78933d">#4</text>
+  <rect x="420" y="258" width="704" height="210" rx="24" fill="#fff" opacity=".9"/><text x="458" y="318" font-family="system-ui,sans-serif" font-size="24" fill="#66705d">DISPLAYED RATING</text><text x="458" y="405" font-family="system-ui,sans-serif" font-size="82" font-weight="800" fill="#2f3a28">4.8 / 5</text><text x="805" y="397" font-family="system-ui,sans-serif" font-size="30" fill="#66705d">3,062 records</text>
+  <text x="76" y="532" font-family="system-ui,sans-serif" font-size="27" font-weight="650" fill="#38432f">Combination skin 64%</text><text x="418" y="532" font-family="system-ui,sans-serif" font-size="27" font-weight="650" fill="#38432f">Concern 49%</text><text x="745" y="532" font-family="system-ui,sans-serif" font-size="27" font-weight="650" fill="#38432f">Gentle response 70%</text>
+  <text x="76" y="583" font-family="system-ui,sans-serif" font-size="20" fill="#67705f">Survey shares describe displayed responses, not efficacy, safety, or individual fit.</text>
+</svg>

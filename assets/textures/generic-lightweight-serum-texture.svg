@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic lightweight serum texture illustration</title>
+  <desc id="desc">A brand-neutral abstract field of translucent serum droplets and a soft gel sweep. This is not a product photograph.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf8e8"/><stop offset="1" stop-color="#e8efd7"/></linearGradient><linearGradient id="gel" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity=".25"/><stop offset=".5" stop-color="#fff" stop-opacity=".78"/><stop offset="1" stop-color="#dfe99f" stop-opacity=".3"/></linearGradient><radialGradient id="drop"><stop stop-color="#fff" stop-opacity=".94"/><stop offset=".62" stop-color="#edf2c9" stop-opacity=".58"/><stop offset="1" stop-color="#becd68" stop-opacity=".28"/></radialGradient></defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <path d="M70 535 C280 378 484 617 706 442 C868 315 999 346 1150 224" fill="none" stroke="url(#gel)" stroke-width="118" stroke-linecap="round"/>
+  <ellipse cx="310" cy="245" rx="110" ry="92" fill="url(#drop)"/><ellipse cx="872" cy="592" rx="128" ry="103" fill="url(#drop)"/><ellipse cx="1005" cy="238" rx="70" ry="58" fill="url(#drop)"/>
+  <path d="M270 217 C296 180 348 174 380 209" fill="none" stroke="#fff" stroke-width="13" stroke-linecap="round" opacity=".8"/><path d="M826 563 C858 519 918 510 956 546" fill="none" stroke="#fff" stroke-width="15" stroke-linecap="round" opacity=".75"/>
+  <text x="70" y="724" font-family="system-ui,sans-serif" font-size="25" fill="#69705e">Generic serum-format study · no product, package, logo, or user image</text>
+</svg>
