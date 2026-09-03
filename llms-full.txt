@@ -2,12 +2,23 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Real Barrier Extreme Cream: What 12,325 Olive Young Review Signals Show (2026)
+## Eucerin Thiamidol Booster Serum: What 694 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/real-barrier-extreme-cream.html
+- URL: https://seong918.github.io/beauty_blog/posts/eucerin-thiamidol-booster-serum.html
 - Published: 2026-09-03
-- Summary: Real Barrier Extreme Cream: 4.9★ from 12,325 Olive Young Korea review records (90% five-star).
-- Rating: 4.9 / 5 from 12,325 reviews (5★ 90% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 0%)
+- Summary: Eucerin Thiamidol Booster Serum: 4.7★ from 694 Olive Young Korea review records; no reliable star distribution was exposed.
+- Rating: 4.7 / 5 from 694 reviews; no reliable star-by-star distribution was exposed.
+- Displayed polls: no reliable skin-type, concern, or irritation poll was exposed in the captured view.
+- Evidence limit: rating buckets, survey denominators, and clinical outcomes were not displayed.
+
+## Goodal Green Tangerine Vita C Dark Spot Care Serum Alpha: What 3,062 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/goodal-green-tangerine-vita-c-dark-spot-care-serum-alpha.html
+- Published: 2026-09-02
+- Summary: Goodal Green Tangerine Vita C Dark Spot Care Serum Alpha: 4.8★ from 3,062 Olive Young Korea review records; no reliable star distribution was exposed.
+- Rating: 4.8 / 5 from 3,062 reviews; no reliable star-by-star distribution was exposed.
+- Displayed polls: combination skin 64%; wrinkle / brightening concern 49%; gentle response 70%.
+- Evidence limit: survey denominators and clinical outcomes were not displayed.
 
 ## Torriden Dive-In Low Molecular Hyaluronic Acid Serum: What 2,203 Olive Young Review Signals Show (2026)
 
