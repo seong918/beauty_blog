@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Eucerin Thiamidol Booster Serum review data</title>
+  <desc id="desc">Olive Young Korea skincare sales rank eight, 4.7 stars, 694 linked review records, captured September 3 2026.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff9fc"/><stop offset="1" stop-color="#f1dce7"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9f5379"/><stop offset="1" stop-color="#d28baa"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <circle cx="1090" cy="98" r="150" fill="#e8bad0" opacity=".35"/>
+  <circle cx="72" cy="570" r="125" fill="#e3c6d5" opacity=".45"/>
+  <text x="74" y="84" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#85536d" letter-spacing="2">THE K-BEAUTY DATA DESK</text>
+  <text x="74" y="155" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="800" fill="#342f34">Eucerin Thiamidol</text>
+  <text x="74" y="207" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="800" fill="#342f34">Booster Serum</text>
+  <rect x="74" y="258" width="1052" height="218" rx="28" fill="#fff" opacity=".88" stroke="#e3c5d4" stroke-width="2"/>
+  <text x="137" y="326" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#7a6a72">SKINCARE SALES RANK</text>
+  <text x="188" y="422" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="800" fill="#9f5379">#8</text>
+  <line x1="400" y1="292" x2="400" y2="444" stroke="#eadfe6" stroke-width="2"/>
+  <text x="477" y="326" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#7a6a72">AVERAGE RATING</text>
+  <text x="486" y="422" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="800" fill="#9f5379">4.7</text>
+  <text x="638" y="417" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#9f5379">/ 5</text>
+  <line x1="752" y1="292" x2="752" y2="444" stroke="#eadfe6" stroke-width="2"/>
+  <text x="811" y="326" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#7a6a72">LINKED RECORDS</text>
+  <text x="834" y="422" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="800" fill="#9f5379">694</text>
+  <rect x="74" y="516" width="340" height="8" rx="4" fill="url(#accent)"/>
+  <text x="74" y="566" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#5f555a">Captured 2026-09-03 · Olive Young Korea</text>
+  <text x="1126" y="566" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#7a6a72">No star distribution inferred</text>
+</svg>

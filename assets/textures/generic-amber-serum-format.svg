@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic amber serum format illustration</title>
+  <desc id="desc">A brand-neutral code-drawn illustration of translucent amber serum droplets and a fluid sweep on a pale background.</desc>
+  <defs>
+    <radialGradient id="drop" cx="38%" cy="28%" r="68%"><stop stop-color="#fff9df" stop-opacity=".92"/><stop offset=".4" stop-color="#e7aa6d" stop-opacity=".72"/><stop offset="1" stop-color="#a85d55" stop-opacity=".58"/></radialGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4c98b" stop-opacity=".3"/><stop offset=".48" stop-color="#d98f72" stop-opacity=".78"/><stop offset="1" stop-color="#8f4e57" stop-opacity=".22"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="#fbf4ef"/>
+  <ellipse cx="602" cy="627" rx="440" ry="55" fill="#9b5d5b" opacity=".12" filter="url(#shadow)"/>
+  <path d="M156 527 C318 402 500 394 678 466 C822 524 969 501 1082 378 C1008 552 846 645 651 623 C451 601 292 651 156 527Z" fill="url(#sweep)"/>
+  <path d="M207 525 C374 450 486 450 646 507 C805 564 935 534 1031 443" fill="none" stroke="#fff7e9" stroke-width="18" stroke-linecap="round" opacity=".55"/>
+  <ellipse cx="372" cy="289" rx="92" ry="112" fill="url(#drop)" transform="rotate(-12 372 289)"/>
+  <ellipse cx="643" cy="231" rx="58" ry="73" fill="url(#drop)" transform="rotate(17 643 231)"/>
+  <ellipse cx="842" cy="340" rx="73" ry="90" fill="url(#drop)" transform="rotate(8 842 340)"/>
+  <ellipse cx="344" cy="254" rx="24" ry="31" fill="#fff" opacity=".62" transform="rotate(-12 344 254)"/>
+  <ellipse cx="624" cy="209" rx="15" ry="20" fill="#fff" opacity=".66"/>
+  <ellipse cx="820" cy="311" rx="18" ry="25" fill="#fff" opacity=".58"/>
+  <text x="600" y="730" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#7d6262" letter-spacing="1.5">GENERIC SERUM FORMAT · NOT A PRODUCT PHOTO</text>
+</svg>
