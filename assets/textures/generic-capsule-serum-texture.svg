@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic capsule serum texture illustration</title>
+  <desc id="desc">A brand-neutral abstract illustration of a translucent serum sweep, droplets, and suspended capsule-like spheres. It does not depict a real product.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4faf6"/><stop offset="1" stop-color="#d9eee2"/></linearGradient>
+    <linearGradient id="gel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dff5e7" stop-opacity=".9"/><stop offset=".55" stop-color="#8bcba6" stop-opacity=".63"/><stop offset="1" stop-color="#4a936c" stop-opacity=".78"/></linearGradient>
+    <radialGradient id="drop"><stop stop-color="#fff" stop-opacity=".96"/><stop offset=".4" stop-color="#bee7cd" stop-opacity=".78"/><stop offset="1" stop-color="#5da67b" stop-opacity=".65"/></radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#paper)"/>
+  <ellipse cx="610" cy="640" rx="420" ry="56" fill="#699b7c" opacity=".18" filter="url(#shadow)"/>
+  <path d="M165 553C300 359 469 299 666 332c142 24 253 110 369 52-92 190-302 259-509 224-159-27-275-4-361-55Z" fill="url(#gel)" opacity=".88"/>
+  <path d="M209 528c126-126 282-168 441-135 119 25 215 73 315 40-103 96-243 137-399 114-151-22-253-25-357-19Z" fill="#f5fff8" opacity=".48"/>
+  <g fill="url(#drop)" stroke="#fff" stroke-opacity=".75" stroke-width="5">
+    <circle cx="402" cy="360" r="44"/><circle cx="520" cy="426" r="28"/><circle cx="649" cy="397" r="38"/><circle cx="786" cy="452" r="25"/><circle cx="864" cy="372" r="48"/>
+  </g>
+  <g fill="#f5fff8" opacity=".75"><circle cx="390" cy="346" r="10"/><circle cx="639" cy="384" r="9"/><circle cx="850" cy="354" r="12"/></g>
+  <path d="M377 188c0-56 45-103 101-103s101 47 101 103c0 83-101 168-101 168S377 271 377 188Z" fill="url(#drop)" opacity=".88"/>
+  <ellipse cx="452" cy="141" rx="24" ry="37" fill="#fff" opacity=".7" transform="rotate(28 452 141)"/>
+  <text x="70" y="730" font-family="Arial,sans-serif" font-size="24" fill="#4b6d5a">Generic serum-format study · no product, package, logo, or user image</text>
+</svg>
