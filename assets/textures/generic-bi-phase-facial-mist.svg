@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic bi-phase facial mist illustration</title>
+  <desc id="desc">A brand-neutral abstract illustration of fine mist, golden serum droplets, and a translucent fluid wave. It is not a product photograph.</desc>
+  <defs><linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf8"/><stop offset="1" stop-color="#f2dfbb"/></linearGradient><linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f6d08f" stop-opacity=".25"/><stop offset=".5" stop-color="#c88a36" stop-opacity=".65"/><stop offset="1" stop-color="#fff" stop-opacity=".25"/></linearGradient><radialGradient id="drop"><stop stop-color="#fff7dc"/><stop offset=".6" stop-color="#e9b65f"/><stop offset="1" stop-color="#b66e24"/></radialGradient></defs>
+  <rect width="1200" height="800" rx="42" fill="url(#background)"/>
+  <path d="M0 560 C180 420 300 690 500 530 S790 390 1200 545 L1200 800 L0 800Z" fill="url(#wave)"/>
+  <g fill="#fff" opacity=".85"><circle cx="220" cy="210" r="10"/><circle cx="276" cy="166" r="6"/><circle cx="334" cy="234" r="8"/><circle cx="402" cy="174" r="12"/><circle cx="462" cy="254" r="7"/><circle cx="520" cy="191" r="9"/><circle cx="586" cy="238" r="5"/><circle cx="648" cy="164" r="11"/><circle cx="710" cy="220" r="7"/><circle cx="770" cy="180" r="5"/><circle cx="832" cy="238" r="10"/><circle cx="895" cy="194" r="7"/></g>
+  <g fill="url(#drop)" opacity=".9"><path d="M315 315 C315 270 352 237 352 237 C352 237 389 270 389 315 A37 37 0 1 1 315 315Z"/><path d="M550 350 C550 292 598 248 598 248 C598 248 646 292 646 350 A48 48 0 1 1 550 350Z"/><path d="M782 320 C782 278 817 247 817 247 C817 247 852 278 852 320 A35 35 0 1 1 782 320Z"/></g>
+  <path d="M165 470 C360 385 528 466 672 430 C840 388 945 325 1080 390" fill="none" stroke="#fff" stroke-width="42" stroke-linecap="round" opacity=".55"/>
+  <text x="72" y="718" font-family="Arial,Helvetica,sans-serif" font-size="27" fill="#6b5132">GENERIC BI-PHASE MIST FORMAT · NOT PRODUCT IMAGERY</text>
+  <text x="72" y="758" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#8a7154">Spray pattern, texture, scent, finish, and routine behavior were not tested.</text>
+</svg>
