@@ -63,7 +63,7 @@ function postFiles() {
     .map((name) => join(postsDirectory, name));
 }
 
-function validateCandidate(inputPath, { allowTracked = false } = {}) {
+function validateCandidate(inputPath, { allowTracked = false, requireToday = true } = {}) {
   const absolutePath = resolve(repositoryRoot, inputPath);
   const relativePath = relative(repositoryRoot, absolutePath).replaceAll("\\", "/");
 
@@ -102,7 +102,10 @@ function validateCandidate(inputPath, { allowTracked = false } = {}) {
   const today = koreaDate();
   const published = content.match(/"datePublished"\s*:\s*"(\d{4}-\d{2}-\d{2})"/)?.[1];
   const modified = content.match(/"dateModified"\s*:\s*"(\d{4}-\d{2}-\d{2})"/)?.[1];
-  if (published !== today || modified !== today) {
+  if (!published || !modified) {
+    fail(`Candidate must carry datePublished and dateModified; found ${published ?? "none"}/${modified ?? "none"}.`);
+  }
+  if (requireToday && (published !== today || modified !== today)) {
     fail(`Candidate publish/modified dates must both be ${today}; found ${published ?? "none"}/${modified ?? "none"}.`);
   }
 
