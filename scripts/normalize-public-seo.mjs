@@ -327,6 +327,7 @@ function rebuildSitemap(files) {
   const entries = new Map();
 
   for (const file of files.filter((path) => path.endsWith(".html") && path !== "404.html")) {
+    if (excludedPublicPaths.has(relative(".", file).replaceAll("\\", "/"))) continue;
     const content = readFileSync(file, "utf8");
     const canonical = canonicalFromHtml(content);
     if (!canonical || canonical !== expectedUrlForFile(file)) continue;
@@ -371,12 +372,99 @@ function rebuildSitemap(files) {
   return { xml, text, count: urls.length };
 }
 
+const formatWords = new Set([
+  "serum", "cream", "ampoule", "lotion", "mist", "toner", "mask", "gel", "balm", "essence",
+  "emulsion", "cleanser", "sunscreen", "oil", "pad", "pads", "shot", "booster",
+]);
+const guideTopics = [
+  { href: "guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html", label: "PDRN vs hyaluronic acid: what the review data says", test: /pdrn|hyaluronic/i },
+  { href: "guides/anua-vs-medicube-pdrn-serum-review-data.html", label: "Anua vs Medicube PDRN serum comparison", test: /anua|medicube/i },
+  { href: "guides/k-beauty-products-for-redness-review-data.html", label: "Which K-beauty products show the strongest soothing-redness signals?", test: /cica|heartleaf|madeca|centell|sooth|redness|barrier|calming|atobarrier|cicaplast|panthenol|teca|zinc|trouble/i },
+  { href: "guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html", label: "Best K-beauty moisturizer for dry vs combination skin", test: /cream|lotion|balm|moistur|emulsion|squalane/i },
+  { href: "guides/k-beauty-review-rating-distribution-2026.html", label: "Why K-beauty ratings cluster near five stars: 322,854 records analyzed", test: /./ },
+];
+
+function isSurfacedPost(file, content) {
+  const rel = relative(".", file).replaceAll("\\", "/");
+  if (!rel.startsWith("posts/") || excludedPublicPaths.has(rel)) return false;
+  if (/<meta name="robots" content="[^"]*noindex/i.test(content) || /http-equiv=["']refresh["']/i.test(content)) return false;
+  return true;
+}
+
+function postCatalog(files) {
+  const rows = [];
+  for (const file of files) {
+    if (!file.startsWith("posts/") || !file.endsWith(".html")) continue;
+    const content = readFileSync(file, "utf8");
+    if (!isSurfacedPost(file, content)) continue;
+    const rawTitle = content.match(/<title>([^<]*)<\/title>/i)?.[1] ?? file;
+    const name = rawTitle.split(":")[0].trim();
+    const words = name.toLowerCase().split(/\s+/);
+    const format = [...words].reverse().find((w) => formatWords.has(w.replace(/[^a-z]/g, ""))) ?? "";
+    const date = content.match(/"datePublished"\s*:\s*"(\d{4}-\d{2}-\d{2})"/)?.[1]
+      ?? content.match(/article:published_time" content="(\d{4}-\d{2}-\d{2})/)?.[1] ?? "";
+    rows.push({ file: relative(".", file).replaceAll("\\", "/"), name, brand: words[0] ?? "", format, date });
+  }
+  return rows.sort((a, b) => b.date.localeCompare(a.date));
+}
+
+function pickRelated(self, catalog, limit = 4) {
+  const others = catalog.filter((row) => row.file !== self.file);
+  const chosen = [];
+  const add = (rows) => { for (const row of rows) if (chosen.length < limit && !chosen.includes(row)) chosen.push(row); };
+  add(others.filter((row) => row.brand && row.brand === self.brand));
+  add(others.filter((row) => row.format && row.format === self.format));
+  add(others);
+  return chosen;
+}
+
+function relatedListHtml(items) {
+  return `<ul style="margin:.5em 0 0;padding-left:1.2em">${items.map((it) => `<li><a href="${siteBase}${it.href}">${it.label}</a></li>`).join("")}</ul>`;
+}
+
+function injectSection(content, sectionHtml, marker) {
+  const existing = new RegExp(`<section\\b[^>]*data-section=["']${marker}["'][^>]*>[\\s\\S]*?<\\/section>`, "i");
+  if (existing.test(content)) return content.replace(existing, sectionHtml);
+  if (/<footer\b/i.test(content)) return content.replace(/<footer\b/i, `${sectionHtml}<footer`);
+  return content.replace(/<\/body>/i, `${sectionHtml}</body>`);
+}
+
+// Every post links to 4 sibling reviews (same brand, then same format, then newest) and one topical
+// guide. Before this no post linked to any other post, so crawlers had no path into the archive and
+// the guides (the only pages earning impressions) passed no authority to the reviews.
+function ensureRelatedReads(content, file, catalog) {
+  if (!isSurfacedPost(file, content)) return content;
+  const rel = relative(".", file).replaceAll("\\", "/");
+  const self = catalog.find((row) => row.file === rel);
+  if (!self) return content;
+  const posts = pickRelated(self, catalog).map((row) => ({ href: row.file, label: row.name }));
+  const guide = guideTopics.find((g) => g.test.test(self.name)) ?? guideTopics.at(-1);
+  const items = [...posts, { href: guide.href, label: `Guide: ${guide.label}` }];
+  const section = `<section data-section="related-reads" style="background:#f5f7ef;border:1px solid #dfe5d2;border-radius:10px;padding:14px 16px;margin:1.6em 0"><h2 style="margin:0;font-size:1.05em;border:0;padding:0">Related reviews and guides</h2>${relatedListHtml(items)}</section>`;
+  return injectSection(content, section, "related-reads");
+}
+
+// Guides link back to the product reviews they draw on, so authority flows both ways.
+function ensureGuidePostLinks(content, file, catalog) {
+  const rel = relative(".", file).replaceAll("\\", "/");
+  const topic = guideTopics.find((g) => g.href === rel);
+  if (!topic) return content;
+  const matched = topic.test.source === "." ? catalog : catalog.filter((row) => topic.test.test(row.name));
+  const items = (matched.length >= 3 ? matched : catalog).slice(0, 6).map((row) => ({ href: row.file, label: row.name }));
+  if (items.length === 0) return content;
+  const section = `<section data-section="related-reviews" style="background:#f5f7ef;border:1px solid #dfe5d2;border-radius:10px;padding:14px 16px;margin:1.6em 0"><h2 style="margin:0;font-size:1.05em;border:0;padding:0">Product reviews behind this guide</h2>${relatedListHtml(items)}</section>`;
+  return injectSection(content, section, "related-reviews");
+}
+
 const files = publicFiles();
 const changed = [];
+const catalog = postCatalog(files);
 
 for (const file of files) {
   const original = readFileSync(file, "utf8");
   let normalized = stripExcludedReferences(original, file);
+  if (file.startsWith("posts/")) normalized = ensureRelatedReads(normalized, file, catalog);
+  if (file.startsWith("guides/")) normalized = ensureGuidePostLinks(normalized, file, catalog);
   normalized = stripSourceRetailer(normalized);
   if (file === "index.html") normalized = ensureHomepageLinks(normalized);
   if (file === "about.html") normalized = ensureAboutProfile(normalized);

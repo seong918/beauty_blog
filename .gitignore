@@ -1,1 +1,14 @@
 .pages-artifact/
+
+# Local agent/tooling state — never publish
+.omc/
+.claude/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
