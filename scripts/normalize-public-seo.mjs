@@ -215,11 +215,11 @@ function ensureHomepageLinks(content) {
 function ensureAboutProfile(content) {
   content = content.replace(
     /<p class="tag">[\s\S]*?<\/p>/i,
-    '<p class="tag">Built by a cosmetics-loving developer who wants data to make product research more useful—not more confusing.</p>',
+    '<p class="tag">Built by betterdxd, a cosmetics-loving developer who wants data to make product research more useful—not more confusing.</p>',
   );
   content = content.replace(
     /<h2>Who runs this<\/h2><p>[\s\S]*?<\/p>/i,
-    "<h2>Who runs this</h2><p>I am a cosmetics-loving developer and the editor of this site. I use code to line up aggregate review fields consistently, then add editorial judgment about what the numbers can and cannot support. My goal is to create practical context that helps readers ask better questions before buying.</p>",
+    "<h2>Who runs this</h2><p>This site is written and maintained by <strong>betterdxd</strong>, a cosmetics-loving developer and the editor of this site. I use code to line up aggregate review fields consistently, then add editorial judgment about what the numbers can and cannot support. My goal is to create practical context that helps readers ask better questions before buying.</p>",
   );
   content = content.replace(
     /Every post includes a footer link to the product's source retail page so readers can compare the current display with the dated snapshot; the source page can change after capture\./gi,
