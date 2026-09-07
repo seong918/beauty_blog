@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## La Roche-Posay Cicaplast Multi Repair Cream: What 20,335 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-multi-repair-cream.html
+- Published: 2026-09-07
+- Summary: La Roche-Posay Cicaplast Multi Repair Cream: 4.8★ from 20,335 Olive Young Korea review records (84% five-star).
+- Rating: 4.8 / 5 from 20,335 reviews (5★ 84% · 4★ 10% · 3★ 4% · 2★ 1% · 1★ 1%)
+
 ## Biodance 잠시만 기다리십시오…: What 2,993 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/biodance.html
@@ -277,12 +284,6 @@
 - URL: https://seong918.github.io/beauty_blog/posts/rejudex-derma-repairing-cream.html
 - Published: 2026-07-26
 - Summary: Rejudex Derma Repairing Cream: 4.9★ from 1,534 Olive Young Korea review records (93% five-star).
-
-## La Roche-Posay Cicaplast Multi Repair Cream: What 18,048 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-multi-repair-cream.html
-- Published: 2026-07-24
-- Summary: La Roche-Posay Cicaplast Multi Repair Cream: 4.8★ from 18,048 Olive Young Korea review records (84% five-star).
 
 ## Rejudex Derma Repairing Solution Ampoule: What 106 Olive Young Review Signals Show (2026)
 
