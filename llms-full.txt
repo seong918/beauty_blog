@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## IOPE Retinol Retijection Serum: What 635 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/iope-retinol-retijection-serum.html
+- Published: 2026-09-08
+- Summary: IOPE Retinol Retijection Serum: 4.8★ from 635 Olive Young Korea review records (85% five-star).
+- Rating: 4.8 / 5 from 635 reviews (5★ 85% · 4★ 12% · 3★ 2% · 2★ 0% · 1★ 1%)
+
 ## La Roche-Posay Cicaplast Multi Repair Cream: What 20,335 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-multi-repair-cream.html
