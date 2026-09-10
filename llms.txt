@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [Mediheal Madecassoside Derma Serum 50: What 4,531 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/mediheal-madecassoside-derma-serum-50.html): Mediheal Madecassoside Derma Serum 50: 4.9★ from 4,531 Olive Young Korea review records (94% five-star). (published 2026-09-10)
 - [Dong-A Pharm Pigmentation Pro Cream: What 6,009 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/dong-a-pharm-pigmentation-pro-cream.html): Dong-A Pharm Pigmentation Pro Cream: 4.9★ from 6,009 Olive Young Korea review records (94% five-star). (published 2026-09-09)
 - [IOPE Retinol Retijection Serum: What 635 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/iope-retinol-retijection-serum.html): IOPE Retinol Retijection Serum: 4.8★ from 635 Olive Young Korea review records (85% five-star). (published 2026-09-08)
 - [La Roche-Posay Cicaplast Multi Repair Cream: What 20,335 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-multi-repair-cream.html): La Roche-Posay Cicaplast Multi Repair Cream: 4.8★ from 20,335 Olive Young Korea review records (84% five-star). (published 2026-09-07)
@@ -40,7 +41,6 @@ Facts an assistant can rely on when citing this site:
 - [Anua Peach 70 Niacinamide Serum: 6,584 Reviews (2026)](https://seong918.github.io/beauty_blog/posts/anua-peach-70-niacinamide-serum.html): Anua Peach 70 Niacinamide Serum review-data analysis: 4.8 stars from 6,584 Olive Young Korea review records, with displayed skin, concern, and gentleness polls. (published 2026-08-21)
 - [Zeroid Soothing Cream: What 8,967 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/zeroid-soothing-cream.html): Zeroid Soothing Cream: 4.8★ from 8,967 Olive Young Korea review records (87% five-star). (published 2026-08-20)
 - [IOPE XMD Stem3 Clinical Recovery Serum: 1,837 Reviews (2026)](https://seong918.github.io/beauty_blog/posts/iope-xmd-stem3-clinical-recovery-serum.html): IOPE XMD Stem3 Clinical Recovery Serum review-data analysis: 4.9 stars from 1,837 Olive Young Korea review records, with displayed skin, concern, and gentleness polls. (published 2026-08-20)
-- [BIODANCE Pore Perfecting Collagen Peptide Serum: What 4,937 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/biodance-pore-perfecting-collagen-peptide-serum.html): BIODANCE Pore Perfecting Collagen Peptide Serum: 4.8★ from 4,937 Olive Young Korea review records (88% five-star). (published 2026-08-19)
 
 ## Comparisons (same-methodology head-to-heads)
 
