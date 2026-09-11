@@ -10,6 +10,7 @@ const excludedPublicPaths = new Set([
   "posts/product.html",
   "posts/iope.html",
   "posts/kirin-please-wait-a-moment.html",
+  "posts/biodance.html",
 ]);
 const excludedPublicUrls = new Set(
   [...excludedPublicPaths].map((path) => `${siteBase}${path}`),
@@ -133,14 +134,34 @@ function stripExcludedReferences(content, file) {
       .filter((section) => ![...excludedPublicUrls].some((url) => section.includes(url)))
       .join("");
   }
-  content = content
-    .split(/\r?\n/)
-    .filter((line) => ![...excludedPublicUrls].some((url) => line.includes(url)))
-    .filter((line) => !excludedVisibleLabels.some((label) => line.includes(label)))
-    .join("\n");
+  // HTML and XML files are frequently minified to one line. Line-based filtering would erase the
+  // entire document when one excluded label appears, so reserve it for line-oriented text files.
+  if (file.endsWith(".txt")) {
+    content = content
+      .split(/\r?\n/)
+      .filter((line) => ![...excludedPublicUrls].some((url) => line.includes(url)))
+      .filter((line) => !excludedVisibleLabels.some((label) => line.includes(label)))
+      .join("\n");
+  }
 
   return content;
 }
+
+function verifyExcludedReferenceNormalization() {
+  const compactHtml = '<!DOCTYPE html><html><body><div class="post"><a href="posts/valid.html">Valid</a></div><div class="post"><a href="posts/biodance.html">Biodance 잠시만 기다리십시오…</a></div><footer>Footer</footer></body></html>';
+  const normalizedHtml = stripExcludedReferences(compactHtml, "index.html");
+  if (!normalizedHtml.includes("<!DOCTYPE html>") || !normalizedHtml.includes("posts/valid.html") || normalizedHtml.includes("posts/biodance.html")) {
+    throw new Error("Excluded-reference normalization corrupted compact HTML.");
+  }
+
+  const compactXml = `<rss><channel><item><link>${siteBase}posts/biodance.html</link></item><item><link>${siteBase}posts/valid.html</link></item></channel></rss>`;
+  const normalizedXml = stripExcludedReferences(compactXml, "rss.xml");
+  if (!normalizedXml.includes("<rss>") || !normalizedXml.includes("posts/valid.html") || normalizedXml.includes("posts/biodance.html")) {
+    throw new Error("Excluded-reference normalization corrupted compact XML.");
+  }
+}
+
+verifyExcludedReferenceNormalization();
 
 function stripSourceRetailer(content) {
   let normalized = content;

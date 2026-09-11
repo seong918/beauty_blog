@@ -10,6 +10,7 @@ const excludedPublicPaths = new Set([
   "posts/product.html",
   "posts/iope.html",
   "posts/kirin-please-wait-a-moment.html",
+  "posts/biodance.html",
 ]);
 const excludedPublicUrls = new Set(
   [...excludedPublicPaths].map((path) => `${siteBase}${path}`),

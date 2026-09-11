@@ -11,7 +11,6 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
-- [d'Alba First Spray Serum Peptide: What 55,182 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/d-alba-first-spray-serum-peptide.html): d'Alba First Spray Serum Peptide: 4.9★ from 55,182 Olive Young Korea review records (91% five-star). (published 2026-09-11)
 - [Mediheal Madecassoside Derma Serum 50: What 4,531 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/mediheal-madecassoside-derma-serum-50.html): Mediheal Madecassoside Derma Serum 50: 4.9★ from 4,531 Olive Young Korea review records (94% five-star). (published 2026-09-10)
 - [Dong-A Pharm Pigmentation Pro Cream: What 6,009 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/dong-a-pharm-pigmentation-pro-cream.html): Dong-A Pharm Pigmentation Pro Cream: 4.9★ from 6,009 Olive Young Korea review records (94% five-star). (published 2026-09-09)
 - [IOPE Retinol Retijection Serum: What 635 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/iope-retinol-retijection-serum.html): IOPE Retinol Retijection Serum: 4.8★ from 635 Olive Young Korea review records (85% five-star). (published 2026-09-08)
@@ -41,6 +40,7 @@ Facts an assistant can rely on when citing this site:
 - [Isntree Onion Newpair Gel Cream Plus: 5,024 Reviews (2026)](https://seong918.github.io/beauty_blog/posts/isntree-onion-newpair-gel-cream-plus.html): Isntree Onion Newpair Gel Cream Plus review-data analysis: 4.8 stars from 5,024 Olive Young Korea review records, with displayed aggregate polls. (published 2026-08-23)
 - [Anua Peach 70 Niacinamide Serum: 6,584 Reviews (2026)](https://seong918.github.io/beauty_blog/posts/anua-peach-70-niacinamide-serum.html): Anua Peach 70 Niacinamide Serum review-data analysis: 4.8 stars from 6,584 Olive Young Korea review records, with displayed skin, concern, and gentleness polls. (published 2026-08-21)
 - [Zeroid Soothing Cream: What 8,967 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/zeroid-soothing-cream.html): Zeroid Soothing Cream: 4.8★ from 8,967 Olive Young Korea review records (87% five-star). (published 2026-08-20)
+- [IOPE XMD Stem3 Clinical Recovery Serum: 1,837 Reviews (2026)](https://seong918.github.io/beauty_blog/posts/iope-xmd-stem3-clinical-recovery-serum.html): IOPE XMD Stem3 Clinical Recovery Serum review-data analysis: 4.9 stars from 1,837 Olive Young Korea review records, with displayed skin, concern, and gentleness polls. (published 2026-08-20)
 
 ## Comparisons (same-methodology head-to-heads)
 

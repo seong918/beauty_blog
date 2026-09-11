@@ -7,6 +7,7 @@ const excludedPublicPaths = [
   "posts/product.html",
   "posts/iope.html",
   "posts/kirin-please-wait-a-moment.html",
+  "posts/biodance.html",
 ];
 const rootEntries = readdirSync(".").filter((name) => {
   if (name === ".nojekyll" || name === "robots.txt") return true;
