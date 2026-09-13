@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic synthetic lotion-format illustration</title>
+  <desc id="desc">A brand-neutral, code-drawn illustration of a light lotion ribbon and droplets. It does not depict the actual product, a person, or a tested result.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfaf5"/>
+      <stop offset="1" stop-color="#edf1e7"/>
+    </linearGradient>
+    <linearGradient id="lotion" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d7dccb"/>
+      <stop offset="0.45" stop-color="#fffef9"/>
+      <stop offset="1" stop-color="#bbc7a4"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#5a6544" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" rx="36" fill="url(#paper)"/>
+  <text x="72" y="94" fill="#697253" font-family="system-ui,-apple-system,sans-serif" font-size="25" font-weight="750" letter-spacing="3">GENERIC LOTION FORMAT</text>
+  <text x="72" y="136" fill="#7a8072" font-family="system-ui,-apple-system,sans-serif" font-size="19">Synthetic illustration · not the product · not a use test</text>
+  <g filter="url(#shadow)">
+    <path d="M205 466 C304 337 471 324 624 393 C778 463 899 407 990 304 C944 478 789 587 606 558 C431 531 320 614 205 466 Z" fill="url(#lotion)" stroke="#d5dcca" stroke-width="3"/>
+    <path d="M282 460 C401 385 510 397 625 438 C747 482 838 444 907 389 C831 506 711 527 591 492 C468 456 370 527 282 460 Z" fill="#aebc94" opacity="0.28"/>
+    <path d="M499 315 C503 269 535 222 566 186 C601 226 633 270 629 317 C624 378 505 379 499 315 Z" fill="#fdfdf8" stroke="#d9dfcf" stroke-width="3"/>
+    <ellipse cx="561" cy="292" rx="34" ry="18" fill="#fff" opacity="0.72"/>
+  </g>
+  <circle cx="918" cy="575" r="58" fill="#dce4d1" opacity="0.85"/>
+  <circle cx="1010" cy="538" r="29" fill="#c8d3ba" opacity="0.75"/>
+  <circle cx="170" cy="270" r="42" fill="#e6eadf"/>
+  <text x="72" y="738" fill="#757c70" font-family="system-ui,-apple-system,sans-serif" font-size="20">A neutral visual cue for a fluid emulsion format; actual texture, scent, finish, and application were not tested.</text>
+</svg>

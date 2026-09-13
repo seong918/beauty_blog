@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">AESTURA Atobarrier 365 Lotion aggregate review data</title>
+  <desc id="desc">A code-drawn card showing a 4.9 star average across 6,475 Olive Young Korea review records, with 91 percent five-star ratings, 48 percent combination skin, 80 percent hydration concern, and 82 percent gentle response.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f5ee"/>
+      <stop offset="1" stop-color="#e8eee0"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#77884e"/>
+      <stop offset="1" stop-color="#a9bd73"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1116" height="546" rx="26" fill="#fff" stroke="#d9dfcf" stroke-width="2"/>
+  <text x="86" y="105" fill="#64713e" font-family="system-ui,-apple-system,sans-serif" font-size="22" font-weight="750" letter-spacing="2">OLIVE YOUNG KOREA · CAPTURED 2026-09-13</text>
+  <text x="86" y="164" fill="#25291f" font-family="system-ui,-apple-system,sans-serif" font-size="42" font-weight="800">AESTURA Atobarrier 365 Lotion</text>
+  <text x="86" y="214" fill="#5a6252" font-family="system-ui,-apple-system,sans-serif" font-size="24">Aggregate review signals, not a hands-on test</text>
+  <text x="86" y="325" fill="#25291f" font-family="system-ui,-apple-system,sans-serif" font-size="94" font-weight="850">4.9</text>
+  <text x="267" y="305" fill="#77884e" font-family="system-ui,-apple-system,sans-serif" font-size="42" font-weight="800">★</text>
+  <text x="267" y="345" fill="#5a6252" font-family="system-ui,-apple-system,sans-serif" font-size="24">6,475 review records</text>
+  <rect x="86" y="392" width="470" height="24" rx="12" fill="#e7eadf"/>
+  <rect x="86" y="392" width="428" height="24" rx="12" fill="url(#bar)"/>
+  <text x="86" y="458" fill="#25291f" font-family="system-ui,-apple-system,sans-serif" font-size="25" font-weight="750">91% five-star</text>
+  <text x="86" y="500" fill="#62695c" font-family="system-ui,-apple-system,sans-serif" font-size="19">4★ 7% · 3★ 2% · 2★ 0% · 1★ 0%</text>
+  <rect x="630" y="270" width="448" height="230" rx="20" fill="#f5f7f0" stroke="#dfe4d7"/>
+  <text x="670" y="318" fill="#68724f" font-family="system-ui,-apple-system,sans-serif" font-size="18" font-weight="750" letter-spacing="1">DISPLAYED POLL LEADERS</text>
+  <text x="670" y="376" fill="#25291f" font-family="system-ui,-apple-system,sans-serif" font-size="29" font-weight="800">48%</text>
+  <text x="760" y="376" fill="#555e50" font-family="system-ui,-apple-system,sans-serif" font-size="23">combination skin</text>
+  <text x="670" y="430" fill="#25291f" font-family="system-ui,-apple-system,sans-serif" font-size="29" font-weight="800">80%</text>
+  <text x="760" y="430" fill="#555e50" font-family="system-ui,-apple-system,sans-serif" font-size="23">hydration concern</text>
+  <text x="670" y="484" fill="#25291f" font-family="system-ui,-apple-system,sans-serif" font-size="29" font-weight="800">82%</text>
+  <text x="760" y="484" fill="#555e50" font-family="system-ui,-apple-system,sans-serif" font-size="23">gentle response</text>
+  <text x="86" y="558" fill="#73796e" font-family="system-ui,-apple-system,sans-serif" font-size="17">Poll shares describe the captured respondents; they do not prove efficacy or predict individual tolerance.</text>
+</svg>

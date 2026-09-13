@@ -2,6 +2,14 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## AESTURA Atobarrier 365 Lotion: What 6,475 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-lotion.html
+- Published: 2026-09-13
+- Summary: AESTURA Atobarrier 365 Lotion analysis: 4.9 stars from 6,475 Olive Young Korea review records, rank-23 context, displayed polls, and explicit evidence limits.
+- Rating: 4.9 / 5 from 6,475 reviews (5★ 91% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 0%)
+- Displayed polls: skin type 48% combination / 45% dry / 7% oily; concern 80% hydration / 18% soothing / 2% wrinkle-brightening; irritation 82% gentle / 18% ordinary / 1% felt irritation (rounded shares).
+
 ## Mediheal Madecassoside Derma Serum 50: What 4,531 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/mediheal-madecassoside-derma-serum-50.html
