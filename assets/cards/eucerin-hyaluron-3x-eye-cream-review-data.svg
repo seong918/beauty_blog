@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Eucerin Hyaluron 3X Eye Cream aggregate review data</title>
+  <desc id="desc">A brand-neutral data card showing 4.8 stars from 11,779 Olive Young Korea review records, an 83 percent five-star share, 48 percent dry skin, 48 percent wrinkle and brightening concern, and 73 percent gentle response.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f8f2"/>
+      <stop offset="1" stop-color="#e9efe0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="38" fill="url(#bg)"/>
+  <rect x="56" y="54" width="1088" height="522" rx="28" fill="#fff" stroke="#d9dfcf" stroke-width="2"/>
+  <text x="96" y="112" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#596638">OLIVE YOUNG KOREA SNAPSHOT</text>
+  <text x="96" y="162" font-family="Arial, sans-serif" font-size="39" font-weight="700" fill="#25291f">Eucerin Hyaluron 3X Eye Cream</text>
+  <text x="96" y="213" font-family="Arial, sans-serif" font-size="82" font-weight="700" fill="#435122">4.8</text>
+  <text x="255" y="199" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#435122">OUT OF 5</text>
+  <text x="255" y="235" font-family="Arial, sans-serif" font-size="24" fill="#5f655a">11,779 review records</text>
+  <rect x="96" y="278" width="1008" height="2" fill="#e5e8df"/>
+  <g font-family="Arial, sans-serif">
+    <text x="96" y="328" font-size="21" fill="#73796c">FIVE-STAR SHARE</text>
+    <text x="96" y="379" font-size="47" font-weight="700" fill="#25291f">83%</text>
+    <text x="380" y="328" font-size="21" fill="#73796c">LARGEST SKIN GROUP</text>
+    <text x="380" y="379" font-size="38" font-weight="700" fill="#25291f">Dry · 48%</text>
+    <text x="770" y="328" font-size="21" fill="#73796c">GENTLE RESPONSE</text>
+    <text x="770" y="379" font-size="47" font-weight="700" fill="#25291f">73%</text>
+    <text x="96" y="455" font-size="21" fill="#73796c">LEADING CONCERN POLL</text>
+    <text x="96" y="501" font-size="35" font-weight="700" fill="#25291f">Wrinkle / brightening · 48%</text>
+    <text x="96" y="546" font-size="18" fill="#73796c">Captured 14 Sep 2026 · Rounded retailer display · Not an efficacy test</text>
+  </g>
+</svg>

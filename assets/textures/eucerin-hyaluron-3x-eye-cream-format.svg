@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic eye-cream format illustration</title>
+  <desc id="desc">A brand-neutral code-drawn illustration of a small cream ribbon and dots on a neutral background. It does not depict the actual product or a person's skin.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f3ec"/>
+      <stop offset="1" stop-color="#e9eee3"/>
+    </linearGradient>
+    <linearGradient id="cream" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdf8"/>
+      <stop offset="0.55" stop-color="#f2eadc"/>
+      <stop offset="1" stop-color="#d9cbb8"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" rx="42" fill="url(#canvas)"/>
+  <ellipse cx="600" cy="565" rx="370" ry="82" fill="#8c846f" opacity="0.18" filter="url(#shadow)"/>
+  <path d="M250 520 C345 385 490 360 618 405 C720 441 846 438 947 326 C969 301 1014 331 996 365 C927 499 790 550 646 515 C520 484 430 496 339 582 C300 619 217 568 250 520Z" fill="url(#cream)" stroke="#d6c8b5" stroke-width="4"/>
+  <path d="M320 514 C430 420 520 425 638 457 C759 489 856 450 935 370" fill="none" stroke="#fff" stroke-width="30" stroke-linecap="round" opacity="0.68"/>
+  <circle cx="385" cy="276" r="38" fill="#f5ede1" stroke="#d6c8b5" stroke-width="4"/>
+  <circle cx="790" cy="265" r="26" fill="#f5ede1" stroke="#d6c8b5" stroke-width="4"/>
+  <circle cx="874" cy="592" r="19" fill="#f5ede1" stroke="#d6c8b5" stroke-width="4"/>
+  <text x="600" y="706" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#716c61">GENERIC CREAM-FORMAT ILLUSTRATION · NOT THE ACTUAL PRODUCT</text>
+</svg>

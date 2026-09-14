@@ -1,6 +1,4 @@
 https://seong918.github.io/beauty_blog/
-https://seong918.github.io/beauty_blog/rankings.html
-https://seong918.github.io/beauty_blog/skin-type.html
 https://seong918.github.io/beauty_blog/about.html
 https://seong918.github.io/beauty_blog/compare/abib-hyaluronic-boom-serum-vs-cream.html
 https://seong918.github.io/beauty_blog/compare/aestura-atobarrier-365-cream-vs-hydro-soothing-cream.html
@@ -43,6 +41,7 @@ https://seong918.github.io/beauty_blog/posts/dalba-first-spray-serum-peptide.htm
 https://seong918.github.io/beauty_blog/posts/dr-g-red-blemish-clear-soothing-cream-ex.html
 https://seong918.github.io/beauty_blog/posts/estra-atobarrier-365-cream.html
 https://seong918.github.io/beauty_blog/posts/estrar-atobarrier365-hydro-soothing-cream.html
+https://seong918.github.io/beauty_blog/posts/eucerin-hyaluron-3x-eye-cream.html
 https://seong918.github.io/beauty_blog/posts/eucerin-thiamidol-booster-serum.html
 https://seong918.github.io/beauty_blog/posts/goodal-green-tangerine-vita-c-dark-spot-care-serum-alpha.html
 https://seong918.github.io/beauty_blog/posts/innisfree-retinol-cica-pore-ampoule.html
@@ -72,3 +71,5 @@ https://seong918.github.io/beauty_blog/posts/vt-pdrn-reedle-shot-eye-lifter.html
 https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html
 https://seong918.github.io/beauty_blog/posts/zeroid-intensive-cream.html
 https://seong918.github.io/beauty_blog/posts/zeroid-soothing-cream.html
+https://seong918.github.io/beauty_blog/rankings.html
+https://seong918.github.io/beauty_blog/skin-type.html
