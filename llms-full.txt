@@ -2,13 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## AESTURA Atobarrier 365 Lotion: What 6,475 Olive Young Review Signals Show (2026)
+## La Roche-Posay Cicaplast Baume B5: What 39,937 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html
+- Published: 2026-09-14
+- Summary: La Roche-Posay Cicaplast Baume B5: 4.8★ from 39,937 Olive Young Korea review records (87% five-star).
+- Rating: 4.8 / 5 from 39,937 reviews (5★ 87% · 4★ 9% · 3★ 3% · 2★ 1% · 1★ 1%)
+
+## AESTURA Atobarrier 365 Lotion: 6,475 Reviews (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-lotion.html
 - Published: 2026-09-13
 - Summary: AESTURA Atobarrier 365 Lotion analysis: 4.9 stars from 6,475 Olive Young Korea review records, rank-23 context, displayed polls, and explicit evidence limits.
-- Rating: 4.9 / 5 from 6,475 reviews (5★ 91% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 0%)
-- Displayed polls: skin type 48% combination / 45% dry / 7% oily; concern 80% hydration / 18% soothing / 2% wrinkle-brightening; irritation 82% gentle / 18% ordinary / 1% felt irritation (rounded shares).
 
 ## Mediheal Madecassoside Derma Serum 50: What 4,531 Olive Young Review Signals Show (2026)
 
@@ -403,12 +408,6 @@
 - URL: https://seong918.github.io/beauty_blog/posts/innisfree-retinol-cica-pore-ampoule.html
 - Published: 2026-07-07
 - Summary: innisfree Retinol Cica Pore Ampoule: 5.0★ from 799 Olive Young Korea review records (97% five-star).
-
-## La Roche-Posay Cicaplast Baume B5: What 24,566 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html
-- Published: 2026-07-05
-- Summary: La Roche-Posay Cicaplast Baume B5: 4.8★ from 24,566 Olive Young Korea review records (86% five-star).
 
 ## Mediheal Madecassoside Blemish Repair Serum: What 41,856 Olive Young Review Signals Show (2026)
 
