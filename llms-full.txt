@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## S.NATURE Aqua Squalane Serum: 16,584 Reviews (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/s-nature-aqua-squalane-serum.html
+- Published: 2026-09-15
+- Summary: S.NATURE Aqua Squalane Serum analysis: 4.8 stars from 16,584 Olive Young Korea review records, rank-19 context, displayed rating and poll shares, and explicit limits.
+- Rating: 4.8 / 5 from 16,584 reviews (5★ 87% · 4★ 10% · 3★ 3% · 2★ 0% · 1★ 1%)
+
 ## innisfree Retinol Cica Pore Mark Ampoule: What 4,923 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/innisfree-retinol-cica-pore-mark-ampoule.html
