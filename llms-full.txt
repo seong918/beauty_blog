@@ -2,12 +2,12 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Eucerin Hyaluron 3X Eye Cream: What 11,779 Olive Young Review Signals Show (2026)
+## innisfree Retinol Cica Pore Mark Ampoule: What 4,923 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/eucerin-hyaluron-3x-eye-cream.html
-- Published: 2026-09-14
-- Summary: Eucerin Hyaluron 3X Eye Cream analysis: 4.8 stars from 11,779 Olive Young Korea review records, rank-19 context, displayed polls, and explicit evidence limits.
-- Rating: 4.8 / 5 from 11,779 reviews (5★ 83% · 4★ 13% · 3★ 3% · 2★ 0% · 1★ 0%)
+- URL: https://seong918.github.io/beauty_blog/posts/innisfree-retinol-cica-pore-mark-ampoule.html
+- Published: 2026-09-15
+- Summary: innisfree Retinol Cica Pore Mark Ampoule: 4.9★ from 4,923 Olive Young Korea review records (93% five-star).
+- Rating: 4.9 / 5 from 4,923 reviews (5★ 93% · 4★ 6% · 3★ 1% · 2★ 0% · 1★ 0%)
 
 ## La Roche-Posay Cicaplast Baume B5: What 39,937 Olive Young Review Signals Show (2026)
 
@@ -15,6 +15,12 @@
 - Published: 2026-09-14
 - Summary: La Roche-Posay Cicaplast Baume B5: 4.8★ from 39,937 Olive Young Korea review records (87% five-star).
 - Rating: 4.8 / 5 from 39,937 reviews (5★ 87% · 4★ 9% · 3★ 3% · 2★ 1% · 1★ 1%)
+
+## Eucerin Hyaluron 3X Eye Cream: 11,779 Reviews (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/eucerin-hyaluron-3x-eye-cream.html
+- Published: 2026-09-14
+- Summary: Eucerin Hyaluron 3X Eye Cream analysis: 4.8 stars from 11,779 Olive Young Korea review records, rank-19 context, displayed polls, and explicit evidence limits.
 
 ## AESTURA Atobarrier 365 Lotion: 6,475 Reviews (2026)
 
