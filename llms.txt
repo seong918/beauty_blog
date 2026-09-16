@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [Hanyul Mugwort Hyal Serum: What 6,007 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/hanyul-mugwort-hyal-serum.html): Hanyul Mugwort Hyal Serum analysis: 4.8 stars from 6,007 Olive Young Korea review records, rank-two context, displayed polls, and explicit evidence limits. (published 2026-09-16)
 - [S.NATURE Aqua Squalane Serum: What 16,584 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/s-nature-aqua-squalane-serum.html): S.NATURE Aqua Squalane Serum analysis: 4.8 stars from 16,584 Olive Young Korea review records, rank-19 context, displayed rating and poll shares, and explicit limits. (published 2026-09-15)
 - [innisfree Retinol Cica Pore Mark Ampoule: What 4,923 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/innisfree-retinol-cica-pore-mark-ampoule.html): innisfree Retinol Cica Pore Mark Ampoule: 4.9★ from 4,923 Olive Young Korea review records (93% five-star). (published 2026-09-15)
 - [La Roche-Posay Cicaplast Baume B5: What 39,937 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html): La Roche-Posay Cicaplast Baume B5: 4.8★ from 39,937 Olive Young Korea review records (87% five-star). (published 2026-09-14)

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Hanyul Mugwort Hyal Serum aggregate review data</title>
+  <desc id="desc">4.8 stars from 6,007 review records, with 84 percent five-star, 40 percent oily skin, 63 percent hydration concern, and 76 percent gentle response.</desc>
+  <rect width="1200" height="630" fill="#f5f2e8"/>
+  <rect x="54" y="54" width="1092" height="522" rx="28" fill="#fffdf8" stroke="#d9d2bd" stroke-width="3"/>
+  <text x="92" y="118" fill="#303629" font-family="system-ui, sans-serif" font-size="30" font-weight="700">HANYUL MUGWORT HYAL SERUM</text>
+  <text x="92" y="162" fill="#68715c" font-family="system-ui, sans-serif" font-size="21">Olive Young Korea aggregate snapshot · Sep 16, 2026</text>
+  <text x="92" y="280" fill="#4f6636" font-family="system-ui, sans-serif" font-size="110" font-weight="750">4.8</text>
+  <text x="310" y="246" fill="#303629" font-family="system-ui, sans-serif" font-size="34" font-weight="650">6,007 records</text>
+  <text x="310" y="292" fill="#68715c" font-family="system-ui, sans-serif" font-size="25">84% five-star ratings</text>
+  <line x1="92" y1="348" x2="1108" y2="348" stroke="#ded9c9" stroke-width="2"/>
+  <g font-family="system-ui, sans-serif">
+    <text x="92" y="410" fill="#68715c" font-size="20">LARGEST SKIN-TYPE RESPONSE</text>
+    <text x="92" y="470" fill="#303629" font-size="48" font-weight="700">40%</text>
+    <text x="206" y="470" fill="#303629" font-size="29">oily</text>
+    <text x="438" y="410" fill="#68715c" font-size="20">LEADING CONCERN RESPONSE</text>
+    <text x="438" y="470" fill="#303629" font-size="48" font-weight="700">63%</text>
+    <text x="552" y="470" fill="#303629" font-size="29">hydration</text>
+    <text x="812" y="410" fill="#68715c" font-size="20">GENTLE RESPONSE</text>
+    <text x="812" y="470" fill="#303629" font-size="48" font-weight="700">76%</text>
+    <text x="926" y="470" fill="#303629" font-size="29">gentle</text>
+    <text x="92" y="535" fill="#7a7e72" font-size="18">Displayed retailer aggregates; representation and sentiment, not measured outcomes.</text>
+  </g>
+</svg>

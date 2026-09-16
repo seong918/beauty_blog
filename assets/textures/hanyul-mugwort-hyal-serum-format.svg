@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic translucent serum format illustration</title>
+  <desc id="desc">A code-drawn translucent serum ribbon and droplets on a neutral botanical-green background; not the actual product.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1f3e7"/><stop offset="1" stop-color="#d8dfc8"/></linearGradient>
+    <linearGradient id="serum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".9"/><stop offset=".55" stop-color="#dbe7c9" stop-opacity=".7"/><stop offset="1" stop-color="#9eb581" stop-opacity=".42"/></linearGradient>
+    <filter id="shadow"><feGaussianBlur stdDeviation="15"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="610" cy="610" rx="385" ry="70" fill="#687b4c" opacity=".16" filter="url(#shadow)"/>
+  <path d="M225 505 C345 278 545 252 735 347 C850 405 942 402 1025 333 C938 512 788 577 624 522 C458 467 354 487 225 505Z" fill="url(#serum)" stroke="#fff" stroke-opacity=".68" stroke-width="7"/>
+  <path d="M311 471 C432 345 591 335 735 405" fill="none" stroke="#fff" stroke-opacity=".72" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="888" cy="274" r="58" fill="url(#serum)" stroke="#fff" stroke-opacity=".7" stroke-width="6"/>
+  <circle cx="997" cy="490" r="31" fill="url(#serum)" stroke="#fff" stroke-opacity=".65" stroke-width="5"/>
+  <circle cx="261" cy="278" r="24" fill="url(#serum)" stroke="#fff" stroke-opacity=".65" stroke-width="4"/>
+  <text x="600" y="718" text-anchor="middle" fill="#536146" font-family="system-ui, sans-serif" font-size="22" letter-spacing="2">GENERIC SERUM FORMAT · CODE-DRAWN</text>
+</svg>
