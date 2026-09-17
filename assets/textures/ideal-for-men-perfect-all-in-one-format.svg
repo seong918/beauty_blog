@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic all-in-one lotion-gel format illustration</title>
+  <desc id="desc">A brand-neutral code-drawn translucent lotion-gel ribbon and droplets on a muted green-gray background. It is not a product photograph.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e7ece4"/><stop offset="1" stop-color="#b7c5b2"/></linearGradient>
+    <linearGradient id="gel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".88"/><stop offset=".55" stop-color="#dbe7dc" stop-opacity=".62"/><stop offset="1" stop-color="#9db69f" stop-opacity=".42"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="13"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="600" cy="660" rx="430" ry="70" fill="#536651" opacity=".18" filter="url(#soft)"/>
+  <path d="M210 505 C340 310 475 265 620 340 C760 412 820 350 1000 245 C934 435 837 564 665 590 C498 616 360 570 210 505Z" fill="url(#gel)" stroke="#f8fff8" stroke-opacity=".72" stroke-width="7"/>
+  <path d="M300 490 C410 370 510 340 626 389 C745 439 831 397 911 330" fill="none" stroke="#fff" stroke-opacity=".64" stroke-width="24" stroke-linecap="round"/>
+  <g fill="#f8fff9" fill-opacity=".7" stroke="#fff" stroke-opacity=".68" stroke-width="5">
+    <path d="M340 245 C340 245 292 312 292 350 A48 48 0 0 0 388 350 C388 312 340 245 340 245Z"/>
+    <path d="M815 165 C815 165 776 220 776 252 A39 39 0 0 0 854 252 C854 220 815 165 815 165Z"/>
+    <circle cx="938" cy="500" r="34"/>
+  </g>
+  <text x="70" y="735" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#425141">GENERIC LOTION-GEL FORMAT · CODE-DRAWN · NOT THE PRODUCT</text>
+</svg>
