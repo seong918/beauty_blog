@@ -2,19 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## La Roche-Posay Cicaplast Baume B5: What 34,994 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html
+- Published: 2026-09-17
+- Summary: La Roche-Posay Cicaplast Baume B5: 4.8★ from 34,994 Olive Young Korea review records (87% five-star).
+- Rating: 4.8 / 5 from 34,994 reviews (5★ 87% · 4★ 9% · 3★ 3% · 2★ 1% · 1★ 1%)
+
 ## Hanyul Mugwort Hyal Serum: 6,007 Reviews (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/hanyul-mugwort-hyal-serum.html
 - Published: 2026-09-16
 - Summary: Hanyul Mugwort Hyal Serum analysis: 4.8 stars from 6,007 Olive Young Korea review records, rank-two context, displayed polls, and explicit evidence limits.
-- Rating: 4.8 / 5 from 6,007 reviews (5★ 84% · 4★ 11% · 3★ 4% · 2★ 1% · 1★ 0%)
-
-## S.NATURE Aqua Squalane Serum: 16,584 Reviews (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/s-nature-aqua-squalane-serum.html
-- Published: 2026-09-15
-- Summary: S.NATURE Aqua Squalane Serum analysis: 4.8 stars from 16,584 Olive Young Korea review records, rank-19 context, displayed rating and poll shares, and explicit limits.
-- Rating: 4.8 / 5 from 16,584 reviews (5★ 87% · 4★ 10% · 3★ 3% · 2★ 0% · 1★ 1%)
 
 ## innisfree Retinol Cica Pore Mark Ampoule: What 4,923 Olive Young Review Signals Show (2026)
 
@@ -23,12 +22,11 @@
 - Summary: innisfree Retinol Cica Pore Mark Ampoule: 4.9★ from 4,923 Olive Young Korea review records (93% five-star).
 - Rating: 4.9 / 5 from 4,923 reviews (5★ 93% · 4★ 6% · 3★ 1% · 2★ 0% · 1★ 0%)
 
-## La Roche-Posay Cicaplast Baume B5: What 39,937 Olive Young Review Signals Show (2026)
+## S.NATURE Aqua Squalane Serum: 16,584 Reviews (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html
-- Published: 2026-09-14
-- Summary: La Roche-Posay Cicaplast Baume B5: 4.8★ from 39,937 Olive Young Korea review records (87% five-star).
-- Rating: 4.8 / 5 from 39,937 reviews (5★ 87% · 4★ 9% · 3★ 3% · 2★ 1% · 1★ 1%)
+- URL: https://seong918.github.io/beauty_blog/posts/s-nature-aqua-squalane-serum.html
+- Published: 2026-09-15
+- Summary: S.NATURE Aqua Squalane Serum analysis: 4.8 stars from 16,584 Olive Young Korea review records, rank-19 context, displayed rating and poll shares, and explicit limits.
 
 ## Eucerin Hyaluron 3X Eye Cream: 11,779 Reviews (2026)
 
