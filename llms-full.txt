@@ -2,6 +2,14 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Round Lab Birch Juice Moisturizing Cream: What 11,820 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/round-lab-birch-juice-moisturizing-cream.html
+- Published: 2026-09-18
+- Summary: Round Lab Birch Juice Moisturizing Cream analysis: 4.9 stars from 11,820 Olive Young Korea review records, rank-13 context, displayed polls, and explicit evidence limits.
+- Rating: 4.9 / 5 from 11,820 reviews (5★ 90% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 0%)
+- Polls: dry 52% · combination 37% · oily 11%; hydration 86% · soothing 14% · wrinkle/brightening 1%; gentle 93% · ordinary 6% · felt irritation 1%
+
 ## Ideal For Men Perfect All-in-One: What 20,152 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/ideal-for-men-perfect-all-in-one.html
