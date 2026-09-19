@@ -2,6 +2,14 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Dong-A Pharm Acne Pro Cream: What 5,559 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/dong-a-pharm-acne-pro-cream.html
+- Published: 2026-09-19
+- Summary: Dong-A Pharm Acne Pro Cream analysis: 4.9 stars from 5,559 Olive Young Korea review records, rank-13 context, displayed polls, and strict medical-evidence limits.
+- Rating: 4.9 / 5 from 5,559 reviews (5★ 97% · 4★ 2% · 3★ 1% · 2★ 0% · 1★ 0%)
+- Polls: combination 45% · dry 33% · oily 22%; soothing 64% · hydration 34% · wrinkle/brightening 2%; gentle 92% · ordinary 7% · felt irritation 1%
+
 ## Round Lab Birch Juice Moisturizing Cream: What 11,820 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/round-lab-birch-juice-moisturizing-cream.html

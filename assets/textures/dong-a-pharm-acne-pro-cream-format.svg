@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic cream and gel format illustration</title>
+  <desc id="desc">A synthetic, brand-neutral illustration of a white cream swatch and translucent gel droplet on a pale green background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef5ef"/><stop offset="1" stop-color="#dcebdd"/></linearGradient>
+    <linearGradient id="gel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fffa" stop-opacity=".95"/><stop offset="1" stop-color="#9cc8aa" stop-opacity=".55"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#53715d" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="42" fill="url(#bg)"/>
+  <circle cx="180" cy="145" r="105" fill="#d1e4d4"/>
+  <circle cx="1040" cy="660" r="170" fill="#c9dfce"/>
+  <g filter="url(#shadow)">
+    <path d="M230 515c126-141 249-189 369-164 103 22 171 102 301 93 79-6 142 24 132 83-12 71-118 113-258 111-143-2-218 49-344 30-127-20-262-83-200-153z" fill="#fff"/>
+    <path d="M394 496c92-65 184-83 281-52 64 20 113 47 199 38-74 35-139 53-228 40-91-13-165-4-252 27 22-21 22-32 0-53z" fill="#edf5ef"/>
+  </g>
+  <path d="M910 176c44 66 73 111 73 164a89 89 0 1 1-178 0c0-53 30-98 105-164z" fill="url(#gel)" stroke="#8db99a" stroke-width="5"/>
+  <ellipse cx="875" cy="313" rx="20" ry="38" fill="#fff" opacity=".5" transform="rotate(24 875 313)"/>
+  <text x="74" y="92" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" fill="#355240">GENERIC FORMAT VISUAL</text>
+  <text x="74" y="132" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#587063">Code-drawn cream and gel forms · not the product or packaging</text>
+</svg>
