@@ -36,11 +36,11 @@ const publicRootFiles = [
 const guideLinks = [
   {
     href: "guides/k-beauty-review-rating-distribution-2026.html",
-    label: "Why do K-beauty ratings cluster near five stars? 322,854 records analyzed",
+    label: "Why are K-beauty ratings so high? 322,854 reviews analyzed",
   },
   {
     href: "guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html",
-    label: "Best K-beauty moisturizer for dry vs combination skin?",
+    label: "Best K-beauty moisturizers for dry vs combination skin",
   },
   {
     href: "guides/pdrn-vs-hyaluronic-acid-k-beauty-review-data.html",
@@ -48,7 +48,7 @@ const guideLinks = [
   },
   {
     href: "guides/anua-vs-medicube-pdrn-serum-review-data.html",
-    label: "Anua vs Medicube PDRN serum: which review signals differ?",
+    label: "Anua vs Medicube PDRN serum: 44,540 reviews compared",
   },
   {
     href: "guides/k-beauty-products-for-redness-review-data.html",
@@ -232,6 +232,61 @@ function ensureHomepageLinks(content) {
 
   return content;
 }
+
+function ensureSkinTypeSearchCopy(content) {
+  const title = "K-Beauty by Skin Type: Dry, Combination & Oily Poll Data";
+  const description = "Compare 50 K-beauty skincare products by captured dry, combination, oily, and gentle poll shares. Shopping context only—not proof of individual skin fit.";
+
+  content = content
+    .replace(/<title>[\s\S]*?<\/title>/i, `<title>${title}</title>`)
+    .replace(/<meta\s+name=["']description["'][^>]*>/i, `<meta name="description" content="${description}">`)
+    .replace(/<meta\s+property=["']og:title["'][^>]*>/i, `<meta property="og:title" content="${title}">`)
+    .replace(/<meta\s+property=["']og:description["'][^>]*>/i, `<meta property="og:description" content="${description}">`)
+    .replace(/<meta\s+name=["']twitter:title["'][^>]*>/i, `<meta name="twitter:title" content="${title}">`)
+    .replace(/<meta\s+name=["']twitter:description["'][^>]*>/i, `<meta name="twitter:description" content="${description}">`)
+    .replace(/<h1[^>]*>[\s\S]*?<\/h1>/i, `<h1>${title}</h1>`)
+    .replace(
+      /<p class=["']tag["']>[\s\S]*?<\/p>/i,
+      '<p class="tag">Compare 50 covered skincare products by captured dry-, combination-, and oily-skin poll shares, plus a separate gentle-response view. These are representation signals, not product-fit scores.</p>',
+    );
+
+  content = content.replace(
+    /<script\b(?=[^>]*\btype=["']application\/ld\+json["'])[^>]*>([\s\S]*?)<\/script>/i,
+    (block, json) => {
+      try {
+        const data = JSON.parse(json);
+        const nodes = Array.isArray(data?.["@graph"]) ? data["@graph"] : [data];
+        const collection = nodes.find((node) => node?.["@type"] === "CollectionPage");
+        if (collection) {
+          collection.name = title;
+          collection.description = description;
+          collection.dateModified = "2026-09-20";
+        }
+        return block.replace(json, JSON.stringify(data));
+      } catch {
+        return block;
+      }
+    },
+  );
+
+  const shortcuts = '<p data-section="skin-type-shortcuts" style="background:#f5f7ef;border:1px solid #dfe5d2;border-radius:10px;padding:12px 14px"><b>Need a shorter shortlist?</b> Start with the <a href="guides/best-k-beauty-moisturizer-dry-vs-combination-skin.html">five-product dry vs combination moisturizer comparison</a>, or compare <a href="guides/anua-vs-medicube-pdrn-serum-review-data.html">Anua vs Medicube PDRN serum data</a>.</p>';
+  const existingShortcuts = /<p\b[^>]*data-section=["']skin-type-shortcuts["'][^>]*>[\s\S]*?<\/p>/i;
+  return existingShortcuts.test(content)
+    ? content.replace(existingShortcuts, shortcuts)
+    : content.replace(/(<p class=["']tag["']>[\s\S]*?<\/p>)/i, `$1${shortcuts}`);
+}
+
+function verifySkinTypeSearchCopy() {
+  const fixture = '<!doctype html><html><head><meta name="description" content="old"><meta property="og:title" content="old"><meta property="og:description" content="old"><meta name="twitter:title" content="old"><meta name="twitter:description" content="old"><title>Old title</title><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Old","description":"Old"}]}</script></head><body><h1>Old heading</h1><p class="tag">Old intro</p></body></html>';
+  const normalized = ensureSkinTypeSearchCopy(fixture);
+  const json = JSON.parse(normalized.match(/<script[^>]+application\/ld\+json[^>]*>([\s\S]*?)<\/script>/i)?.[1] ?? "{}");
+  const collection = json?.["@graph"]?.find((node) => node?.["@type"] === "CollectionPage");
+  if (!normalized.includes("K-Beauty by Skin Type") || !normalized.includes('data-section="skin-type-shortcuts"') || collection?.dateModified !== "2026-09-20") {
+    throw new Error("Skin-type search-copy normalization failed its fixture check.");
+  }
+}
+
+verifySkinTypeSearchCopy();
 
 function ensureAboutProfile(content) {
   content = content.replace(
@@ -488,6 +543,7 @@ for (const file of files) {
   if (file.startsWith("guides/")) normalized = ensureGuidePostLinks(normalized, file, catalog);
   normalized = stripSourceRetailer(normalized);
   if (file === "index.html") normalized = ensureHomepageLinks(normalized);
+  if (file === "skin-type.html") normalized = ensureSkinTypeSearchCopy(normalized);
   if (file === "about.html") normalized = ensureAboutProfile(normalized);
   if (file === "rankings.html") normalized = ensureRankingsReportLink(normalized);
   if (file === "llms.txt") normalized = ensureLlmsGuideLinks(normalized);
