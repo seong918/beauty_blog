@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Generic cream-format illustration</title>
+  <desc id="desc">A brand-neutral code-drawn cream smear and sample jar, not a photograph of Dr. Althea 345 Relief Cream.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e7eadc"/><stop offset="1" stop-color="#f8eee6"/></linearGradient>
+    <linearGradient id="cream" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffef8"/><stop offset="1" stop-color="#e7dfcf"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#626558" flood-opacity=".2"/></filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <circle cx="218" cy="150" r="118" fill="#d3dcc6" opacity=".7"/>
+  <circle cx="1012" cy="622" r="190" fill="#ead8cf" opacity=".55"/>
+  <path d="M130 492 C278 406 424 424 555 481 C642 519 709 510 785 463 C831 435 882 431 949 457 C865 563 750 618 603 626 C414 635 258 592 130 492Z" fill="url(#cream)" filter="url(#shadow)"/>
+  <path d="M226 505 C363 456 473 468 579 512 C665 547 750 532 858 487" fill="none" stroke="#d5cbb8" stroke-width="10" stroke-linecap="round" opacity=".8"/>
+  <g transform="translate(770 132)" filter="url(#shadow)">
+    <ellipse cx="132" cy="310" rx="148" ry="42" fill="#b9b8ad" opacity=".5"/>
+    <rect x="20" y="92" width="224" height="208" rx="42" fill="#f7f4eb" stroke="#c9c7bb" stroke-width="5"/>
+    <ellipse cx="132" cy="92" rx="112" ry="28" fill="#d9d7cc"/>
+    <ellipse cx="132" cy="86" rx="92" ry="20" fill="#fffef8"/>
+    <rect x="55" y="165" width="154" height="72" rx="14" fill="#dfe6d4"/>
+    <text x="132" y="193" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#59664b" letter-spacing="1.5">GENERIC</text>
+    <text x="132" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#59664b">CREAM FORMAT</text>
+  </g>
+  <text x="82" y="88" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#5e684f" letter-spacing="2">FORMAT ILLUSTRATION</text>
+  <text x="82" y="120" font-family="Arial, sans-serif" font-size="18" fill="#6c7166">Brand-neutral visual · not the product · not a use-result image</text>
+</svg>

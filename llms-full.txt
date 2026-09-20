@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Dr. Althea 345 Relief Cream: 5,425 Reviews (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/dr-althea-345-relief-cream.html
+- Published: 2026-09-20
+- Summary: Dr. Althea 345 Relief Cream analysis: 4.8 stars from 5,425 Olive Young Korea review records, rank-16 context, and explicit data limits.
+- Rating: 4.8 / 5 from 5,425 reviews; no reliable star distribution or survey shares were exposed in the captured view.
+
 ## Abib Heartleaf Teca Capsule Serum Calming Drop: What 16,687 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/abib-heartleaf-teca-capsule-serum-calming-drop.html
