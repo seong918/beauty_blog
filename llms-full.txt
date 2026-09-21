@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## The Ordinary Glycolic Acid 7% Exfoliating Toner: What 6,852 Review Records Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/the-ordinary-glycolic-acid-7-exfoliating-toner.html
+- Published: 2026-09-21
+- Summary: The Ordinary Glycolic Acid 7% Exfoliating Toner analysis: 4.7 stars from 6,852 Olive Young Korea review records, rank-16 context, star shares, polls, and careful limits.
+- Rating: 4.7 / 5 from 6,852 reviews (5★ 80% · 4★ 14% · 3★ 5% · 2★ 1% · 1★ 1%); displayed skin poll 52% combination / 26% dry / 22% oily; irritation poll 46% ordinary / 31% gentle / 23% felt irritation.
+
 ## Dr. Althea 345 Relief Cream: 5,425 Reviews (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/dr-althea-345-relief-cream.html
