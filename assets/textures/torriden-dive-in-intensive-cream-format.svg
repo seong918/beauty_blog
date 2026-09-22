@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic cream-format illustration</title>
+  <desc id="desc">A brand-neutral open jar and pale blue cream swatch on a softly shaded background. This is not a product photograph.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef8fa"/><stop offset="1" stop-color="#dceff3"/></linearGradient>
+    <linearGradient id="jar" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#c8edf4"/><stop offset="1" stop-color="#83c7d6"/></linearGradient>
+    <linearGradient id="cream" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbffff"/><stop offset="1" stop-color="#d9f0f5"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#376c78" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1020" cy="130" r="210" fill="#fff" opacity=".35"/>
+  <ellipse cx="600" cy="690" rx="420" ry="54" fill="#76aeb9" opacity=".18"/>
+  <g filter="url(#shadow)">
+    <ellipse cx="420" cy="380" rx="210" ry="68" fill="#e9fbfe" stroke="#73b8c7" stroke-width="8"/>
+    <path d="M210 380v194c0 58 94 104 210 104s210-46 210-104V380" fill="url(#jar)" stroke="#73b8c7" stroke-width="8"/>
+    <ellipse cx="420" cy="380" rx="174" ry="43" fill="url(#cream)"/>
+    <path d="M305 382c52-35 167-48 229-5-54 5-91 22-131 34-35 11-70-4-98-29Z" fill="#fff" opacity=".92"/>
+  </g>
+  <path d="M666 522c87-129 240-145 354-74 44 28 50 74 7 94-84 40-203 13-309 52-70 26-96-7-52-72Z" fill="url(#cream)" stroke="#9bcfda" stroke-width="5" filter="url(#shadow)"/>
+  <path d="M742 519c64-55 151-70 227-43" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round" opacity=".8"/>
+  <text x="70" y="90" font-family="Arial,Helvetica,sans-serif" font-size="26" fill="#39788c" letter-spacing="3">GENERIC CREAM FORMAT</text>
+  <text x="70" y="132" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#5c7c85">Editorial illustration · not the actual product or packaging</text>
+</svg>

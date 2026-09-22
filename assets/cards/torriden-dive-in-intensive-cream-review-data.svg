@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Torriden Dive-In Intensive Cream review data</title>
+  <desc id="desc">Skincare sales rank nine, rating five point zero, one review record, captured September twenty-second twenty twenty-six, with a small-sample warning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e7f8fc"/><stop offset="1" stop-color="#f7fbfc"/></linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6bbbd1"/><stop offset="1" stop-color="#a7dce8"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)"/>
+  <circle cx="1060" cy="80" r="180" fill="#fff" opacity=".45"/>
+  <path d="M0 510 C210 430 330 595 560 500 S900 430 1200 520 V630 H0Z" fill="url(#wave)" opacity=".33"/>
+  <text x="72" y="78" font-family="Arial,Helvetica,sans-serif" font-size="26" fill="#39788c" letter-spacing="2">THE K-BEAUTY DATA DESK</text>
+  <text x="72" y="142" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" fill="#183b48">Torriden Dive-In</text>
+  <text x="72" y="194" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="600" fill="#285d6f">Intensive Cream</text>
+  <rect x="72" y="242" width="302" height="176" rx="22" fill="#fff" stroke="#b9dfe8" stroke-width="2"/>
+  <text x="102" y="294" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#54717b">DISPLAYED RATING</text>
+  <text x="102" y="372" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" fill="#173b49">5.0</text>
+  <text x="258" y="370" font-family="Arial,Helvetica,sans-serif" font-size="32" fill="#4f9bb5">/ 5</text>
+  <rect x="400" y="242" width="302" height="176" rx="22" fill="#fff" stroke="#b9dfe8" stroke-width="2"/>
+  <text x="430" y="294" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#54717b">REVIEW BASE</text>
+  <text x="430" y="372" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" fill="#173b49">1</text>
+  <text x="484" y="370" font-family="Arial,Helvetica,sans-serif" font-size="30" fill="#4f9bb5">record</text>
+  <rect x="728" y="242" width="400" height="176" rx="22" fill="#fff" stroke="#b9dfe8" stroke-width="2"/>
+  <text x="758" y="294" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#54717b">SKINCARE SALES RANK</text>
+  <text x="758" y="372" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" fill="#173b49">#9</text>
+  <text x="72" y="474" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" fill="#8a5b1f">ONE RECORD IS A LAUNCH SNAPSHOT, NOT A CONSENSUS</text>
+  <text x="72" y="526" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#365c68">No reliable star distribution or shopper poll was exposed.</text>
+  <text x="72" y="576" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#55727c">Olive Young Korea aggregate display · captured 2026-09-22</text>
+</svg>
