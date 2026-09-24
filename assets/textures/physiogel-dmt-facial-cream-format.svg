@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic cream-format illustration</title>
+  <desc id="desc">A brand-neutral code-drawn ivory cream swirl and unmarked open jar on a pale sage background. This is not a product photograph.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef5f1"/><stop offset="1" stop-color="#e5ded4"/></linearGradient>
+    <linearGradient id="jar" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fbfcfa"/><stop offset="1" stop-color="#d8e1dd"/></linearGradient>
+    <linearGradient id="cream" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf7"/><stop offset=".65" stop-color="#eee7d9"/><stop offset="1" stop-color="#d7ccba"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#45584f" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="180" cy="120" r="210" fill="#d5e7df" opacity=".75"/>
+  <circle cx="1070" cy="670" r="240" fill="#eadccc" opacity=".72"/>
+  <ellipse cx="760" cy="647" rx="285" ry="55" fill="#8ea096" opacity=".18"/>
+  <g filter="url(#shadow)">
+    <ellipse cx="783" cy="430" rx="230" ry="72" fill="#c7d1cc"/>
+    <path d="M553 430v188c0 61 103 111 230 111s230-50 230-111V430z" fill="url(#jar)" stroke="#aebdb6" stroke-width="5"/>
+    <ellipse cx="783" cy="430" rx="230" ry="72" fill="#f9fbf8" stroke="#aebdb6" stroke-width="5"/>
+    <ellipse cx="783" cy="430" rx="190" ry="48" fill="#e8e0d2"/>
+    <path d="M640 433c31-54 84-78 160-72 72 5 117 29 136 72-45-22-94-29-148-22-58 7-106 15-148 22z" fill="#fffdf8" opacity=".82"/>
+  </g>
+  <path d="M120 563c62-72 153-106 273-101 92 4 155 26 190 64-88-12-155 2-201 42-54 46-128 60-222 42-42-8-56-24-40-47z" fill="url(#cream)" filter="url(#shadow)"/>
+  <path d="M170 561c75-40 163-55 265-44-77 6-142 25-196 57" fill="none" stroke="#fffefa" stroke-width="22" stroke-linecap="round" opacity=".85"/>
+  <text x="66" y="74" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" letter-spacing="2" fill="#527064">GENERIC CREAM FORMAT</text>
+  <text x="66" y="108" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#667970">Code-drawn editorial visual · not the product or a use test</text>
+</svg>
