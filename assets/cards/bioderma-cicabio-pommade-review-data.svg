@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Bioderma Cicabio Pommade aggregate review data</title>
+  <desc id="desc">Skincare sales rank 2, rating 4.8 from 17,701 review records, 85 percent five-star, 71 percent dry-skin response, 73 percent hydration concern, and 78 percent gentle response, captured September 26 2026.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8f5"/><stop offset="1" stop-color="#f2f8f7"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e58b80"/><stop offset="1" stop-color="#4c9288"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)"/>
+  <rect x="42" y="42" width="1116" height="546" rx="26" fill="#ffffff" stroke="#d9e5e1" stroke-width="2"/>
+  <text x="86" y="108" font-family="system-ui,sans-serif" font-size="24" font-weight="700" fill="#30786f">THE K-BEAUTY DATA DESK</text>
+  <text x="86" y="160" font-family="system-ui,sans-serif" font-size="40" font-weight="750" fill="#26312e">Bioderma Cicabio Pommade</text>
+  <text x="86" y="198" font-family="system-ui,sans-serif" font-size="20" fill="#65736e">Olive Young Korea aggregate display · captured 2026-09-26</text>
+  <g font-family="system-ui,sans-serif">
+    <rect x="86" y="244" width="235" height="132" rx="18" fill="#f8eeeb"/>
+    <text x="112" y="282" font-size="18" fill="#76524d">SKINCARE RANK</text><text x="112" y="347" font-size="55" font-weight="750" fill="#bd645c">#2</text>
+    <rect x="343" y="244" width="275" height="132" rx="18" fill="#edf7f4"/>
+    <text x="369" y="282" font-size="18" fill="#426b64">DISPLAYED RATING</text><text x="369" y="347" font-size="55" font-weight="750" fill="#30786f">4.8 / 5</text>
+    <rect x="640" y="244" width="432" height="132" rx="18" fill="#f4f5f3"/>
+    <text x="666" y="282" font-size="18" fill="#59635f">REVIEW RECORDS</text><text x="666" y="347" font-size="55" font-weight="750" fill="#26312e">17,701</text>
+    <text x="86" y="425" font-size="19" font-weight="700" fill="#26312e">DISPLAYED AGGREGATE SIGNALS</text>
+    <rect x="86" y="451" width="986" height="18" rx="9" fill="#edf0ef"/><rect x="86" y="451" width="838" height="18" rx="9" fill="url(#bar)"/>
+    <text x="86" y="506" font-size="24" fill="#26312e"><tspan font-weight="750">85%</tspan> five-star</text>
+    <text x="363" y="506" font-size="24" fill="#26312e"><tspan font-weight="750">71%</tspan> dry-skin response</text>
+    <text x="725" y="506" font-size="24" fill="#26312e"><tspan font-weight="750">78%</tspan> gentle response</text>
+    <text x="86" y="554" font-size="18" fill="#65736e">Rounded storefront percentages; not clinical outcomes or individual predictions.</text>
+  </g>
+</svg>

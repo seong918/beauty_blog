@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic pommade-format illustration</title>
+  <desc id="desc">A brand-neutral plain tube beside a dense cream-like ribbon. This is an editorial format illustration, not the product or its packaging.</desc>
+  <defs>
+    <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6eeeb"/><stop offset="1" stop-color="#eaf4f1"/></linearGradient>
+    <linearGradient id="tube" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffffff"/><stop offset=".58" stop-color="#f4f2ef"/><stop offset="1" stop-color="#d9e3df"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#62716b" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="34" fill="url(#back)"/>
+  <ellipse cx="604" cy="668" rx="385" ry="52" fill="#c7d5d0" opacity=".34"/>
+  <g filter="url(#shadow)" transform="translate(216 104) rotate(-9 250 280)">
+    <path d="M92 70h300l42 445c4 47-31 87-78 87H128c-47 0-82-40-78-87z" fill="url(#tube)" stroke="#bdcbc6" stroke-width="5"/>
+    <rect x="78" y="36" width="328" height="65" rx="18" fill="#eef2f0" stroke="#bdcbc6" stroke-width="5"/>
+    <rect x="139" y="192" width="206" height="120" rx="18" fill="#fff9f6" stroke="#e6cbc6" stroke-width="4"/>
+    <circle cx="242" cy="252" r="38" fill="#dc8278" opacity=".82"/>
+    <path d="M121 602h242v60c0 19-15 34-34 34H155c-19 0-34-15-34-34z" fill="#ffffff" stroke="#bdcbc6" stroke-width="5"/>
+  </g>
+  <g filter="url(#shadow)">
+    <path d="M640 536c80-92 185-131 275-94 79 32 107 103 50 145-46 34-120 24-173 50-72 35-154 22-171-28-8-24-1-49 19-73z" fill="#f8f1e9" stroke="#d8c9ba" stroke-width="5"/>
+    <path d="M688 543c72-59 139-75 202-46" fill="none" stroke="#ffffff" stroke-width="22" stroke-linecap="round" opacity=".72"/>
+  </g>
+  <g font-family="system-ui,sans-serif" fill="#4d5c57">
+    <text x="720" y="180" font-size="30" font-weight="750">GENERIC FORMAT STUDY</text>
+    <text x="720" y="224" font-size="22">Plain tube + dense cream-like ribbon</text>
+    <text x="720" y="262" font-size="18" fill="#6f7d78">No logo · no product photo · no texture claim</text>
+  </g>
+</svg>

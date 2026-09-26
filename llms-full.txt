@@ -2,6 +2,14 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Bioderma Cicabio Pommade: 17,701 Reviews (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/bioderma-cicabio-pommade.html
+- Published: 2026-09-26
+- Summary: Bioderma Cicabio Pommade analysis: 4.8 stars from 17,701 Korean-retailer review records, skincare rank 2, displayed star shares and shopper polls, with explicit limits.
+- Rating: 4.8 / 5 from 17,701 reviews (5★ 85% · 4★ 10% · 3★ 3% · 2★ 1% · 1★ 1%)
+- Polls: dry 71% / combination 26% / oily 2%; hydration 73% / soothing 27% / wrinkle-brightening 0%; gentle 78% / ordinary 22% / felt irritation 0%.
+
 ## Physiogel DMT Facial Cream: 24,739 Reviews (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/physiogel-dmt-facial-cream.html

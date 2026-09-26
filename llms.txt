@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [Bioderma Cicabio Pommade: 17,701 Reviews (2026)](https://seong918.github.io/beauty_blog/posts/bioderma-cicabio-pommade.html): Bioderma Cicabio Pommade analysis: 4.8 stars from 17,701 Korean-retailer review records, skincare rank 2, displayed star shares and shopper polls, with explicit limits. (published 2026-09-26)
 - [Physiogel DMT Facial Cream: 24,739 Reviews (2026)](https://seong918.github.io/beauty_blog/posts/physiogel-dmt-facial-cream.html): Physiogel DMT Facial Cream analysis: 4.8 stars from 24,739 Korean-retailer review records, skincare rank 24, displayed star shares and shopper polls, with clear limits. (published 2026-09-24)
 - [Torriden Dive-In Intensive Cream: 1 Review Record (2026)](https://seong918.github.io/beauty_blog/posts/torriden-dive-in-low-molecular-hyaluronic-acid-intensive-cream.html): Torriden Dive-In Intensive Cream analysis: 5.0 stars from one Korean-retailer review record, rank-nine context, captured pack and price details, and strict small-sample limits. (published 2026-09-22)
 - [Physiogel Daily Mune Ampoule: What 10,456 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/physiogel-daily-mune-ampoule.html): Physiogel Daily Mune Ampoule: 4.8★ from 10,456 Olive Young Korea review records (87% five-star). (published 2026-09-22)
