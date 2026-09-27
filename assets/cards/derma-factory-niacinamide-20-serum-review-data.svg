@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Derma Factory Niacinamide 20% Serum review data</title>
+  <desc id="desc">A brand-neutral aggregate data card showing skincare sales rank 29, 4.8 stars from 19,914 review records, 83 percent five-star, 56 percent combination-skin response, and 48 percent ordinary irritation response.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f5f0ff"/><stop offset="1" stop-color="#e8f6f1"/></linearGradient></defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)"/>
+  <rect x="54" y="54" width="1092" height="522" rx="28" fill="#fff" stroke="#d8dedb" stroke-width="2"/>
+  <text x="94" y="126" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#4c4560">THE K-BEAUTY DATA DESK</text>
+  <text x="94" y="187" font-family="Arial, sans-serif" font-size="43" font-weight="700" fill="#222d29">Derma Factory Niacinamide 20% Serum</text>
+  <text x="94" y="229" font-family="Arial, sans-serif" font-size="23" fill="#59655f">Olive Young Korea aggregate display · captured 2026-09-27</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="94" y="278" width="230" height="170" rx="20" fill="#f6f2fb"/>
+    <text x="209" y="328" font-size="21" fill="#635b72">SKINCARE RANK</text><text x="209" y="397" font-size="64" font-weight="700" fill="#443f50">29</text>
+    <rect x="338" y="278" width="230" height="170" rx="20" fill="#eef8f4"/>
+    <text x="453" y="328" font-size="21" fill="#526b61">AVERAGE</text><text x="453" y="397" font-size="64" font-weight="700" fill="#314a40">4.8</text>
+    <rect x="582" y="278" width="230" height="170" rx="20" fill="#f6f2fb"/>
+    <text x="697" y="328" font-size="21" fill="#635b72">REVIEW RECORDS</text><text x="697" y="397" font-size="53" font-weight="700" fill="#443f50">19,914</text>
+    <rect x="826" y="278" width="230" height="170" rx="20" fill="#eef8f4"/>
+    <text x="941" y="328" font-size="21" fill="#526b61">FIVE-STAR SHARE</text><text x="941" y="397" font-size="60" font-weight="700" fill="#314a40">83%</text>
+  </g>
+  <text x="94" y="500" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#3c4742">Poll highlights</text>
+  <text x="94" y="538" font-family="Arial, sans-serif" font-size="22" fill="#59655f">Combination 56% · wrinkle/brightening concern 45% · ordinary response 48%</text>
+</svg>

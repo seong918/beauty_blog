@@ -2,6 +2,14 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Derma Factory Niacinamide 20% Serum: 19,914 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/derma-factory-niacinamide-20-serum.html
+- Published: 2026-09-27
+- Summary: Derma Factory Niacinamide 20% Serum analysis: 4.8 stars from 19,914 Olive Young Korea review records, skincare rank 29, displayed star shares and shopper polls, with explicit limits.
+- Rating: 4.8 / 5 from 19,914 reviews (5★ 83% · 4★ 12% · 3★ 4% · 2★ 1% · 1★ 0%)
+- Polls: combination 56% / oily 23% / dry 21%; wrinkle-brightening 45% / soothing 34% / hydration 21%; ordinary 48% / gentle 42% / felt irritation 9%.
+
 ## Bioderma Cicabio Pommade: 17,701 Reviews (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/bioderma-cicabio-pommade.html
