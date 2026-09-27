@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic dropper-serum format illustration</title>
+  <desc id="desc">A brand-neutral code-drawn glass dropper bottle beside translucent blue serum-like droplets. It is not product photography and does not represent the product's real color or texture.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6fafc"/><stop offset="1" stop-color="#dcebf4"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f9fdff" stop-opacity=".92"/><stop offset="1" stop-color="#a9cce0" stop-opacity=".58"/></linearGradient>
+    <linearGradient id="liquid" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8fc3de" stop-opacity=".72"/><stop offset="1" stop-color="#4b8cad" stop-opacity=".88"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#53788d" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="598" cy="688" rx="310" ry="50" fill="#7498aa" opacity=".18"/>
+  <g filter="url(#shadow)">
+    <rect x="415" y="274" width="300" height="380" rx="62" fill="url(#glass)" stroke="#7da8be" stroke-width="7"/>
+    <path d="M435 492h260v105c0 30-25 55-55 55H490c-30 0-55-25-55-55z" fill="url(#liquid)" opacity=".82"/>
+    <rect x="475" y="190" width="180" height="112" rx="23" fill="#31586e"/>
+    <rect x="520" y="100" width="90" height="112" rx="36" fill="#223f50"/>
+    <path d="M565 212v216" stroke="#345e74" stroke-width="18" stroke-linecap="round"/>
+    <path d="M565 420c-24 38-35 57-35 77a35 35 0 0 0 70 0c0-20-11-39-35-77z" fill="#75b2d0" opacity=".85"/>
+    <rect x="470" y="366" width="190" height="92" rx="15" fill="#f8fcfe" opacity=".8"/>
+    <path d="M505 401h120M505 427h82" stroke="#7795a5" stroke-width="10" stroke-linecap="round" opacity=".65"/>
+  </g>
+  <g fill="#78b5d1" opacity=".76">
+    <path d="M810 504c-34 52-49 78-49 105a49 49 0 0 0 98 0c0-27-15-53-49-105z"/>
+    <path d="M910 585c-20 31-29 46-29 62a29 29 0 0 0 58 0c0-16-9-31-29-62z"/>
+  </g>
+  <text x="600" y="754" text-anchor="middle" fill="#45697d" font-family="Arial, Helvetica, sans-serif" font-size="22">Generic format illustration — not the product, packaging, color, or a use test</text>
+</svg>

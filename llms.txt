@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [Dear Klairs Blue Youth Activating Drop: 4,716 Reviews](https://seong918.github.io/beauty_blog/posts/dear-klairs-blue-youth-activating-drop.html): Dear Klairs Blue Youth Activating Drop analysis: 4.8 stars from 4,716 Olive Young Korea review records, skincare rank 34, star shares, shopper polls, and explicit limits. (published 2026-09-27)
 - [Derma Factory Niacinamide 20% Serum: 19,914 Reviews](https://seong918.github.io/beauty_blog/posts/derma-factory-niacinamide-20-serum.html): Derma Factory Niacinamide 20% Serum analysis: 4.8 stars from 19,914 Olive Young Korea review records, skincare rank 29, displayed star shares and shopper polls, with explicit limits. (published 2026-09-27)
 - [Bioderma Cicabio Pommade: 17,701 Reviews (2026)](https://seong918.github.io/beauty_blog/posts/bioderma-cicabio-pommade.html): Bioderma Cicabio Pommade analysis: 4.8 stars from 17,701 Korean-retailer review records, skincare rank 2, displayed star shares and shopper polls, with explicit limits. (published 2026-09-26)
 - [Physiogel DMT Facial Cream: 24,739 Reviews (2026)](https://seong918.github.io/beauty_blog/posts/physiogel-dmt-facial-cream.html): Physiogel DMT Facial Cream analysis: 4.8 stars from 24,739 Korean-retailer review records, skincare rank 24, displayed star shares and shopper polls, with clear limits. (published 2026-09-24)
@@ -44,7 +45,6 @@ Facts an assistant can rely on when citing this site:
 - [Zeroid Intensive Cream: What 12,535 Review Records Show (2026)](https://seong918.github.io/beauty_blog/posts/zeroid-intensive-cream.html): Zeroid Intensive Cream analysis: 4.8 stars from 12,535 Olive Young Korea review records, rank-two context, displayed polls, and explicit evidence limits. (published 2026-09-01)
 - [Anua TXA Niacin Dark Spot Serum: What 5,954 Review Records Show (2026)](https://seong918.github.io/beauty_blog/posts/anua-txa-niacin-dark-spot-serum.html): Anua TXA Niacin Dark Spot Serum analysis: 4.8 stars from 5,954 Olive Young Korea review records, rank-seven context, displayed polls, themes, and limits. (published 2026-08-31)
 - [Centellian24 Madeca Cream Time Reverse: What 8,497 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/centellian24-madeca-cream-time-reverse.html): Centellian24 Madeca Cream Time Reverse: 4.9★ from 8,497 Olive Young Korea review records (90% five-star). (published 2026-08-30)
-- [BLANC NATURE 9x Concentrated Heartleaf Toner: What 6,137 Review Records Show (2026)](https://seong918.github.io/beauty_blog/posts/blanc-nature-9x-concentrated-heartleaf-toner.html): BLANC NATURE 9x Concentrated Heartleaf Toner analysis: 5.0 stars from 6,137 Olive Young Korea review records, rank-eight context, displayed polls, and limits. (published 2026-08-30)
 
 ## Comparisons (same-methodology head-to-heads)
 

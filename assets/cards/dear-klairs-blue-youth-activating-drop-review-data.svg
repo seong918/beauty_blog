@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Dear Klairs Blue Youth Activating Drop aggregate review data</title>
+  <desc id="desc">A brand-neutral data card showing skincare sales rank 34, 4.8 stars, 4,716 review records, 86 percent five-star, 57 percent combination-skin response, 81 percent soothing-concern response, and 78 percent gentle response.</desc>
+  <rect width="1200" height="630" fill="#f3f7fb"/>
+  <circle cx="1065" cy="115" r="170" fill="#dbeaf4"/>
+  <circle cx="112" cy="562" r="210" fill="#e6eef7"/>
+  <rect x="72" y="64" width="1056" height="502" rx="34" fill="#ffffff" stroke="#bfd0de" stroke-width="3"/>
+  <text x="118" y="132" fill="#32546d" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="2">THE K-BEAUTY DATA DESK</text>
+  <text x="118" y="190" fill="#182c3a" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Dear Klairs Blue Youth Activating Drop</text>
+  <text x="118" y="232" fill="#617684" font-family="Arial, Helvetica, sans-serif" font-size="23">Olive Young Korea aggregates captured 2026-09-27</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="118" y="278" width="212" height="112" rx="18" fill="#edf5fa"/>
+    <text x="145" y="315" fill="#617684" font-size="18">SKINCARE RANK</text>
+    <text x="145" y="365" fill="#24475f" font-size="43" font-weight="700">#34</text>
+    <rect x="350" y="278" width="212" height="112" rx="18" fill="#edf5fa"/>
+    <text x="377" y="315" fill="#617684" font-size="18">RATING</text>
+    <text x="377" y="365" fill="#24475f" font-size="43" font-weight="700">4.8 / 5</text>
+    <rect x="582" y="278" width="250" height="112" rx="18" fill="#edf5fa"/>
+    <text x="609" y="315" fill="#617684" font-size="18">REVIEW RECORDS</text>
+    <text x="609" y="365" fill="#24475f" font-size="43" font-weight="700">4,716</text>
+    <rect x="852" y="278" width="230" height="112" rx="18" fill="#edf5fa"/>
+    <text x="879" y="315" fill="#617684" font-size="18">FIVE-STAR SHARE</text>
+    <text x="879" y="365" fill="#24475f" font-size="43" font-weight="700">86%</text>
+    <rect x="118" y="414" width="964" height="106" rx="18" fill="#32546d"/>
+    <text x="155" y="456" fill="#dceaf3" font-size="18">LARGEST DISPLAYED POLL RESPONSES</text>
+    <text x="155" y="496" fill="#ffffff" font-size="27" font-weight="700">Combination 57%  ·  Soothing concern 81%  ·  Gentle 78%</text>
+  </g>
+  <text x="600" y="594" text-anchor="middle" fill="#617684" font-family="Arial, Helvetica, sans-serif" font-size="17">Rounded retailer displays are not clinical outcomes or verified population statistics.</text>
+</svg>

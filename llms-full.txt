@@ -2,6 +2,14 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Dear Klairs Blue Youth Activating Drop: 4,716 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/dear-klairs-blue-youth-activating-drop.html
+- Published: 2026-09-27
+- Summary: Dear Klairs Blue Youth Activating Drop analysis: 4.8 stars from 4,716 Olive Young Korea review records, skincare rank 34, star shares, shopper polls, and explicit limits.
+- Rating: 4.8 / 5 from 4,716 reviews (5★ 86% · 4★ 9% · 3★ 4% · 2★ 1% · 1★ 1%)
+- Polls: combination 57% / oily 28% / dry 15%; soothing 81% / hydration 14% / wrinkle-brightening 5%; gentle 78% / ordinary 21% / felt irritation 1%.
+
 ## Derma Factory Niacinamide 20% Serum: 19,914 Reviews
 
 - URL: https://seong918.github.io/beauty_blog/posts/derma-factory-niacinamide-20-serum.html
