@@ -2,6 +2,15 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Biotherm Homme Aquapower All-in-One: 1,224 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/biotherm-homme-aquapower-all-in-one.html
+- Published: 2026-09-28
+- Summary: Biotherm Homme Aquapower All-in-One analysis: 4.9 stars from 1,224 Olive Young Korea review records, skincare rank 3, option and price context, and explicit data limits.
+- Rating: 4.9 / 5 from 1,224 reviews; a reliable star-by-star distribution was not displayed.
+- Polls: No reliable skin-type, concern, or irritation poll was displayed.
+- Limits: No individual review is quoted; the product was not tested; rank, rating, count, option wording, and price are dated retail displays, not evidence of efficacy or individual fit.
+
 ## Dear Klairs Blue Youth Activating Drop: 4,716 Reviews
 
 - URL: https://seong918.github.io/beauty_blog/posts/dear-klairs-blue-youth-activating-drop.html

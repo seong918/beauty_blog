@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [Biotherm Homme Aquapower All-in-One: 1,224 Reviews](https://seong918.github.io/beauty_blog/posts/biotherm-homme-aquapower-all-in-one.html): Biotherm Homme Aquapower All-in-One analysis: 4.9 stars from 1,224 Olive Young Korea review records, skincare rank 3, option and price context, and explicit data limits. (published 2026-09-28)
 - [Dear Klairs Blue Youth Activating Drop: 4,716 Reviews](https://seong918.github.io/beauty_blog/posts/dear-klairs-blue-youth-activating-drop.html): Dear Klairs Blue Youth Activating Drop analysis: 4.8 stars from 4,716 Olive Young Korea review records, skincare rank 34, star shares, shopper polls, and explicit limits. (published 2026-09-27)
 - [Derma Factory Niacinamide 20% Serum: 19,914 Reviews](https://seong918.github.io/beauty_blog/posts/derma-factory-niacinamide-20-serum.html): Derma Factory Niacinamide 20% Serum analysis: 4.8 stars from 19,914 Olive Young Korea review records, skincare rank 29, displayed star shares and shopper polls, with explicit limits. (published 2026-09-27)
 - [Bioderma Cicabio Pommade: 17,701 Reviews (2026)](https://seong918.github.io/beauty_blog/posts/bioderma-cicabio-pommade.html): Bioderma Cicabio Pommade analysis: 4.8 stars from 17,701 Korean-retailer review records, skincare rank 2, displayed star shares and shopper polls, with explicit limits. (published 2026-09-26)

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Biotherm Homme Aquapower All-in-One aggregate review data</title>
+  <desc id="desc">A brand-neutral data card showing skincare sales rank 3, 4.9 stars, 1,224 review records, and that star shares and shopper polls were not reliably displayed.</desc>
+  <rect width="1200" height="630" fill="#eff8f7"/>
+  <circle cx="1070" cy="90" r="180" fill="#d3eeeb"/>
+  <circle cx="105" cy="585" r="220" fill="#dcefee"/>
+  <rect x="72" y="64" width="1056" height="502" rx="34" fill="#ffffff" stroke="#b8d9d8" stroke-width="3"/>
+  <text x="118" y="132" fill="#246f73" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="2">THE K-BEAUTY DATA DESK</text>
+  <text x="118" y="190" fill="#17393d" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Biotherm Homme Aquapower All-in-One</text>
+  <text x="118" y="232" fill="#58767a" font-family="Arial, Helvetica, sans-serif" font-size="23">Olive Young Korea aggregates captured 2026-09-28</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="118" y="278" width="282" height="112" rx="18" fill="#e8f5f4"/>
+    <text x="148" y="315" fill="#58767a" font-size="18">SKINCARE RANK</text>
+    <text x="148" y="365" fill="#1e6267" font-size="43" font-weight="700">#3</text>
+    <rect x="425" y="278" width="282" height="112" rx="18" fill="#e8f5f4"/>
+    <text x="455" y="315" fill="#58767a" font-size="18">RATING</text>
+    <text x="455" y="365" fill="#1e6267" font-size="43" font-weight="700">4.9 / 5</text>
+    <rect x="732" y="278" width="350" height="112" rx="18" fill="#e8f5f4"/>
+    <text x="762" y="315" fill="#58767a" font-size="18">REVIEW RECORDS</text>
+    <text x="762" y="365" fill="#1e6267" font-size="43" font-weight="700">1,224</text>
+    <rect x="118" y="414" width="964" height="106" rx="18" fill="#246f73"/>
+    <text x="155" y="456" fill="#d9efed" font-size="18">DISPLAY LIMIT</text>
+    <text x="155" y="496" fill="#ffffff" font-size="27" font-weight="700">No reliable star shares, shopper polls, or theme summary</text>
+  </g>
+  <text x="600" y="594" text-anchor="middle" fill="#58767a" font-family="Arial, Helvetica, sans-serif" font-size="17">Retail aggregates describe the captured page, not clinical outcomes or individual fit.</text>
+</svg>
