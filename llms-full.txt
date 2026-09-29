@@ -2,6 +2,16 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Oars Hyaluron Cica 7-Second Serum: 6,007 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/oars-hyaluron-cica-7-second-serum-in-ampoule.html
+- Published: 2026-09-29
+- Summary: Oars Hyaluron Cica 7-Second Serum-in-Ampoule analysis: 4.9 stars from 6,007 Olive Young Korea review records, rank 14, star shares, shopper polls, themes, and limits.
+- Rating: 4.9 / 5 from 6,007 reviews (5★ 91% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 0%)
+- Polls: dry 47% / combination 43% / oily 10%; hydration 78% / soothing 21% / wrinkle-brightening 1%; gentle 87% / ordinary 13% / felt irritation 1%.
+- Themes: the retailer's automated recent-summary display classified 92% positive and grouped anonymous discussion around hydration and absorption impressions, makeup layering, and container/value impressions.
+- Limits: No individual review is quoted or translated; the product was not tested; rounded star/poll shares and automated themes are retail signals, not clinical evidence or guaranteed fit.
+
 ## Biotherm Homme Aquapower All-in-One: 1,224 Reviews
 
 - URL: https://seong918.github.io/beauty_blog/posts/biotherm-homme-aquapower-all-in-one.html
