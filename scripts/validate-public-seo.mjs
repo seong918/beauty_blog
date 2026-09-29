@@ -61,6 +61,13 @@ const files = [
 ].filter((path) => !excludedPublicPaths.has(relative(".", path).replaceAll("\\", "/")));
 const failures = [];
 
+function contentWithoutAllowedSourceLinks(content) {
+  return content.replace(
+    /<a\b[^>]*href=["'][^"']*oliveyoung[^"']*[?&]goodsNo=[A-Z0-9]+[^"']*["'][^>]*>[\s\S]*?<\/a>/gi,
+    "",
+  );
+}
+
 if (!existsSync(referralTrackerPath)) {
   failures.push(`The search-referral tracker is missing: ${referralTrackerPath}`);
 }
@@ -80,7 +87,7 @@ if (!ratingReport.includes(`href="../${ratingDatasetPath}"`)) {
 
 for (const file of files) {
   const content = readFileSync(file, "utf8");
-  if (forbiddenSource.test(content)) {
+  if (forbiddenSource.test(contentWithoutAllowedSourceLinks(content))) {
     failures.push(`${file} contains a direct source-retailer reference.`);
   }
 }

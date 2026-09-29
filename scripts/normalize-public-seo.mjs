@@ -165,6 +165,19 @@ verifyExcludedReferenceNormalization();
 
 function stripSourceRetailer(content) {
   let normalized = content;
+  const sourceProductLinks = [];
+
+  // Keep the dated first-party product citation in published articles. Other source-retailer
+  // mentions are still generalized below, but removing this anchor would also remove the only
+  // auditable goodsNo from the deployed page.
+  normalized = normalized.replace(
+    /<a\b[^>]*href=["'][^"']*oliveyoung[^"']*[?&]goodsNo=[A-Z0-9]+[^"']*["'][^>]*>[\s\S]*?<\/a>/gi,
+    (link) => {
+      const token = `__KB_SOURCE_PRODUCT_LINK_${sourceProductLinks.length}__`;
+      sourceProductLinks.push(link);
+      return token;
+    },
+  );
 
   normalized = normalized.replace(
     /<li\b[^>]*>(?:(?!<\/li>)[\s\S])*?(?:https?:\/\/[^"'<>]*oliveyoung[^"'<>]*|olive[\s_-]*young)(?:(?!<\/li>)[\s\S])*?<\/li>/gi,
@@ -211,8 +224,32 @@ function stripSourceRetailer(content) {
   normalized = normalized.replace(/captured captured K-beauty/gi, "captured K-beauty");
   normalized = normalized.replace(/\.\s+\.<\/em>/g, ".</em>");
 
+  normalized = normalized.replace(/__KB_SOURCE_PRODUCT_LINK_(\d+)__/g, (_, index) => (
+    sourceProductLinks[Number(index)] ?? ""
+  ));
+
   return normalized;
 }
+
+function contentWithoutAllowedSourceLinks(content) {
+  return content.replace(
+    /<a\b[^>]*href=["'][^"']*oliveyoung[^"']*[?&]goodsNo=[A-Z0-9]+[^"']*["'][^>]*>[\s\S]*?<\/a>/gi,
+    "",
+  );
+}
+
+function verifySourceProductLinkPreservation() {
+  const source = '<p>Captured on date. <a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000000001" rel="nofollow noopener">Open the source listing.</a></p>';
+  const normalized = stripSourceRetailer(source);
+  if (!normalized.includes('goodsNo=A000000000001') || !normalized.includes('Open the source listing.')) {
+    throw new Error("Source-product citation normalization removed the auditable goodsNo link.");
+  }
+  if (forbiddenSource.test(contentWithoutAllowedSourceLinks(normalized))) {
+    throw new Error("Source-product citation normalization left an unscoped retailer reference.");
+  }
+}
+
+verifySourceProductLinkPreservation();
 
 function ensureHomepageLinks(content) {
   if (!content.includes("cosmetics-loving developer")) {
@@ -549,7 +586,7 @@ for (const file of files) {
   if (file === "llms.txt") normalized = ensureLlmsGuideLinks(normalized);
   if (file.endsWith(".html")) normalized = ensureMeasurement(normalized);
 
-  if (forbiddenSource.test(normalized)) {
+  if (forbiddenSource.test(contentWithoutAllowedSourceLinks(normalized))) {
     throw new Error(`Source-retailer reference remains after normalization: ${file}`);
   }
   if (normalized !== original) {
