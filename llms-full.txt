@@ -2,63 +2,48 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## 제로이드 Cream: What 13,378 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/cream.html
+- Published: 2026-09-30
+- Summary: 제로이드 Cream: 4.8★ from 13,378 Olive Young Korea review records (88% five-star).
+- Rating: 4.8 / 5 from 13,378 reviews (5★ 88% · 4★ 9% · 3★ 3% · 2★ 0% · 1★ 1%)
+
 ## Oars Hyaluron Cica 7-Second Serum: 6,007 Reviews
 
 - URL: https://seong918.github.io/beauty_blog/posts/oars-hyaluron-cica-7-second-serum-in-ampoule.html
 - Published: 2026-09-29
 - Summary: Oars Hyaluron Cica 7-Second Serum-in-Ampoule analysis: 4.9 stars from 6,007 Olive Young Korea review records, rank 14, star shares, shopper polls, themes, and limits.
-- Rating: 4.9 / 5 from 6,007 reviews (5★ 91% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 0%)
-- Polls: dry 47% / combination 43% / oily 10%; hydration 78% / soothing 21% / wrinkle-brightening 1%; gentle 87% / ordinary 13% / felt irritation 1%.
-- Themes: the retailer's automated recent-summary display classified 92% positive and grouped anonymous discussion around hydration and absorption impressions, makeup layering, and container/value impressions.
-- Limits: No individual review is quoted or translated; the product was not tested; rounded star/poll shares and automated themes are retail signals, not clinical evidence or guaranteed fit.
 
 ## Biotherm Homme Aquapower All-in-One: 1,224 Reviews
 
 - URL: https://seong918.github.io/beauty_blog/posts/biotherm-homme-aquapower-all-in-one.html
 - Published: 2026-09-28
 - Summary: Biotherm Homme Aquapower All-in-One analysis: 4.9 stars from 1,224 Olive Young Korea review records, skincare rank 3, option and price context, and explicit data limits.
-- Rating: 4.9 / 5 from 1,224 reviews; a reliable star-by-star distribution was not displayed.
-- Polls: No reliable skin-type, concern, or irritation poll was displayed.
-- Limits: No individual review is quoted; the product was not tested; rank, rating, count, option wording, and price are dated retail displays, not evidence of efficacy or individual fit.
 
 ## Dear Klairs Blue Youth Activating Drop: 4,716 Reviews
 
 - URL: https://seong918.github.io/beauty_blog/posts/dear-klairs-blue-youth-activating-drop.html
 - Published: 2026-09-27
 - Summary: Dear Klairs Blue Youth Activating Drop analysis: 4.8 stars from 4,716 Olive Young Korea review records, skincare rank 34, star shares, shopper polls, and explicit limits.
-- Rating: 4.8 / 5 from 4,716 reviews (5★ 86% · 4★ 9% · 3★ 4% · 2★ 1% · 1★ 1%)
-- Polls: combination 57% / oily 28% / dry 15%; soothing 81% / hydration 14% / wrinkle-brightening 5%; gentle 78% / ordinary 21% / felt irritation 1%.
 
 ## Derma Factory Niacinamide 20% Serum: 19,914 Reviews
 
 - URL: https://seong918.github.io/beauty_blog/posts/derma-factory-niacinamide-20-serum.html
 - Published: 2026-09-27
 - Summary: Derma Factory Niacinamide 20% Serum analysis: 4.8 stars from 19,914 Olive Young Korea review records, skincare rank 29, displayed star shares and shopper polls, with explicit limits.
-- Rating: 4.8 / 5 from 19,914 reviews (5★ 83% · 4★ 12% · 3★ 4% · 2★ 1% · 1★ 0%)
-- Polls: combination 56% / oily 23% / dry 21%; wrinkle-brightening 45% / soothing 34% / hydration 21%; ordinary 48% / gentle 42% / felt irritation 9%.
 
 ## Bioderma Cicabio Pommade: 17,701 Reviews (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/bioderma-cicabio-pommade.html
 - Published: 2026-09-26
 - Summary: Bioderma Cicabio Pommade analysis: 4.8 stars from 17,701 Korean-retailer review records, skincare rank 2, displayed star shares and shopper polls, with explicit limits.
-- Rating: 4.8 / 5 from 17,701 reviews (5★ 85% · 4★ 10% · 3★ 3% · 2★ 1% · 1★ 1%)
-- Polls: dry 71% / combination 26% / oily 2%; hydration 73% / soothing 27% / wrinkle-brightening 0%; gentle 78% / ordinary 22% / felt irritation 0%.
 
 ## Physiogel DMT Facial Cream: 24,739 Reviews (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/physiogel-dmt-facial-cream.html
 - Published: 2026-09-24
 - Summary: Physiogel DMT Facial Cream analysis: 4.8 stars from 24,739 Korean-retailer review records, skincare rank 24, displayed star shares and shopper polls, with clear limits.
-- Rating: 4.8 / 5 from 24,739 reviews (5★ 85% · 4★ 11% · 3★ 3% · 2★ 0% · 1★ 0%)
-- Polls: dry 50% / combination 44% / oily 5%; hydration 78% / soothing 21% / wrinkle-brightening 1%; gentle 78% / ordinary 20% / felt irritation 2%.
-
-## Torriden Dive-In Intensive Cream: 1 Review Record (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/torriden-dive-in-low-molecular-hyaluronic-acid-intensive-cream.html
-- Published: 2026-09-22
-- Summary: Torriden Dive-In Intensive Cream analysis: 5.0 stars from one Korean-retailer review record, rank-nine context, captured pack and price details, and strict small-sample limits.
-- Rating: 5.0 / 5 from 1 review; no reliable star distribution or shopper poll was exposed.
 
 ## Physiogel Daily Mune Ampoule: What 10,456 Olive Young Review Signals Show (2026)
 
@@ -66,6 +51,12 @@
 - Published: 2026-09-22
 - Summary: Physiogel Daily Mune Ampoule: 4.8★ from 10,456 Olive Young Korea review records (87% five-star).
 - Rating: 4.8 / 5 from 10,456 reviews (5★ 87% · 4★ 9% · 3★ 2% · 2★ 0% · 1★ 0%)
+
+## Torriden Dive-In Intensive Cream: 1 Review Record
+
+- URL: https://seong918.github.io/beauty_blog/posts/torriden-dive-in-low-molecular-hyaluronic-acid-intensive-cream.html
+- Published: 2026-09-22
+- Summary: Torriden Dive-In Intensive Cream analysis: 5.0 stars from one Korean-retailer review record, rank-nine context, price and pack details, and strict small-sample limits.
 
 ## The Ordinary Glycolic Acid 7% Toner: 6,852 Reviews
 
