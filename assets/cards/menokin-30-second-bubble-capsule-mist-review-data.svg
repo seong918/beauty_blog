@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Menokin 30-Second Bubble Capsule Mist aggregate review data</title>
+  <desc id="desc">Skincare sales rank 3, rating 5.0 from 290 records, 97 percent five-star, 55 percent dry skin, 84 percent moisturizing concern, and 95 percent gentle response.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7eef9"/><stop offset="1" stop-color="#eef8f7"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8d5ca0"/><stop offset="1" stop-color="#c292c2"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <circle cx="1064" cy="86" r="122" fill="#e5cfe9" opacity=".58"/>
+  <circle cx="1110" cy="556" r="168" fill="#cee9e4" opacity=".58"/>
+  <text x="76" y="90" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="27" font-weight="700" fill="#67476f">THE K-BEAUTY DATA DESK · 2026-09-30</text>
+  <text x="76" y="145" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="40" font-weight="800" fill="#45334b">Menokin 30-Second Bubble Capsule Mist</text>
+  <text x="76" y="195" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="34" font-weight="750" fill="#59445f">Calming Moisture</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <rect x="76" y="238" width="300" height="130" rx="22" fill="#fff" stroke="#ddcde2" stroke-width="2"/>
+    <text x="104" y="277" font-size="20" font-weight="700" fill="#765f7c">SKINCARE SALES RANK</text>
+    <text x="104" y="342" font-size="58" font-weight="800" fill="#88599a">#3</text>
+    <rect x="396" y="238" width="300" height="130" rx="22" fill="#fff" stroke="#ddcde2" stroke-width="2"/>
+    <text x="424" y="277" font-size="20" font-weight="700" fill="#765f7c">DISPLAYED RATING</text>
+    <text x="424" y="342" font-size="58" font-weight="800" fill="#88599a">5.0 / 5</text>
+    <rect x="716" y="238" width="408" height="130" rx="22" fill="#fff" stroke="#ddcde2" stroke-width="2"/>
+    <text x="744" y="277" font-size="20" font-weight="700" fill="#765f7c">LINKED REVIEW RECORDS</text>
+    <text x="744" y="342" font-size="58" font-weight="800" fill="#88599a">290</text>
+    <text x="76" y="420" font-size="22" font-weight="700" fill="#5a4960">FIVE-STAR SHARE</text>
+    <rect x="300" y="400" width="824" height="24" rx="12" fill="#eadfec"/>
+    <rect x="300" y="400" width="799" height="24" rx="12" fill="url(#bar)"/>
+    <text x="1065" y="421" font-size="22" font-weight="800" fill="#70447d">97%</text>
+    <g font-size="21" fill="#503c57">
+      <rect x="76" y="462" width="330" height="86" rx="18" fill="#fff" stroke="#e3d9e7"/>
+      <text x="100" y="496" font-weight="700">DRY-SKIN RESPONSE</text><text x="100" y="532" font-size="30" font-weight="800" fill="#88599a">55%</text>
+      <rect x="426" y="462" width="330" height="86" rx="18" fill="#fff" stroke="#e3d9e7"/>
+      <text x="450" y="496" font-weight="700">MOISTURIZING</text><text x="450" y="532" font-size="30" font-weight="800" fill="#88599a">84%</text>
+      <rect x="776" y="462" width="348" height="86" rx="18" fill="#fff" stroke="#e3d9e7"/>
+      <text x="800" y="496" font-weight="700">GENTLE RESPONSE</text><text x="800" y="532" font-size="30" font-weight="800" fill="#88599a">95%</text>
+    </g>
+    <text x="76" y="592" font-size="18" fill="#716579">Retailer-displayed aggregates · Poll shares describe respondents, not efficacy or fit.</text>
+  </g>
+</svg>

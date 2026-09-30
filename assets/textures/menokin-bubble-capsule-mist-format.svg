@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic synthetic bubble-capsule facial mist illustration</title>
+  <desc id="desc">A brand-neutral, code-drawn fine mist cloud with translucent droplets and capsule-like spheres. It does not depict the actual product, a person, or a tested result.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf7fc"/><stop offset="1" stop-color="#edf8f6"/></linearGradient>
+    <radialGradient id="drop"><stop offset="0" stop-color="#fff" stop-opacity=".92"/><stop offset=".58" stop-color="#d9badf" stop-opacity=".62"/><stop offset="1" stop-color="#8e6da1" stop-opacity=".2"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="36" fill="url(#paper)"/>
+  <text x="72" y="94" fill="#6e5476" font-family="system-ui,-apple-system,sans-serif" font-size="25" font-weight="750" letter-spacing="3">GENERIC FACIAL MIST FORMAT</text>
+  <text x="72" y="136" fill="#7a6d7d" font-family="system-ui,-apple-system,sans-serif" font-size="19">Synthetic illustration · not the product · not a spray or use test</text>
+  <g opacity=".72" filter="url(#blur)" fill="#c8b2d2">
+    <ellipse cx="510" cy="410" rx="250" ry="82"/><ellipse cx="720" cy="355" rx="228" ry="70"/><ellipse cx="830" cy="470" rx="190" ry="68"/>
+  </g>
+  <g fill="url(#drop)" stroke="#b89ac3" stroke-width="2">
+    <circle cx="258" cy="475" r="54"/><circle cx="365" cy="350" r="30"/><circle cx="458" cy="515" r="74"/><circle cx="575" cy="302" r="45"/><circle cx="680" cy="450" r="92"/><circle cx="815" cy="292" r="38"/><circle cx="922" cy="420" r="64"/><circle cx="1010" cy="315" r="26"/>
+  </g>
+  <g fill="#ffffff" opacity=".78">
+    <circle cx="240" cy="455" r="13"/><circle cx="433" cy="487" r="19"/><circle cx="648" cy="414" r="24"/><circle cx="900" cy="394" r="17"/>
+  </g>
+  <g fill="#9bcfc7" opacity=".5">
+    <circle cx="325" cy="570" r="12"/><circle cx="536" cy="595" r="18"/><circle cx="780" cy="568" r="14"/><circle cx="970" cy="540" r="10"/>
+  </g>
+  <text x="72" y="738" fill="#756b78" font-family="system-ui,-apple-system,sans-serif" font-size="20">A neutral cue for mist and capsule naming; actual spray, texture, scent, finish, and performance were not tested.</text>
+</svg>
