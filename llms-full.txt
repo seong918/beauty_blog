@@ -2,6 +2,16 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Easydew EGFx Downtime Oint Gel: 951 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/easydew-egfx-downtime-oint-gel.html
+- Published: 2026-10-01
+- Summary: Easydew EGFx Downtime Oint Gel analysis: 4.9 stars from 951 Olive Young Korea review records, skincare rank 1, star shares, shopper polls, and strict evidence limits.
+- Rating: 4.9 / 5 from 951 reviews (5★ 92% · 4★ 5% · 3★ 2% · 2★ 0% · 1★ 0%; rounded shares total 99%)
+- Skin-type poll: combination 63% · dry 26% · oily 11%
+- Concern poll: soothing 58% · moisturizing 21% · wrinkle/brightening 21%
+- Irritation poll: gentle 84% · ordinary 16% · felt irritation 0%
+
 ## Menokin 30-Second Bubble Capsule Mist: 290 Reviews
 
 - URL: https://seong918.github.io/beauty_blog/posts/menokin-30-second-quick-glow-bubble-capsule-mist-calming-moisture.html

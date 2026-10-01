@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral ointment-gel format illustration</title>
+  <desc id="desc">An abstract translucent gel ribbon and small rounded bead forms on a pale green surface; not a product photograph or formula simulation.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbf8"/><stop offset="1" stop-color="#dcebe4"/></linearGradient>
+    <linearGradient id="gel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".92"/><stop offset=".5" stop-color="#b9d8cc" stop-opacity=".68"/><stop offset="1" stop-color="#719f8f" stop-opacity=".48"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#surface)"/>
+  <ellipse cx="605" cy="605" rx="390" ry="70" fill="#7b9d91" opacity=".16" filter="url(#shadow)"/>
+  <path d="M205 528C315 342 486 245 667 284c130 28 193 130 329 123 50-3 90 17 93 57 4 57-67 93-151 90-143-5-237-72-373-35-126 34-212 100-301 79-67-15-89-69-59-70z" fill="url(#gel)" stroke="#87ac9f" stroke-width="4"/>
+  <path d="M304 504c111-111 229-158 351-139 86 13 146 68 231 77" fill="none" stroke="#fff" stroke-opacity=".75" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="276" cy="273" r="48" fill="#fff" fill-opacity=".6" stroke="#a2c1b6" stroke-width="3"/>
+  <circle cx="915" cy="222" r="32" fill="#fff" fill-opacity=".56" stroke="#a2c1b6" stroke-width="3"/>
+  <circle cx="1010" cy="308" r="18" fill="#fff" fill-opacity=".62" stroke="#a2c1b6" stroke-width="2"/>
+  <text x="600" y="708" text-anchor="middle" fill="#48685d" font-family="Arial, sans-serif" font-size="24" letter-spacing="3">GENERIC OINTMENT-GEL FORMAT</text>
+</svg>
