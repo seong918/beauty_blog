@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral gel-cream format illustration</title>
+  <desc id="desc">An abstract translucent gel-cream ribbon and rounded droplets on a pale rose and green surface; not a product photograph or formula simulation.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf7fa"/><stop offset=".55" stop-color="#f0e7ec"/><stop offset="1" stop-color="#e2eeea"/></linearGradient>
+    <linearGradient id="gel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".94"/><stop offset=".48" stop-color="#e8cfdc" stop-opacity=".68"/><stop offset="1" stop-color="#a9cec0" stop-opacity=".5"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="20"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#surface)"/>
+  <ellipse cx="600" cy="610" rx="405" ry="72" fill="#715a68" opacity=".14" filter="url(#shadow)"/>
+  <path d="M188 526c106-161 267-263 448-248 140 12 224 113 358 113 62 0 103 29 99 71-5 57-76 82-163 75-143-12-238-63-366-22-119 38-208 105-303 82-69-17-101-53-73-71z" fill="url(#gel)" stroke="#bd9eae" stroke-width="4"/>
+  <path d="M290 498c112-101 232-145 357-128 91 12 153 62 243 72" fill="none" stroke="#fff" stroke-opacity=".78" stroke-width="25" stroke-linecap="round"/>
+  <circle cx="265" cy="266" r="50" fill="#fff" fill-opacity=".65" stroke="#c8afbb" stroke-width="3"/>
+  <circle cx="900" cy="225" r="35" fill="#fff" fill-opacity=".58" stroke="#9dbfb3" stroke-width="3"/>
+  <circle cx="1008" cy="310" r="19" fill="#fff" fill-opacity=".65" stroke="#9dbfb3" stroke-width="2"/>
+  <text x="600" y="710" text-anchor="middle" fill="#715a68" font-family="Arial, sans-serif" font-size="24" letter-spacing="3">GENERIC GEL-CREAM FORMAT</text>
+</svg>

@@ -2,6 +2,17 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Clinique Ssoak Moisture Cream: 3,942 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/clinique-ssoak-moisture-cream.html
+- Published: 2026-10-02
+- Summary: Clinique Ssoak Moisture Cream analysis: 4.9 stars from 3,942 Olive Young Korea review records, skincare rank 1, shopper-poll leads, anonymous aggregate themes, and strict evidence limits.
+- Rating: 4.9 / 5 from 3,942 reviews; no reliable star-by-star distribution was exposed
+- Leading skin-type response: dry 90%
+- Leading concern response: moisture 95%
+- Leading irritation response: gentle 95%
+- Anonymous recent-review classification: 88% positive; broad themes covered fresh-feeling finish, moisture impressions, and mild-feeling use
+
 ## Easydew EGFx Downtime Oint Gel: 951 Reviews
 
 - URL: https://seong918.github.io/beauty_blog/posts/easydew-egfx-downtime-oint-gel.html

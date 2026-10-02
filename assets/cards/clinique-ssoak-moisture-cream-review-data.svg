@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Clinique Ssoak Moisture Cream aggregate review data</title>
+  <desc id="desc">Olive Young Korea skincare rank 1, 4.9 stars from 3,942 review records, 90 percent dry-skin response, 95 percent moisture response, and 95 percent gentle response, captured October 2, 2026.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9f4f7"/><stop offset="1" stop-color="#edf3f2"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7b4667"/><stop offset="1" stop-color="#608b7c"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <rect x="52" y="48" width="1096" height="534" rx="28" fill="#fff" stroke="#dfd2da" stroke-width="2"/>
+  <text x="90" y="112" fill="#6f4961" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2">THE K-BEAUTY DATA DESK</text>
+  <text x="90" y="170" fill="#2b2027" font-family="Arial, sans-serif" font-size="42" font-weight="700">Clinique Ssoak Moisture Cream</text>
+  <text x="90" y="210" fill="#756971" font-family="Arial, sans-serif" font-size="20">Olive Young Korea aggregate display · captured 2026-10-02</text>
+  <rect x="90" y="250" width="220" height="154" rx="20" fill="#f7f1f5"/>
+  <text x="118" y="294" fill="#7d6a76" font-family="Arial, sans-serif" font-size="19">SKINCARE RANK</text>
+  <text x="118" y="365" fill="#7b4667" font-family="Arial, sans-serif" font-size="72" font-weight="700">#1</text>
+  <rect x="330" y="250" width="350" height="154" rx="20" fill="#f7f1f5"/>
+  <text x="358" y="294" fill="#7d6a76" font-family="Arial, sans-serif" font-size="19">DISPLAYED RATING</text>
+  <text x="358" y="353" fill="#2b2027" font-family="Arial, sans-serif" font-size="57" font-weight="700">4.9</text>
+  <text x="478" y="353" fill="#7d6a76" font-family="Arial, sans-serif" font-size="23">/ 5 · 3,942 records</text>
+  <rect x="700" y="250" width="410" height="154" rx="20" fill="#f7f1f5"/>
+  <text x="728" y="294" fill="#7d6a76" font-family="Arial, sans-serif" font-size="19">RECENT POSITIVE CLASSIFICATION</text>
+  <text x="728" y="353" fill="#7b4667" font-family="Arial, sans-serif" font-size="57" font-weight="700">88%</text>
+  <rect x="728" y="371" width="330" height="10" rx="5" fill="#e4d9e0"/><rect x="728" y="371" width="290" height="10" rx="5" fill="url(#accent)"/>
+  <line x1="90" y1="441" x2="1110" y2="441" stroke="#eadfe5" stroke-width="2"/>
+  <text x="90" y="491" fill="#2b2027" font-family="Arial, sans-serif" font-size="24" font-weight="700">90% dry-skin response</text>
+  <text x="420" y="491" fill="#2b2027" font-family="Arial, sans-serif" font-size="24" font-weight="700">95% moisture response</text>
+  <text x="790" y="491" fill="#2b2027" font-family="Arial, sans-serif" font-size="24" font-weight="700">95% gentle response</text>
+  <text x="90" y="548" fill="#7d6a76" font-family="Arial, sans-serif" font-size="18">Leading rounded responses describe a feedback pool—not clinical outcomes or guaranteed fit.</text>
+</svg>
