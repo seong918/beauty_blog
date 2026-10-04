@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract bubble serum format illustration</title>
+  <desc id="desc">A brand-neutral vector illustration of a translucent serum pool and floating bubbles. It does not depict a real product.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4fffb"/><stop offset="1" stop-color="#d8f4ed"/></linearGradient>
+    <radialGradient id="drop" cx="42%" cy="30%" r="75%"><stop stop-color="#fff" stop-opacity=".95"/><stop offset=".48" stop-color="#a9e5d7" stop-opacity=".8"/><stop offset="1" stop-color="#44a58f" stop-opacity=".55"/></radialGradient>
+    <linearGradient id="pool" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dffff6" stop-opacity=".92"/><stop offset="1" stop-color="#6fc7b3" stop-opacity=".72"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#16624f" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="600" cy="646" rx="420" ry="72" fill="#4a9f8b" opacity=".16" filter="url(#soft)"/>
+  <path d="M238 561C325 448 445 426 566 449c115 21 186-27 275 8 93 36 146 121 87 179-53 52-185 51-300 39-136-15-247 19-338-25-72-35-91-39-52-89Z" fill="url(#pool)" filter="url(#shadow)"/>
+  <path d="M307 566c118-71 223-53 320-37 103 17 177-22 272 23" fill="none" stroke="#fff" stroke-width="17" stroke-linecap="round" opacity=".67"/>
+  <g fill="url(#drop)" stroke="#fff" stroke-width="5" opacity=".94">
+    <circle cx="350" cy="334" r="78"/><circle cx="525" cy="231" r="49"/><circle cx="677" cy="340" r="104"/><circle cx="862" cy="252" r="65"/><circle cx="944" cy="411" r="38"/><circle cx="447" cy="454" r="32"/>
+  </g>
+  <g fill="#fff" opacity=".78"><circle cx="324" cy="309" r="18"/><circle cx="508" cy="216" r="11"/><circle cx="640" cy="303" r="24"/><circle cx="840" cy="231" r="15"/><circle cx="931" cy="399" r="8"/></g>
+  <text x="600" y="92" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#287966" font-weight="700" letter-spacing="3">GENERIC FORMAT STUDY</text>
+  <text x="600" y="130" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#5d8178">Abstract serum and bubbles · not a product depiction</text>
+  <text x="600" y="748" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#5d8178">Shape, color, transparency, and bubble behavior are editorial—not observed formula properties.</text>
+</svg>

@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## mixsoon Hyalpear Pore Bubble Serum: 13,781 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/mixsoon-hyalpear-pore-bubble-serum.html
+- Published: 2026-10-04
+- Summary: mixsoon Hyalpear Pore Bubble Serum analysis: 4.8 stars from 13,781 Olive Young Korea review records, skincare rank 12, star shares, shopper polls, and evidence limits.
+- Rating: 4.8 / 5 from 13,781 reviews (5★ 85% · 4★ 10% · 3★ 4% · 2★ 1% · 1★ 1%)
+
 ## Zeroid Pimprove Red Control Cream pH4: 1,527 Reviews
 
 - URL: https://seong918.github.io/beauty_blog/posts/zeroid-pimprove-red-control-cream-ph4.html
