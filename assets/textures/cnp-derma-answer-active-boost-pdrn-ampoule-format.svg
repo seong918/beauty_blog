@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic ampoule serum format illustration</title>
+  <desc id="desc">Brand-neutral illustration of translucent serum droplets and a glass dropper above a soft sage surface. This is not the actual product.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f5ed"/><stop offset="1" stop-color="#dce7d3"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".88"/><stop offset="1" stop-color="#b9c8aa" stop-opacity=".42"/></linearGradient>
+    <radialGradient id="drop"><stop stop-color="#ffffff" stop-opacity=".98"/><stop offset=".55" stop-color="#c7d8b7" stop-opacity=".82"/><stop offset="1" stop-color="#8ca074" stop-opacity=".64"/></radialGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="612" cy="624" rx="365" ry="72" fill="#7d8d6b" opacity=".18" filter="url(#shadow)"/>
+  <g transform="translate(430 90) rotate(8 190 280)">
+    <rect x="135" y="0" width="110" height="180" rx="42" fill="#394332"/>
+    <rect x="155" y="155" width="70" height="315" rx="34" fill="url(#glass)" stroke="#ffffff" stroke-opacity=".85" stroke-width="7"/>
+    <path d="M180 458 C182 514 168 542 191 585 C214 542 200 514 202 458Z" fill="url(#drop)" stroke="#eef4e9" stroke-width="5"/>
+  </g>
+  <path d="M300 580 C355 515 445 496 536 527 C625 557 703 544 776 503 C853 460 918 491 937 552 C956 613 910 667 825 680 C676 702 485 693 358 664 C291 648 269 619 300 580Z" fill="#ffffff" fill-opacity=".68" stroke="#cad6be" stroke-width="5"/>
+  <circle cx="362" cy="518" r="36" fill="url(#drop)"/>
+  <circle cx="848" cy="465" r="24" fill="url(#drop)"/>
+  <circle cx="930" cy="590" r="17" fill="url(#drop)"/>
+  <text x="60" y="735" fill="#55624a" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="2">GENERIC SERUM FORMAT · NOT THE ACTUAL PRODUCT</text>
+</svg>

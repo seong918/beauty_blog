@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">CNP Derma Answer Active Boost PDRN Ampoule aggregate review data</title>
+  <desc id="desc">Olive Young Korea data captured October 5, 2026: 4.9 stars from 14,266 review records, 90 percent five-star, with leading displayed poll responses of combination skin 51 percent, moisture concern 58 percent, and gentle response 73 percent.</desc>
+  <rect width="1200" height="630" rx="36" fill="#f5f7ef"/>
+  <circle cx="1050" cy="88" r="155" fill="#dce8cf" opacity=".75"/>
+  <circle cx="1120" cy="540" r="220" fill="#e9e1cf" opacity=".65"/>
+  <text x="72" y="88" fill="#657451" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="3">AGGREGATE REVIEW SNAPSHOT</text>
+  <text x="72" y="148" fill="#252b22" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">CNP Derma Answer Active Boost</text>
+  <text x="72" y="196" fill="#252b22" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">PDRN Ampoule</text>
+  <text x="72" y="302" fill="#5c6b34" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="800">4.9★</text>
+  <text x="72" y="350" fill="#4a5045" font-family="Arial, Helvetica, sans-serif" font-size="29">14,266 displayed review records</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="434" fill="#252b22" font-size="23" font-weight="700">5-star share</text>
+    <rect x="270" y="411" width="710" height="28" rx="14" fill="#dfe3d8"/>
+    <rect x="270" y="411" width="639" height="28" rx="14" fill="#6b7d4f"/>
+    <text x="1000" y="435" fill="#252b22" font-size="24" font-weight="700">90%</text>
+    <text x="72" y="506" fill="#252b22" font-size="23" font-weight="700">Leading polls</text>
+    <rect x="270" y="476" width="225" height="54" rx="27" fill="#dce8cf"/>
+    <text x="297" y="510" fill="#35402e" font-size="21" font-weight="700">Combination 51%</text>
+    <rect x="514" y="476" width="210" height="54" rx="27" fill="#eadfca"/>
+    <text x="544" y="510" fill="#4d4438" font-size="21" font-weight="700">Moisture 58%</text>
+    <rect x="743" y="476" width="198" height="54" rx="27" fill="#e1e7db"/>
+    <text x="775" y="510" fill="#35402e" font-size="21" font-weight="700">Gentle 73%</text>
+  </g>
+  <text x="72" y="585" fill="#70766b" font-family="Arial, Helvetica, sans-serif" font-size="19">Captured 2026-10-05 · Polls describe respondents, not clinical outcomes</text>
+</svg>
