@@ -2,12 +2,12 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## CNP Derma Answer Active Boost PDRN Ampoule: 14,266 Reviews
+## Real Barrier Extreme Pro-Cera Cream: What 179 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/cnp-derma-answer-active-boost-pdrn-ampoule.html
-- Published: 2026-10-05
-- Summary: CNP Derma Answer Active Boost PDRN Ampoule analysis: 4.9 stars from 14,266 Olive Young Korea review records, skincare rank 6, star shares, shopper polls, and evidence limits.
-- Rating: 4.9 / 5 from 14,266 reviews (5★ 90% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 0%)
+- URL: https://seong918.github.io/beauty_blog/posts/real-barrier-extreme-pro-cera-cream.html
+- Published: 2026-10-06
+- Summary: Real Barrier Extreme Pro-Cera Cream: 4.9★ from 179 Olive Young Korea review records (97% five-star).
+- Rating: 4.9 / 5 from 179 reviews (5★ 97% · 4★ 3% · 3★ 0% · 2★ 0% · 1★ 1%)
 
 ## Odroi Pore Tightening Cream Polia Collagen: What 9,471 Olive Young Review Signals Show (2026)
 
@@ -15,6 +15,12 @@
 - Published: 2026-10-05
 - Summary: Odroi Pore Tightening Cream Polia Collagen: 4.8★ from 9,471 Olive Young Korea review records (85% five-star).
 - Rating: 4.8 / 5 from 9,471 reviews (5★ 85% · 4★ 9% · 3★ 4% · 2★ 1% · 1★ 1%)
+
+## CNP Derma Answer Active Boost PDRN Ampoule: 14,266 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/cnp-derma-answer-active-boost-pdrn-ampoule.html
+- Published: 2026-10-05
+- Summary: CNP Derma Answer Active Boost PDRN Ampoule review analysis: 4.9 stars from 14,266 Olive Young Korea records, star shares, polls, rank context, and limits.
 
 ## mixsoon Hyalpear Pore Bubble Serum: 13,781 Reviews
 
