@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral cream format illustration</title>
+  <desc id="desc">An abstract, code-drawn pale aqua cream ribbon and translucent droplets on a soft background. This is not an image of the Wellage product.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6fbfa"/><stop offset="1" stop-color="#d9eeec"/></linearGradient>
+    <linearGradient id="cream" x1="0" y1="0" x2="0.9" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".52" stop-color="#dff1ee"/><stop offset="1" stop-color="#a7d2cf"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#477c7b" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="180" cy="150" r="82" fill="#fff" opacity=".64"/>
+  <circle cx="1020" cy="130" r="42" fill="#fff" opacity=".72"/>
+  <circle cx="1050" cy="630" r="112" fill="#b7dcd8" opacity=".42"/>
+  <g filter="url(#shadow)">
+    <path d="M262 544c90-124 227-215 384-217 86-1 174 24 247 72 53 35 85 75 73 109-17 50-120 49-209 33-106-18-188-9-284 34-95 42-194 65-230 22-12-15-6-35 19-53z" fill="url(#cream)"/>
+    <path d="M336 507c86-83 195-132 309-132 75 0 150 20 214 58 28 17 44 34 38 48-9 23-80 20-143 10-100-16-178-2-271 35-77 31-146 37-158 13-5-10 0-21 11-32z" fill="#fff" opacity=".66"/>
+  </g>
+  <g fill="#fff" stroke="#78aaa7" stroke-width="5" opacity=".78">
+    <path d="M905 226c0 45-34 78-76 78s-76-33-76-78c0-38 48-102 76-138 28 36 76 100 76 138z"/>
+    <path d="M1000 354c0 29-22 51-50 51s-50-22-50-51c0-25 31-67 50-91 19 24 50 66 50 91z"/>
+  </g>
+  <text x="600" y="708" text-anchor="middle" fill="#426d6c" font-family="system-ui,sans-serif" font-size="25" font-weight="700" letter-spacing="1">GENERIC CREAM FORMAT</text>
+  <text x="600" y="744" text-anchor="middle" fill="#608382" font-family="system-ui,sans-serif" font-size="18">abstract illustration · not a product photograph</text>
+</svg>

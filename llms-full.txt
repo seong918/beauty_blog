@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Wellage Real Hyaluronic Soothing Cream: 2,854 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-soothing-cream.html
+- Published: 2026-10-06
+- Summary: Wellage Real Hyaluronic Soothing Cream analysis: 4.9 stars from 2,854 Olive Young Korea review records, skincare rank 3, star shares, shopper polls, themes, and strict limits.
+- Rating: 4.9 / 5 from 2,854 reviews (5★ 90% · 4★ 6% · 3★ 2% · 2★ 1% · 1★ 1%)
+
 ## Real Barrier Extreme Pro-Cera Cream: What 179 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/real-barrier-extreme-pro-cera-cream.html

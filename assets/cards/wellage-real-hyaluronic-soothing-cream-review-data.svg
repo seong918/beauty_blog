@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Wellage Real Hyaluronic Soothing Cream aggregate review data</title>
+  <desc id="desc">Skincare sales rank 3, 4.9 stars from 2,854 Olive Young Korea review records, 90 percent five-star, 48 percent combination skin, 70 percent moisture concern, and 78 percent gentle response.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eff8f8"/><stop offset="1" stop-color="#dbecef"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4e8e91"/><stop offset="1" stop-color="#79b6b1"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)"/>
+  <circle cx="1080" cy="90" r="120" fill="#fff" opacity=".38"/>
+  <circle cx="110" cy="570" r="145" fill="#b7d7d7" opacity=".25"/>
+  <text x="72" y="82" fill="#456e72" font-family="system-ui,sans-serif" font-size="24" font-weight="700" letter-spacing="2">CAPTURED 2026-10-06 · OLIVE YOUNG KOREA</text>
+  <text x="72" y="142" fill="#173a3e" font-family="system-ui,sans-serif" font-size="42" font-weight="800">Wellage Real Hyaluronic</text>
+  <text x="72" y="192" fill="#173a3e" font-family="system-ui,sans-serif" font-size="42" font-weight="800">Soothing Cream</text>
+  <g transform="translate(72 242)">
+    <rect width="290" height="126" rx="22" fill="#fff" opacity=".9"/>
+    <text x="28" y="42" fill="#567276" font-family="system-ui,sans-serif" font-size="19" font-weight="650">SKINCARE SALES RANK</text>
+    <text x="28" y="98" fill="#173a3e" font-family="system-ui,sans-serif" font-size="54" font-weight="850">#3</text>
+  </g>
+  <g transform="translate(382 242)">
+    <rect width="350" height="126" rx="22" fill="#fff" opacity=".9"/>
+    <text x="28" y="42" fill="#567276" font-family="system-ui,sans-serif" font-size="19" font-weight="650">DISPLAYED RATING</text>
+    <text x="28" y="98" fill="#173a3e" font-family="system-ui,sans-serif" font-size="54" font-weight="850">4.9★</text>
+    <text x="172" y="96" fill="#567276" font-family="system-ui,sans-serif" font-size="22">2,854 records</text>
+  </g>
+  <g transform="translate(752 242)">
+    <rect width="376" height="126" rx="22" fill="#fff" opacity=".9"/>
+    <text x="28" y="42" fill="#567276" font-family="system-ui,sans-serif" font-size="19" font-weight="650">FIVE-STAR SHARE</text>
+    <text x="28" y="98" fill="#173a3e" font-family="system-ui,sans-serif" font-size="54" font-weight="850">90%</text>
+  </g>
+  <g transform="translate(72 408)" font-family="system-ui,sans-serif">
+    <text x="0" y="20" fill="#567276" font-size="18" font-weight="700">LEADING DISPLAYED POLL RESPONSES</text>
+    <g transform="translate(0 48)"><text y="25" fill="#294a4d" font-size="20" font-weight="650">Combination skin</text><rect x="230" y="4" width="540" height="28" rx="14" fill="#c9dcdd"/><rect x="230" y="4" width="259" height="28" rx="14" fill="url(#bar)"/><text x="790" y="26" fill="#173a3e" font-size="22" font-weight="800">48%</text></g>
+    <g transform="translate(0 96)"><text y="25" fill="#294a4d" font-size="20" font-weight="650">Moisture concern</text><rect x="230" y="4" width="540" height="28" rx="14" fill="#c9dcdd"/><rect x="230" y="4" width="378" height="28" rx="14" fill="url(#bar)"/><text x="790" y="26" fill="#173a3e" font-size="22" font-weight="800">70%</text></g>
+    <g transform="translate(0 144)"><text y="25" fill="#294a4d" font-size="20" font-weight="650">Gentle response</text><rect x="230" y="4" width="540" height="28" rx="14" fill="#c9dcdd"/><rect x="230" y="4" width="421" height="28" rx="14" fill="url(#bar)"/><text x="790" y="26" fill="#173a3e" font-size="22" font-weight="800">78%</text></g>
+  </g>
+  <text x="1128" y="590" text-anchor="end" fill="#557478" font-family="system-ui,sans-serif" font-size="17">Retailer aggregates · not clinical evidence</text>
+</svg>
