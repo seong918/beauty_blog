@@ -2,12 +2,12 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Wellage Real Hyaluronic Soothing Cream: 2,854 Reviews
+## Easydew EGFx Downtime Oint Gel: What 1,438 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-soothing-cream.html
-- Published: 2026-10-06
-- Summary: Wellage Real Hyaluronic Soothing Cream analysis: 4.9 stars from 2,854 Olive Young Korea review records, skincare rank 3, star shares, shopper polls, themes, and strict limits.
-- Rating: 4.9 / 5 from 2,854 reviews (5★ 90% · 4★ 6% · 3★ 2% · 2★ 1% · 1★ 1%)
+- URL: https://seong918.github.io/beauty_blog/posts/easydew-egfx-downtime-oint-gel.html
+- Published: 2026-10-07
+- Summary: Easydew EGFx Downtime Oint Gel: 4.9★ from 1,438 Olive Young Korea review records (94% five-star).
+- Rating: 4.9 / 5 from 1,438 reviews (5★ 94% · 4★ 4% · 3★ 1% · 2★ 0% · 1★ 0%)
 
 ## Real Barrier Extreme Pro-Cera Cream: What 179 Olive Young Review Signals Show (2026)
 
@@ -15,6 +15,12 @@
 - Published: 2026-10-06
 - Summary: Real Barrier Extreme Pro-Cera Cream: 4.9★ from 179 Olive Young Korea review records (97% five-star).
 - Rating: 4.9 / 5 from 179 reviews (5★ 97% · 4★ 3% · 3★ 0% · 2★ 0% · 1★ 1%)
+
+## Wellage Real Hyaluronic Soothing Cream: 2,854 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-soothing-cream.html
+- Published: 2026-10-06
+- Summary: Wellage Real Hyaluronic Soothing Cream analysis: 4.9 stars from 2,854 Olive Young Korea review records, skincare rank 3, star shares, shopper polls, themes, and strict limits.
 
 ## Odroi Pore Tightening Cream Polia Collagen: What 9,471 Olive Young Review Signals Show (2026)
 
@@ -53,12 +59,6 @@
 - URL: https://seong918.github.io/beauty_blog/posts/clinique-ssoak-moisture-cream.html
 - Published: 2026-10-02
 - Summary: Clinique Ssoak Moisture Cream analysis: 4.9 stars from 3,942 Olive Young Korea review records, skincare rank 1, displayed shopper-poll leads, themes, and strict limits.
-
-## Easydew EGFx Downtime Oint Gel: 951 Reviews
-
-- URL: https://seong918.github.io/beauty_blog/posts/easydew-egfx-downtime-oint-gel.html
-- Published: 2026-10-01
-- Summary: Easydew EGFx Downtime Oint Gel analysis: 4.9 stars from 951 Olive Young Korea review records, skincare rank 1, star shares, shopper polls, and strict evidence limits.
 
 ## 제로이드 Cream: What 13,378 Olive Young Review Signals Show (2026)
 
