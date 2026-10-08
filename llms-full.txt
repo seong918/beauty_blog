@@ -2,6 +2,16 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Dominas Cream Rx: What 618 Review Records Show
+
+- URL: https://seong918.github.io/beauty_blog/posts/dominas-cream-rx.html
+- Published: 2026-10-08
+- Summary: Dominas Cream Rx analysis: 4.9 stars from 618 Olive Young Korea review records, skincare rank 24, star shares, shopper polls, and strict limits.
+- Rating: 4.9 / 5 from 618 reviews (5★ 94% · 4★ 4% · 3★ 2% · 2★ 0% · 1★ 0%)
+- Skin-type poll: combination 48% · dry 47% · oily 5%.
+- Concern poll: wrinkle / brightening 52% · hydration 40% · soothing 8%.
+- Irritation poll: gentle 84% · ordinary 15% · felt irritation 1%.
+
 ## Hanyul Artemisia Panthenol Bubble Serum: 120 Reviews
 
 - URL: https://seong918.github.io/beauty_blog/posts/hanyul-artemisia-panthenol-hydration-dressing-calming-bubble-serum.html

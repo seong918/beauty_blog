@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic cream-format illustration</title>
+  <desc id="desc">A brand-neutral code-drawn pale cream ribbon on a rose-beige background. It is not a product photograph or depiction of the Dominas formula.</desc>
+  <defs><linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8ecef"/><stop offset=".55" stop-color="#ead5da"/><stop offset="1" stop-color="#d9bbc4"/></linearGradient><linearGradient id="cream" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#fffdf8"/><stop offset=".65" stop-color="#f7eee3"/><stop offset="1" stop-color="#e5d4c5"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="20"/></filter></defs>
+  <rect width="1200" height="800" fill="url(#surface)"/>
+  <ellipse cx="610" cy="555" rx="390" ry="95" fill="#7e5260" opacity=".18" filter="url(#shadow)"/>
+  <path d="M235 497c119-130 237-206 382-219 123-10 224 21 317 97 33 27 37 66 10 94-29 31-73 34-108 8-71-52-139-72-219-64-111 11-196 61-292 166-28 31-76 34-107 5-30-29-23-60 17-87z" fill="url(#cream)"/>
+  <path d="M273 490c112-105 216-158 342-169 106-9 198 16 283 78" fill="none" stroke="#fff" stroke-width="26" stroke-linecap="round" opacity=".7"/>
+  <circle cx="287" cy="269" r="34" fill="#fff7f5" opacity=".7"/><circle cx="982" cy="222" r="54" fill="#fff7f5" opacity=".45"/><circle cx="1031" cy="604" r="29" fill="#fff7f5" opacity=".5"/>
+  <text x="60" y="730" fill="#735762" font-family="system-ui,sans-serif" font-size="21" font-weight="650" letter-spacing="2">GENERIC CREAM FORMAT · CODE-DRAWN</text>
+</svg>
