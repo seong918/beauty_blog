@@ -2,6 +2,13 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## VT PDRN Essence 100: What 29,916 Review Records Show
+
+- URL: https://seong918.github.io/beauty_blog/posts/vt-pdrn-essence-100.html
+- Published: 2026-10-09
+- Summary: VT PDRN Essence 100 analysis: 4.9 stars from 29,916 Olive Young Korea review records, skincare rank 2, star distribution, shopper polls, and evidence limits.
+- Rating: 4.9 / 5 from 29,916 reviews (5★ 95% · 4★ 4% · 3★ 1% · 2★ 0% · 1★ 0%)
+
 ## Wellage Real Hyaluronic Blue 100 Ampoule: What 14,295 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html

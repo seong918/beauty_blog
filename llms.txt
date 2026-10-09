@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [VT PDRN Essence 100: What 29,916 Review Records Show](https://seong918.github.io/beauty_blog/posts/vt-pdrn-essence-100.html): VT PDRN Essence 100 analysis: 4.9 stars from 29,916 Olive Young Korea review records, skincare rank 2, star distribution, shopper polls, and evidence limits. (published 2026-10-09)
 - [Wellage Real Hyaluronic Blue 100 Ampoule: What 14,295 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html): Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 14,295 Olive Young Korea review records (89% five-star). (published 2026-10-09)
 - [Dominas Cream Rx: What 618 Review Records Show](https://seong918.github.io/beauty_blog/posts/dominas-cream-rx.html): Dominas Cream Rx analysis: 4.9 stars from 618 Olive Young Korea review records, skincare rank 24, star distribution, shopper polls, and evidence limits. (published 2026-10-08)
 - [Easydew EGFx Downtime Oint Gel: What 1,438 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/easydew-egfx-downtime-oint-gel.html): Easydew EGFx Downtime Oint Gel: 4.9★ from 1,438 Olive Young Korea review records (94% five-star). (published 2026-10-07)
