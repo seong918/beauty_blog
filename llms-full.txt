@@ -2,23 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Wellage Real Hyaluronic Blue 100 Ampoule: What 14,295 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html
+- Published: 2026-10-09
+- Summary: Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 14,295 Olive Young Korea review records (89% five-star).
+- Rating: 4.8 / 5 from 14,295 reviews (5★ 89% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 0%)
+
 ## Dominas Cream Rx: What 618 Review Records Show
 
 - URL: https://seong918.github.io/beauty_blog/posts/dominas-cream-rx.html
 - Published: 2026-10-08
-- Summary: Dominas Cream Rx analysis: 4.9 stars from 618 Olive Young Korea review records, skincare rank 24, star shares, shopper polls, and strict limits.
-- Rating: 4.9 / 5 from 618 reviews (5★ 94% · 4★ 4% · 3★ 2% · 2★ 0% · 1★ 0%)
-- Skin-type poll: combination 48% · dry 47% · oily 5%.
-- Concern poll: wrinkle / brightening 52% · hydration 40% · soothing 8%.
-- Irritation poll: gentle 84% · ordinary 15% · felt irritation 1%.
-
-## Hanyul Artemisia Panthenol Bubble Serum: 120 Reviews
-
-- URL: https://seong918.github.io/beauty_blog/posts/hanyul-artemisia-panthenol-hydration-dressing-calming-bubble-serum.html
-- Published: 2026-10-07
-- Summary: Hanyul Artemisia Panthenol Bubble Serum analysis: 4.9 stars from 120 Olive Young Korea review records, skincare rank 10, displayed shopper polls, and evidence limits.
-- Rating: 4.9 / 5 from 120 reviews; no reliable star-by-star distribution was exposed.
-- Displayed poll leads: combination skin 57% · soothing 69% · gentle 79%.
+- Summary: Dominas Cream Rx analysis: 4.9 stars from 618 Olive Young Korea review records, skincare rank 24, star distribution, shopper polls, and evidence limits.
 
 ## Easydew EGFx Downtime Oint Gel: What 1,438 Olive Young Review Signals Show (2026)
 
@@ -26,6 +21,12 @@
 - Published: 2026-10-07
 - Summary: Easydew EGFx Downtime Oint Gel: 4.9★ from 1,438 Olive Young Korea review records (94% five-star).
 - Rating: 4.9 / 5 from 1,438 reviews (5★ 94% · 4★ 4% · 3★ 1% · 2★ 0% · 1★ 0%)
+
+## Hanyul Artemisia Panthenol Bubble Serum: 120 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/hanyul-artemisia-panthenol-hydration-dressing-calming-bubble-serum.html
+- Published: 2026-10-07
+- Summary: Hanyul Artemisia Panthenol Bubble Serum analysis: 4.9 stars from 120 Olive Young Korea review records, skincare rank 10, displayed shopper polls, and evidence limits.
 
 ## Real Barrier Extreme Pro-Cera Cream: What 179 Olive Young Review Signals Show (2026)
 
@@ -451,13 +452,6 @@
 - Published: 2026-08-10
 - Summary: numbuzin No.1 Pantothenic Acid Active Up Soothing Serum: 4.7★ from 15,963 Olive Young Korea review records (83% five-star).
 - Rating: 4.7 / 5 from 15,963 reviews (5★ 83% · 4★ 12% · 3★ 4% · 2★ 1% · 1★ 1%)
-
-## Wellage Real Hyaluronic Blue 100 Ampoule: What 17,536 Olive Young Review Signals Show (2026)
-
-- URL: https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html
-- Published: 2026-08-04
-- Summary: Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 17,536 Olive Young Korea review records (89% five-star).
-- Rating: 4.8 / 5 from 17,536 reviews (5★ 89% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 0%)
 
 ## numbuzin No.1 Pantothenic Acid Skincare 100 Blur Powder: What 14,339 Olive Young Review Signals Show (2026)
 
