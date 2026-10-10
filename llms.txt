@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [CNP Propolis Energy Active Ampoule: What 13,243 Review Records Show](https://seong918.github.io/beauty_blog/posts/cnp-propolis-energy-active-ampoule.html): CNP Propolis Energy Active Ampoule analysis: 4.9 stars from 13,243 Olive Young Korea review records, skincare rank 6, star shares, shopper polls, and evidence limits. (published 2026-10-10)
 - [VT PDRN Essence 100: What 29,916 Review Records Show](https://seong918.github.io/beauty_blog/posts/vt-pdrn-essence-100.html): VT PDRN Essence 100 analysis: 4.9 stars from 29,916 Olive Young Korea review records, skincare rank 2, star distribution, shopper polls, and evidence limits. (published 2026-10-09)
 - [Wellage Real Hyaluronic Blue 100 Ampoule: What 14,295 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html): Wellage Real Hyaluronic Blue 100 Ampoule: 4.8★ from 14,295 Olive Young Korea review records (89% five-star). (published 2026-10-09)
 - [Dominas Cream Rx: What 618 Review Records Show](https://seong918.github.io/beauty_blog/posts/dominas-cream-rx.html): Dominas Cream Rx analysis: 4.9 stars from 618 Olive Young Korea review records, skincare rank 24, star distribution, shopper polls, and evidence limits. (published 2026-10-08)

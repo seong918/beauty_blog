@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">CNP Propolis Energy Active Ampoule aggregate review data</title>
+  <desc id="desc">Skincare sales rank 6, 4.9 stars from 13,243 records, 91 percent five-star, with dry skin, moisture concern, and gentle as the leading poll responses.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff9ec"/><stop offset="1" stop-color="#f2dfb8"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#7f5b23" flood-opacity=".16"/></filter></defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1060" cy="90" r="145" fill="#fff" opacity=".42"/><circle cx="90" cy="570" r="170" fill="#e5b65f" opacity=".26"/>
+  <text x="72" y="86" font-family="Arial, sans-serif" font-size="24" fill="#7a5724" letter-spacing="3">THE K-BEAUTY DATA DESK</text>
+  <text x="72" y="146" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#49300f">CNP Propolis Energy Active Ampoule</text>
+  <text x="72" y="184" font-family="Arial, sans-serif" font-size="20" fill="#755f3d">Olive Young Korea aggregate snapshot · 2026-10-10</text>
+  <g filter="url(#shadow)"><rect x="72" y="230" width="320" height="260" rx="24" fill="#fff"/><rect x="420" y="230" width="708" height="260" rx="24" fill="#fff"/></g>
+  <text x="112" y="282" font-family="Arial, sans-serif" font-size="19" fill="#806b49">SKINCARE SALES RANK</text><text x="112" y="390" font-family="Arial, sans-serif" font-size="108" font-weight="700" fill="#bf7917">#6</text><text x="112" y="448" font-family="Arial, sans-serif" font-size="24" fill="#755f3d">at capture time</text>
+  <text x="462" y="286" font-family="Arial, sans-serif" font-size="22" fill="#806b49">DISPLAYED RATING</text><text x="462" y="365" font-family="Arial, sans-serif" font-size="76" font-weight="700" fill="#49300f">4.9 ★</text><text x="462" y="410" font-family="Arial, sans-serif" font-size="24" fill="#755f3d">13,243 linked review records</text>
+  <rect x="462" y="443" width="600" height="18" rx="9" fill="#f1e7d4"/><rect x="462" y="443" width="546" height="18" rx="9" fill="#d99a35"/><text x="1074" y="461" text-anchor="end" font-family="Arial, sans-serif" font-size="18" fill="#6b4a1e">91% five-star</text>
+  <g font-family="Arial, sans-serif" font-size="20" fill="#5b431f"><text x="72" y="550"><tspan font-weight="700">56%</tspan> dry skin</text><text x="365" y="550"><tspan font-weight="700">73%</tspan> moisture concern</text><text x="735" y="550"><tspan font-weight="700">72%</tspan> gentle response</text></g>
+  <text x="72" y="592" font-family="Arial, sans-serif" font-size="16" fill="#786b57">Rounded retailer displays; respondent shares are not clinical outcomes.</text>
+</svg>
