@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Primera Vitatinol Bouncy Lift Serum aggregate review data</title>
+  <desc id="desc">Skincare sales rank 21, 4.8 stars from 6,161 review records, 85 percent five-star, 60 percent combination skin, 55 percent wrinkle and brightening concern, and 57 percent gentle response.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff9e8"/><stop offset="1" stop-color="#e7f2df"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e7b33f"/><stop offset="1" stop-color="#7ca35c"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <circle cx="1080" cy="95" r="150" fill="#f4cf69" opacity=".22"/>
+  <circle cx="1030" cy="570" r="190" fill="#87ac69" opacity=".18"/>
+  <text x="70" y="84" fill="#5d6f35" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="3">THE K-BEAUTY DATA DESK</text>
+  <text x="70" y="145" fill="#25291f" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700">Primera Vitatinol Bouncy Lift Serum</text>
+  <text x="70" y="202" fill="#65695c" font-family="Arial,Helvetica,sans-serif" font-size="26">Olive Young Korea aggregate snapshot · 2026-10-11</text>
+  <rect x="70" y="245" width="1060" height="8" rx="4" fill="url(#accent)"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <g transform="translate(70 298)"><rect width="245" height="190" rx="22" fill="#fff" opacity=".9"/><text x="24" y="48" fill="#767969" font-size="20">SKINCARE RANK</text><text x="24" y="128" fill="#2f3c25" font-size="72" font-weight="700">#21</text></g>
+    <g transform="translate(335 298)"><rect width="245" height="190" rx="22" fill="#fff" opacity=".9"/><text x="24" y="48" fill="#767969" font-size="20">RATING</text><text x="24" y="118" fill="#2f3c25" font-size="60" font-weight="700">4.8<tspan font-size="28"> / 5</tspan></text><text x="24" y="158" fill="#767969" font-size="20">6,161 records</text></g>
+    <g transform="translate(600 298)"><rect width="245" height="190" rx="22" fill="#fff" opacity=".9"/><text x="24" y="48" fill="#767969" font-size="20">FIVE-STAR</text><text x="24" y="128" fill="#2f3c25" font-size="72" font-weight="700">85%</text></g>
+    <g transform="translate(865 298)"><rect width="265" height="190" rx="22" fill="#fff" opacity=".9"/><text x="24" y="48" fill="#767969" font-size="20">POLL LEADERS</text><text x="24" y="88" fill="#2f3c25" font-size="22" font-weight="700">Combination 60%</text><text x="24" y="124" fill="#2f3c25" font-size="22" font-weight="700">Concern 55%</text><text x="24" y="160" fill="#2f3c25" font-size="22" font-weight="700">Gentle 57%</text></g>
+  </g>
+  <text x="70" y="555" fill="#65695c" font-family="Arial,Helvetica,sans-serif" font-size="20">Rounded storefront aggregates describe respondents—not clinical outcomes or guaranteed product fit.</text>
+</svg>
