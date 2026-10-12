@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic amber serum-format illustration</title>
+  <desc id="desc">An abstract translucent amber gel ribbon on a warm neutral surface. This is not the actual product or a tested sample.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6f1e7"/>
+      <stop offset="1" stop-color="#e3dccd"/>
+    </linearGradient>
+    <linearGradient id="serum" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5ca55" stop-opacity=".82"/>
+      <stop offset=".55" stop-color="#cf8e21" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#8b5918" stop-opacity=".56"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" rx="40" fill="url(#surface)"/>
+  <ellipse cx="612" cy="531" rx="385" ry="92" fill="#7d643e" opacity=".17" filter="url(#shadow)"/>
+  <path d="M235 510C330 360 493 300 650 323c132 20 219 101 311 57 56-27 81-76 105-122-12 111-79 206-178 250-129 57-239-29-371 10-94 28-181 83-282-8Z" fill="url(#serum)"/>
+  <path d="M307 472c118-105 270-118 386-75 83 31 142 59 231 17" fill="none" stroke="#fff4bf" stroke-width="28" stroke-linecap="round" opacity=".36"/>
+  <circle cx="349" cy="405" r="26" fill="#ffe7a0" opacity=".42"/>
+  <circle cx="790" cy="490" r="18" fill="#fff2c1" opacity=".33"/>
+  <text x="62" y="735" fill="#6b6254" font-family="system-ui,sans-serif" font-size="22" font-weight="650" letter-spacing="1.2">GENERIC SERUM-FORMAT ILLUSTRATION · NOT THE PRODUCT</text>
+</svg>

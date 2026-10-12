@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Ongredients Bakuglow Retinal Booster Shot aggregate review snapshot</title>
+  <desc id="desc">Olive Young Korea snapshot captured October 12, 2026: skincare sales rank 4, 5.0 stars from 332 records, 100 percent five-star, and leading displayed poll shares of combination skin 53 percent, wrinkle or brightening concern 56 percent, and gentle response 69 percent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9f6e8"/>
+      <stop offset="1" stop-color="#e7eedb"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6c7e45"/>
+      <stop offset="1" stop-color="#a8b56c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)"/>
+  <circle cx="1055" cy="105" r="165" fill="#fff" opacity=".35"/>
+  <circle cx="1140" cy="540" r="235" fill="#cad7aa" opacity=".25"/>
+  <text x="72" y="75" fill="#6a725c" font-family="system-ui,sans-serif" font-size="22" font-weight="700" letter-spacing="2.5">OLIVE YOUNG KOREA · CAPTURED 2026-10-12</text>
+  <text x="72" y="138" fill="#252a20" font-family="system-ui,sans-serif" font-size="46" font-weight="800">Bakuglow Retinal Booster Shot</text>
+  <text x="72" y="180" fill="#525b47" font-family="system-ui,sans-serif" font-size="25">Retail aggregate snapshot · not a product test</text>
+  <rect x="72" y="223" width="325" height="166" rx="22" fill="#fff" opacity=".88"/>
+  <text x="102" y="270" fill="#68705d" font-family="system-ui,sans-serif" font-size="20" font-weight="700">SKINCARE SALES RANK</text>
+  <text x="102" y="353" fill="#52622f" font-family="system-ui,sans-serif" font-size="78" font-weight="850">#4</text>
+  <rect x="425" y="223" width="325" height="166" rx="22" fill="#fff" opacity=".88"/>
+  <text x="455" y="270" fill="#68705d" font-family="system-ui,sans-serif" font-size="20" font-weight="700">DISPLAYED RATING</text>
+  <text x="455" y="345" fill="#52622f" font-family="system-ui,sans-serif" font-size="68" font-weight="850">5.0</text>
+  <text x="600" y="345" fill="#6a725c" font-family="system-ui,sans-serif" font-size="25">/ 5</text>
+  <rect x="778" y="223" width="350" height="166" rx="22" fill="#fff" opacity=".88"/>
+  <text x="808" y="270" fill="#68705d" font-family="system-ui,sans-serif" font-size="20" font-weight="700">REVIEW RECORDS</text>
+  <text x="808" y="345" fill="#52622f" font-family="system-ui,sans-serif" font-size="68" font-weight="850">332</text>
+  <text x="72" y="439" fill="#4e5746" font-family="system-ui,sans-serif" font-size="21" font-weight="700">LEADING DISPLAYED POLL SHARES</text>
+  <rect x="72" y="470" width="1056" height="34" rx="17" fill="#dce2cf"/>
+  <rect x="72" y="470" width="559" height="34" rx="17" fill="url(#accent)"/>
+  <text x="72" y="537" fill="#30372c" font-family="system-ui,sans-serif" font-size="25" font-weight="750">Combination 53%</text>
+  <text x="404" y="537" fill="#30372c" font-family="system-ui,sans-serif" font-size="25" font-weight="750">Wrinkle / brightening 56%</text>
+  <text x="860" y="537" fill="#30372c" font-family="system-ui,sans-serif" font-size="25" font-weight="750">Gentle 69%</text>
+  <text x="72" y="590" fill="#68705d" font-family="system-ui,sans-serif" font-size="18">100% of displayed ratings were five-star; rounded poll shares use separate, undisclosed denominators.</text>
+</svg>
