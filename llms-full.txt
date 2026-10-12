@@ -2,12 +2,12 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Primera Vitatinol Bouncy Lift Serum: 6,161 Reviews
+## CNP Propolis Energy Active Ampule: What 13,293 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/primera-vitatinol-bouncy-lift-serum.html
-- Published: 2026-10-11
-- Summary: Primera Vitatinol Bouncy Lift Serum analysis: 4.8 stars from 6,161 Olive Young Korea review records, skincare rank 21, star shares, shopper polls, aggregate themes, and evidence limits.
-- Rating: 4.8 / 5 from 6,161 reviews (5★ 85% · 4★ 11% · 3★ 3% · 2★ 0% · 1★ 1%)
+- URL: https://seong918.github.io/beauty_blog/posts/cnp-propolis-energy-active-ampule.html
+- Published: 2026-10-12
+- Summary: CNP Propolis Energy Active Ampule: 4.9★ from 13,293 Olive Young Korea review records (91% five-star).
+- Rating: 4.9 / 5 from 13,293 reviews (5★ 91% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 0%)
 
 ## Mediheal Madecassoside Derma Serum 50: What 4,720 Olive Young Review Signals Show (2026)
 
@@ -15,6 +15,12 @@
 - Published: 2026-10-11
 - Summary: Mediheal Madecassoside Derma Serum 50: 4.9★ from 4,720 Olive Young Korea review records (92% five-star).
 - Rating: 4.9 / 5 from 4,720 reviews (5★ 92% · 4★ 5% · 3★ 2% · 2★ 0% · 1★ 0%)
+
+## Primera Vitatinol Bouncy Lift Serum: 6,161 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/primera-vitatinol-bouncy-lift-serum.html
+- Published: 2026-10-11
+- Summary: Primera Vitatinol Bouncy Lift Serum analysis: 4.8 stars from 6,161 Olive Young Korea review records, skincare rank 21, star shares, shopper polls, and evidence limits.
 
 ## CNP Propolis Energy Active Ampoule: 13,243 Reviews
 
