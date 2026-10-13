@@ -2,12 +2,12 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## Ongredients Bakuglow Retinal Booster Shot: What 332 Olive Young Review Signals Show (2026)
+## Torriden DIVE-IN Low Molecular Hyaluronic Acid Intensive Cream: What 276 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/ongredients-bakuglow-retinal-booster-shot.html
-- Published: 2026-10-12
-- Summary: Ongredients Bakuglow Retinal Booster Shot: 5.0★ from 332 Olive Young Korea review records (100% five-star).
-- Rating: 5.0 / 5 from 332 reviews (5★ 100% · 4★ 0% · 3★ 0% · 2★ 0% · 1★ 0%)
+- URL: https://seong918.github.io/beauty_blog/posts/torriden-dive-in-low-molecular-hyaluronic-acid-intensive-cream.html
+- Published: 2026-10-13
+- Summary: Torriden DIVE-IN Low Molecular Hyaluronic Acid Intensive Cream: 4.8★ from 276 Olive Young Korea review records (88% five-star).
+- Rating: 4.8 / 5 from 276 reviews (5★ 88% · 4★ 8% · 3★ 3% · 2★ 0% · 1★ 1%)
 
 ## CNP Propolis Energy Active Ampule: What 13,293 Olive Young Review Signals Show (2026)
 
@@ -15,6 +15,12 @@
 - Published: 2026-10-12
 - Summary: CNP Propolis Energy Active Ampule: 4.9★ from 13,293 Olive Young Korea review records (91% five-star).
 - Rating: 4.9 / 5 from 13,293 reviews (5★ 91% · 4★ 7% · 3★ 2% · 2★ 0% · 1★ 0%)
+
+## Ongredients Bakuglow Retinal Booster Shot: 332 Reviews Analyzed
+
+- URL: https://seong918.github.io/beauty_blog/posts/ongredients-bakuglow-retinal-booster-shot.html
+- Published: 2026-10-12
+- Summary: Ongredients Bakuglow Retinal Booster Shot: 5.0 stars from 332 Olive Young Korea review records, with displayed star and shopper-poll distributions.
 
 ## Mediheal Madecassoside Derma Serum 50: What 4,720 Olive Young Review Signals Show (2026)
 
@@ -173,12 +179,6 @@
 - Published: 2026-09-22
 - Summary: Physiogel Daily Mune Ampoule: 4.8★ from 10,456 Olive Young Korea review records (87% five-star).
 - Rating: 4.8 / 5 from 10,456 reviews (5★ 87% · 4★ 9% · 3★ 2% · 2★ 0% · 1★ 0%)
-
-## Torriden Dive-In Intensive Cream: 1 Review Record
-
-- URL: https://seong918.github.io/beauty_blog/posts/torriden-dive-in-low-molecular-hyaluronic-acid-intensive-cream.html
-- Published: 2026-09-22
-- Summary: Torriden Dive-In Intensive Cream analysis: 5.0 stars from one Korean-retailer review record, rank-nine context, price and pack details, and strict small-sample limits.
 
 ## The Ordinary Glycolic Acid 7% Toner: 6,852 Reviews
 
