@@ -2,15 +2,12 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
-## AESTURA Atobarrier 365 Capsule Toner: What 1,772 Olive Young Review Signals Show (2026)
+## Dominas Cream Rx: What 740 Olive Young Review Signals Show (2026)
 
-- URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-capsule-toner.html
-- Published: 2026-10-13
-- Summary: AESTURA Atobarrier 365 Capsule Toner analysis: 4.8 stars from 1,772 Olive Young Korea review records, rank-12 context, star shares, shopper polls, and evidence limits.
-- Rating: 4.8 / 5 from 1,772 reviews (5★ 88% · 4★ 8% · 3★ 3% · 2★ 0% · 1★ 1%)
-- Skin-type poll: combination 49% · dry 45% · oily 6%
-- Concern poll: moisture 69% · soothing 30% · wrinkle/brightening 1%
-- Irritation poll: gentle 76% · ordinary 23% · felt irritation 1%
+- URL: https://seong918.github.io/beauty_blog/posts/dominas-cream-rx.html
+- Published: 2026-10-14
+- Summary: Dominas Cream Rx: 4.9★ from 740 Olive Young Korea review records (94% five-star).
+- Rating: 4.9 / 5 from 740 reviews (5★ 94% · 4★ 4% · 3★ 2% · 2★ 0% · 1★ 0%)
 
 ## Torriden DIVE-IN Low Molecular Hyaluronic Acid Intensive Cream: What 276 Olive Young Review Signals Show (2026)
 
@@ -18,6 +15,12 @@
 - Published: 2026-10-13
 - Summary: Torriden DIVE-IN Low Molecular Hyaluronic Acid Intensive Cream: 4.8★ from 276 Olive Young Korea review records (88% five-star).
 - Rating: 4.8 / 5 from 276 reviews (5★ 88% · 4★ 8% · 3★ 3% · 2★ 0% · 1★ 1%)
+
+## AESTURA Atobarrier 365 Capsule Toner: 1,772 Reviews
+
+- URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-capsule-toner.html
+- Published: 2026-10-13
+- Summary: AESTURA Atobarrier 365 Capsule Toner analysis: 4.8 stars from 1,772 K-beauty retail review records, rank-12 context, star shares, shopper polls, and evidence limits.
 
 ## CNP Propolis Energy Active Ampule: What 13,293 Olive Young Review Signals Show (2026)
 
@@ -63,12 +66,6 @@
 - URL: https://seong918.github.io/beauty_blog/posts/vt-pdrn-essence-100.html
 - Published: 2026-10-09
 - Summary: VT PDRN Essence 100 analysis: 4.9 stars from 29,916 Olive Young Korea review records, skincare rank 2, star distribution, shopper polls, and evidence limits.
-
-## Dominas Cream Rx: What 618 Review Records Show
-
-- URL: https://seong918.github.io/beauty_blog/posts/dominas-cream-rx.html
-- Published: 2026-10-08
-- Summary: Dominas Cream Rx analysis: 4.9 stars from 618 Olive Young Korea review records, skincare rank 24, star distribution, shopper polls, and evidence limits.
 
 ## Easydew EGFx Downtime Oint Gel: What 1,438 Olive Young Review Signals Show (2026)
 
