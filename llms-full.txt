@@ -2,6 +2,16 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## d'Alba Vital Spray Serum Niacinamide 5%: What 249 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/dalba-vital-spray-serum-niacinamide-5.html
+- Published: 2026-10-15
+- Summary: d'Alba Vital Spray Serum Niacinamide 5% analysis: 4.9 stars from 249 Olive Young Korea review records, skincare rank 1, star shares, shopper polls, and explicit limits.
+- Rating: 4.9 / 5 from 249 reviews (5★ 88% · 4★ 10% · 3★ 2% · 2★ 0% · 1★ 0%)
+- Skin-type poll: combination 46% · dry 45% · oily 8%
+- Concern poll: hydration 54% · soothing 39% · wrinkle / brightening 7%
+- Irritation poll: gentle 65% · ordinary 31% · felt irritation 4%
+
 ## Eucerin Hyaluron Epicelline Serum: What 1,414 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/eucerin-hyaluron-epicelline-serum.html
