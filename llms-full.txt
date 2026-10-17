@@ -2,6 +2,16 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Dongkook Pharmaceutical MadecaCell Barrier MD Cream: What 3,379 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/dongkook-pharmaceutical-madecacell-barrier-md-cream.html
+- Published: 2026-10-17
+- Summary: Dongkook MadecaCell Barrier MD Cream analysis: 4.9 stars from 3,379 Olive Young Korea review records, skincare rank 2, star shares, shopper polls, and strict limits.
+- Rating: 4.9 / 5 from 3,379 reviews (5★ 96% · 4★ 2% · 3★ 1% · 2★ 0% · 1★ 0%)
+- Skin-type poll: dry 51% · combination 43% · oily 6%
+- Concern poll: hydration 67% · soothing 31% · wrinkle / brightening 2%
+- Irritation poll: gentle 96% · ordinary 4% · felt irritation 0%
+
 ## Menokin 30-Second Quick Glow Bubble Capsule Mist Hydra Lift: What 758 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/menokin-30-second-quick-glow-bubble-capsule-mist-hydra-lift.html
