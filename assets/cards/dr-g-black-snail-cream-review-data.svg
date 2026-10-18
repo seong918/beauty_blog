@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Dr.G Black Snail Cream aggregate review data</title>
+  <desc id="desc">Skincare sales rank 16, 4.9 stars from 7,388 review records, 93 percent five-star, with dry skin, moisture, and gentle as the leading displayed poll responses.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171a16"/><stop offset="1" stop-color="#30392b"/></linearGradient><linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d9bd79"/><stop offset="1" stop-color="#f4dfaa"/></linearGradient></defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <circle cx="1070" cy="92" r="150" fill="#d9bd79" opacity=".08"/><circle cx="1080" cy="555" r="235" fill="#93a773" opacity=".08"/>
+  <text x="72" y="86" fill="#dce6d2" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2">THE K-BEAUTY DATA DESK</text>
+  <text x="72" y="150" fill="#fff" font-family="Arial, sans-serif" font-size="50" font-weight="800">Dr.G Black Snail Cream</text>
+  <text x="72" y="192" fill="#b9c4b1" font-family="Arial, sans-serif" font-size="24">Aggregate retail review snapshot · October 18, 2026</text>
+  <rect x="72" y="238" width="290" height="142" rx="20" fill="#232920" stroke="#59664d"/>
+  <text x="98" y="282" fill="#b9c4b1" font-family="Arial, sans-serif" font-size="21">SKINCARE SALES RANK</text><text x="98" y="350" fill="url(#gold)" font-family="Arial, sans-serif" font-size="64" font-weight="800">#16</text>
+  <rect x="385" y="238" width="340" height="142" rx="20" fill="#232920" stroke="#59664d"/>
+  <text x="411" y="282" fill="#b9c4b1" font-family="Arial, sans-serif" font-size="21">DISPLAYED RATING</text><text x="411" y="350" fill="#fff" font-family="Arial, sans-serif" font-size="64" font-weight="800">4.9<tspan fill="#d9bd79" font-size="38"> / 5</tspan></text>
+  <rect x="748" y="238" width="380" height="142" rx="20" fill="#232920" stroke="#59664d"/>
+  <text x="774" y="282" fill="#b9c4b1" font-family="Arial, sans-serif" font-size="21">REVIEW RECORDS</text><text x="774" y="350" fill="#fff" font-family="Arial, sans-serif" font-size="64" font-weight="800">7,388</text>
+  <text x="72" y="436" fill="#d9bd79" font-family="Arial, sans-serif" font-size="22" font-weight="700">LEADING DISPLAYED RESPONSES</text>
+  <rect x="72" y="462" width="330" height="96" rx="18" fill="#f4efe2"/><text x="96" y="501" fill="#4b4a42" font-family="Arial, sans-serif" font-size="19">Skin type</text><text x="96" y="540" fill="#23251c" font-family="Arial, sans-serif" font-size="30" font-weight="800">Dry · 53%</text>
+  <rect x="435" y="462" width="330" height="96" rx="18" fill="#e9efe3"/><text x="459" y="501" fill="#4b4a42" font-family="Arial, sans-serif" font-size="19">Concern</text><text x="459" y="540" fill="#23251c" font-family="Arial, sans-serif" font-size="30" font-weight="800">Moisture · 67%</text>
+  <rect x="798" y="462" width="330" height="96" rx="18" fill="#ece8f0"/><text x="822" y="501" fill="#4b4a42" font-family="Arial, sans-serif" font-size="19">Irritation response</text><text x="822" y="540" fill="#23251c" font-family="Arial, sans-serif" font-size="30" font-weight="800">Gentle · 73%</text>
+  <text x="72" y="598" fill="#9aa592" font-family="Arial, sans-serif" font-size="17">Displayed rounded shares describe self-reported retail signals, not clinical outcomes.</text>
+</svg>

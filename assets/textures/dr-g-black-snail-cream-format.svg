@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral cream-format illustration</title>
+  <desc id="desc">An abstract ivory cream ribbon on a dark olive surface, with no product, packaging, logo, or user photograph.</desc>
+  <defs><radialGradient id="bg" cx="42%" cy="34%" r="80%"><stop stop-color="#59624f"/><stop offset="1" stop-color="#20251f"/></radialGradient><linearGradient id="cream" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf5"/><stop offset=".52" stop-color="#eee7d6"/><stop offset="1" stop-color="#cfc5ae"/></linearGradient><filter id="shadow" x="-20%" y="-30%" width="150%" height="180%"><feGaussianBlur stdDeviation="22"/></filter></defs>
+  <rect width="1200" height="800" rx="34" fill="url(#bg)"/>
+  <ellipse cx="612" cy="590" rx="400" ry="72" fill="#0c0f0c" opacity=".45" filter="url(#shadow)"/>
+  <path d="M250 558 C345 466 455 475 517 430 C585 381 570 301 674 279 C792 254 907 324 936 420 C966 520 856 592 713 602 C554 613 404 656 281 618 C230 602 218 584 250 558Z" fill="url(#cream)"/>
+  <path d="M333 548 C448 511 531 517 627 445 C701 390 766 357 857 390" fill="none" stroke="#fff" stroke-width="26" stroke-linecap="round" opacity=".5"/>
+  <path d="M514 431 C579 388 581 318 673 298" fill="none" stroke="#b7ae9b" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+  <text x="600" y="712" text-anchor="middle" fill="#d9ded4" font-family="Arial, sans-serif" font-size="24" letter-spacing="3">GENERIC CREAM FORMAT · NOT THE PRODUCT</text>
+</svg>

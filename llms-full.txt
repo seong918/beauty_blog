@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Dr.G Black Snail Cream: What 7,388 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/dr-g-black-snail-cream.html
+- Published: 2026-10-18
+- Summary: Dr.G Black Snail Cream analysis: 4.9 stars from 7,388 Olive Young Korea review records, skincare rank 16, star shares, shopper polls, and evidence limits.
+- Rating: 4.9 / 5 from 7,388 reviews (5★ 93% · 4★ 6% · 3★ 1% · 2★ 0% · 1★ 0%)
+- Skin-type poll: dry 53% · combination 42% · oily 4%
+- Concern poll: hydration 67% · soothing 18% · wrinkle / brightening 15%
+- Irritation poll: gentle 73% · ordinary 25% · felt irritation 1%
+- Anonymous recent-summary signal: 96% positive; broad themes around moisture/nourishment, promotional-pack value, and firmness/glow impressions.
+- Limits: retailer-displayed rounded aggregates and automated themes; no individual review text, reviewer identity, product photo, use test, clinical endpoint, verified ingredient concentration, or universal suitability claim.
+
 ## Dongkook Pharmaceutical MadecaCell Barrier MD Cream: What 3,379 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/dongkook-pharmaceutical-madecacell-barrier-md-cream.html
