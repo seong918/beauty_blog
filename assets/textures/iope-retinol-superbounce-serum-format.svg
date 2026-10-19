@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral serum-format illustration</title>
+  <desc id="desc">An abstract translucent serum ribbon and droplets on a muted plum surface, with no product, packaging, logo, or user photograph.</desc>
+  <defs><radialGradient id="bg" cx="42%" cy="34%" r="85%"><stop stop-color="#725a70"/><stop offset="1" stop-color="#2b202d"/></radialGradient><linearGradient id="serum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".9"/><stop offset=".48" stop-color="#ead7e1" stop-opacity=".8"/><stop offset="1" stop-color="#b996aa" stop-opacity=".72"/></linearGradient><filter id="shadow" x="-20%" y="-30%" width="150%" height="180%"><feGaussianBlur stdDeviation="24"/></filter></defs>
+  <rect width="1200" height="800" rx="34" fill="url(#bg)"/>
+  <ellipse cx="602" cy="598" rx="390" ry="70" fill="#120f13" opacity=".42" filter="url(#shadow)"/>
+  <path d="M238 561 C332 492 423 512 505 458 C594 400 628 305 742 301 C854 297 950 384 931 480 C910 586 753 618 606 598 C466 580 348 652 253 613 C216 598 207 584 238 561Z" fill="url(#serum)" stroke="#f5e9ef" stroke-opacity=".55" stroke-width="5"/>
+  <path d="M324 551 C449 526 532 509 623 431 C704 361 775 349 858 404" fill="none" stroke="#fff" stroke-width="20" stroke-linecap="round" opacity=".45"/>
+  <circle cx="330" cy="278" r="46" fill="url(#serum)"/><circle cx="892" cy="222" r="31" fill="url(#serum)"/><circle cx="968" cy="327" r="19" fill="url(#serum)"/>
+  <text x="600" y="712" text-anchor="middle" fill="#eadfe8" font-family="Arial, sans-serif" font-size="24" letter-spacing="3">GENERIC SERUM FORMAT · NOT THE PRODUCT</text>
+</svg>

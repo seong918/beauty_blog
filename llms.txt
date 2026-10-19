@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [IOPE Retinol Superbounce Serum: What 1,255 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/iope-retinol-superbounce-serum.html): IOPE Retinol Superbounce Serum analysis: 4.8 stars from 1,255 Olive Young Korea review records, skincare rank 15, star shares, shopper polls, and evidence limits. (published 2026-10-19)
 - [Dr.G Black Snail Cream: What 7,388 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/dr-g-black-snail-cream.html): Dr.G Black Snail Cream analysis: 4.9 stars from 7,388 Olive Young Korea review records, skincare rank 16, star shares, shopper polls, and evidence limits. (published 2026-10-18)
 - [Dongkook Pharmaceutical MadecaCell Barrier MD Cream: What 3,379 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/dongkook-pharmaceutical-madecacell-barrier-md-cream.html): Dongkook MadecaCell Barrier MD Cream analysis: 4.9 stars from 3,379 Olive Young Korea review records, skincare rank 2, star shares, shopper polls, and strict limits. (published 2026-10-17)
 - [Menokin 30-Second Quick Glow Bubble Capsule Mist Hydra Lift: What 758 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/menokin-30-second-quick-glow-bubble-capsule-mist-hydra-lift.html): Menokin Hydra Lift Bubble Capsule Mist analysis: 5.0 stars from 758 Olive Young Korea review records, skincare rank 22, star shares, shopper polls, and strict limits. (published 2026-10-16)

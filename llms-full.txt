@@ -2,6 +2,17 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## IOPE Retinol Superbounce Serum: What 1,255 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/iope-retinol-superbounce-serum.html
+- Published: 2026-10-19
+- Summary: IOPE Retinol Superbounce Serum analysis: 4.8 stars from 1,255 Olive Young Korea review records, skincare rank 15, star shares, shopper polls, and evidence limits.
+- Rating: 4.8 / 5 from 1,255 reviews (5★ 86% · 4★ 10% · 3★ 3% · 2★ 0% · 1★ 1%)
+- Skin-type poll: combination 60% · dry 31% · oily 9%
+- Concern poll: wrinkle / brightening 42% · soothing 33% · hydration 24%
+- Irritation poll: gentle 49% · ordinary 48% · felt irritation 3%
+- Limits: retailer-displayed rounded aggregates; no individual review text, reviewer identity, product photo, use test, clinical endpoint, verified ingredient concentration, or universal suitability claim.
+
 ## Dr.G Black Snail Cream: What 7,388 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/dr-g-black-snail-cream.html
