@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## The Harnay Cicade Cream: What 9,481 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/the-harnay-cicade-cream.html
+- Published: 2026-10-20
+- Summary: The Harnay Cicade Cream analysis: 4.8 stars from 9,481 Olive Young Korea review records, skincare rank 2, star shares, shopper polls, and evidence limits.
+- Rating: 4.8 / 5 from 9,481 reviews (5★ 87% · 4★ 9% · 3★ 3% · 2★ 1% · 1★ 1%)
+- Skin-type poll: combination 56% · dry 29% · oily 15%
+- Concern poll: hydration 56% · soothing 43% · wrinkle / brightening 1%
+- Irritation poll: gentle 78% · ordinary 21% · felt irritation 1%
+- Anonymous recent-summary signal: 90% positive; broad themes around makeup adherence, mild-feeling use, and a fresh or light finish.
+- Limits: retailer-displayed rounded aggregates and automated themes; no individual review text, reviewer identity, product photo, use test, clinical endpoint, verified one-use barrier claim, ingredient concentration, or universal suitability claim.
+
 ## IOPE Retinol Superbounce Serum: What 1,255 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/iope-retinol-superbounce-serum.html
