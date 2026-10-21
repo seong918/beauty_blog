@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Redence Tone & Spot Recovery Cream: What 538 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/redence-tone-spot-recovery-cream.html
+- Published: 2026-10-21
+- Summary: Redence Tone & Spot Recovery Cream analysis: 5.0 stars from 538 Olive Young Korea review records, skincare rank 18, exposed star rows, shopper polls, and evidence limits.
+- Rating: 5.0 / 5 from 538 reviews (exposed rows: 5★ 99% · 4★ 0% · 3★ 0% · 2★ 0%; no 1★ row exposed)
+- Skin-type poll: combination 50% · dry 43% · oily 7%
+- Concern poll: hydration 53% · wrinkle / brightening 37% · soothing 10%
+- Irritation poll: gentle 92% · ordinary 7% · felt irritation 1%
+- Anonymous recent-summary signal: 90% positive; broad themes around smoother-feeling or more even-looking texture, moisture and glow impressions, and mild-feeling tone-care impressions.
+- Limits: retailer-displayed rounded aggregates and automated themes; no individual review text, reviewer identity, product photo, use test, clinical pigmentation endpoint, verified ingredient concentration, or universal suitability claim.
+
 ## The Harnay Cicade Cream: What 9,481 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/the-harnay-cicade-cream.html
