@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## AESTURA Atobarrier 365 Hydro Essence: What 15,177 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-hydro-essence.html
+- Published: 2026-10-22
+- Summary: AESTURA Atobarrier 365 Hydro Essence analysis: 4.9 stars from 15,177 Olive Young Korea review records, skincare rank 25, star shares, shopper polls, and evidence limits.
+- Rating: 4.9 / 5 from 15,177 reviews (5★ 89% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 0%; rounded rows total 99%)
+- Skin-type poll: combination 49% · dry 45% · oily 6%
+- Concern poll: hydration 74% · soothing 26% · wrinkle / brightening 1% (rounded shares total 101%)
+- Irritation poll: gentle 78% · ordinary 21% · felt irritation 1%
+- Anonymous recent-summary signal: 92% positive; broad themes around moisture or reduced tightness, mild-feeling use, and spreadability or quick absorption.
+- Limits: retailer-displayed rounded aggregates and automated themes; no individual review text, reviewer identity, product photo, use test, clinical hydration endpoint, verified ingredient concentration, or universal suitability claim.
+
 ## Redence Tone & Spot Recovery Cream: What 538 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/redence-tone-spot-recovery-cream.html
