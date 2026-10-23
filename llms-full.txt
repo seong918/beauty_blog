@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## PO:DL Bam Retinal Pore Reset Capsule Cream: What 808 K-Beauty Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/podl-bam-retinal-pore-reset-capsule-cream.html
+- Published: 2026-10-23
+- Summary: PO:DL Bam Retinal Pore Reset Capsule Cream analysis: 5.0 stars from 808 K-beauty retail review records, skincare rank 3, star shares, shopper polls, and evidence limits.
+- Rating: 5.0 / 5 from 808 reviews (5★ 99% · 4★ 1% · 3★ 0% · 2★ 0% · 1★ 0%)
+- Skin-type poll: dry 56% · combination 35% · oily 9%
+- Concern poll: hydration 76% · wrinkle / brightening 19% · soothing 6% (rounded shares total 101%)
+- Irritation poll: gentle 96% · ordinary 4% · felt irritation 0%
+- Anonymous recent-summary signal: 100% positive; broad themes around capsule texture and spreadability, pore or firmness impressions, and mild-feeling night-care use.
+- Limits: retailer-displayed rounded aggregates and automated themes; no individual review text, reviewer identity, product photo, use test, pore or elasticity endpoint, verified retinal concentration, or universal suitability claim.
+
 ## AESTURA Atobarrier 365 Hydro Essence: What 15,177 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-hydro-essence.html

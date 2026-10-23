@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [PO:DL Bam Retinal Pore Reset Capsule Cream: What 808 K-Beauty Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/podl-bam-retinal-pore-reset-capsule-cream.html): PO:DL Bam Retinal Pore Reset Capsule Cream analysis: 5.0 stars from 808 K-beauty retail review records, skincare rank 3, star shares, shopper polls, and evidence limits. (published 2026-10-23)
 - [AESTURA Atobarrier 365 Hydro Essence: What 15,177 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-hydro-essence.html): AESTURA Atobarrier 365 Hydro Essence analysis: 4.9 stars from 15,177 Olive Young Korea review records, skincare rank 25, star shares, shopper polls, and evidence limits. (published 2026-10-22)
 - [Redence Tone & Spot Recovery Cream: What 538 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/redence-tone-spot-recovery-cream.html): Redence Tone & Spot Recovery Cream analysis: 5.0 stars from 538 Olive Young Korea review records, skincare rank 18, exposed star rows, shopper polls, and evidence limits. (published 2026-10-21)
 - [The Harnay Cicade Cream: What 9,481 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/the-harnay-cicade-cream.html): The Harnay Cicade Cream analysis: 4.8 stars from 9,481 Olive Young Korea review records, skincare rank 2, star shares, shopper polls, and evidence limits. (published 2026-10-20)
