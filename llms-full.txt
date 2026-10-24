@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Redence Tone & Spot Corrector Ampoule: What 8,361 K-Beauty Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/redence-tone-spot-corrector-ampoule.html
+- Published: 2026-10-24
+- Summary: Redence Tone & Spot Corrector Ampoule analysis: 4.9 stars from 8,361 K-beauty retail review records, skincare rank 1, star shares, shopper polls, and evidence limits.
+- Rating: 4.9 / 5 from 8,361 reviews (5★ 95% · 4★ 3% · 3★ 1% · 2★ 0% · 1★ 0%; rounded rows total 99%)
+- Skin-type poll: combination 50% · dry 43% · oily 7%
+- Concern poll: hydration 44% · wrinkle / brightening 40% · soothing 15% (rounded shares total 99%)
+- Irritation poll: gentle 85% · ordinary 14% · felt irritation 1%
+- Anonymous recent-summary signal: 92% positive; broad themes around mild-feeling use, moisture or quick-settling texture impressions, and perceived tone or mark changes.
+- Limits: retailer-displayed rounded aggregates and automated themes; no individual review text, reviewer identity, product photo, use test, clinical pigmentation endpoint, verified ingredient concentration, or universal suitability claim.
+
 ## PO:DL Bam Retinal Pore Reset Capsule Cream: What 808 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/podl-bam-retinal-pore-reset-capsule-cream.html
