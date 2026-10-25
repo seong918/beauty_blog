@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## numbuzin No.5 Glutathione C Blemish Ampoule: What 22,888 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/numbuzin-no-5-glutathione-c-blemish-ampoule.html
+- Published: 2026-10-25
+- Summary: numbuzin No.5 Glutathione C Blemish Ampoule analysis: 4.7 stars from 22,888 Olive Young Korea review records, skincare rank 29, star shares, shopper polls, and evidence limits.
+- Rating: 4.7 / 5 from 22,888 reviews (5★ 80% · 4★ 14% · 3★ 5% · 2★ 1% · 1★ 1%; rounded rows total 101%)
+- Skin-type poll: combination 58% · dry 34% · oily 8%
+- Concern poll: wrinkle / brightening 53% · hydration 24% · soothing 23%
+- Irritation poll: gentle 60% · ordinary 37% · felt irritation 3%
+- Anonymous recent-summary signal: 89% positive; broad themes around perceived mark or brightening changes, mild-feeling use, and moisture or smoother-feeling texture impressions.
+- Limits: retailer-displayed rounded aggregates and automated themes; no individual review text, reviewer identity, product photo, use test, clinical pigmentation endpoint, verified ingredient concentration, or universal suitability claim.
+
 ## Redence Tone & Spot Corrector Ampoule: What 8,361 K-Beauty Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/redence-tone-spot-corrector-ampoule.html

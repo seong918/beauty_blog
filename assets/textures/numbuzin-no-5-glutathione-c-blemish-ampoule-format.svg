@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral ampoule-format illustration</title>
+  <desc id="desc">An abstract pale amber drop and translucent serum ribbons on a warm neutral surface. This is not a product photograph.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8eee0"/><stop offset=".55" stop-color="#e6c99e"/><stop offset="1" stop-color="#cda26c"/></linearGradient>
+    <radialGradient id="drop" cx="42%" cy="32%" r="68%"><stop stop-color="#fff9df" stop-opacity=".96"/><stop offset=".48" stop-color="#efc56f" stop-opacity=".82"/><stop offset="1" stop-color="#a96f2f" stop-opacity=".72"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#6a431d" flood-opacity=".25"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#surface)"/>
+  <ellipse cx="670" cy="630" rx="360" ry="78" fill="#80511f" opacity=".16" filter="url(#blur)"/>
+  <path d="M156 564C314 430 416 566 584 417c134-119 249-28 415-192" fill="none" stroke="#fff7e5" stroke-opacity=".52" stroke-width="55" stroke-linecap="round"/>
+  <path d="M156 564C314 430 416 566 584 417c134-119 249-28 415-192" fill="none" stroke="#bd7834" stroke-opacity=".18" stroke-width="15" stroke-linecap="round"/>
+  <g filter="url(#shadow)">
+    <path d="M650 135C650 135 500 333 500 452c0 115 74 207 183 207s196-92 196-207c0-119-229-317-229-317z" fill="url(#drop)"/>
+    <ellipse cx="625" cy="343" rx="58" ry="118" fill="#fff" opacity=".33" transform="rotate(22 625 343)"/>
+    <ellipse cx="738" cy="536" rx="72" ry="34" fill="#fff0bd" opacity=".37"/>
+  </g>
+  <circle cx="270" cy="170" r="68" fill="#fff" opacity=".2"/><circle cx="1030" cy="570" r="110" fill="#9e682c" opacity=".1"/>
+  <text x="62" y="734" fill="#5d4024" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="1">GENERIC AMPOULE FORMAT · NOT THE ACTUAL PRODUCT</text>
+</svg>
