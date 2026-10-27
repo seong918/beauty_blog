@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Zeroid Intensive Cream Mist: What 78 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/zeroid-intensive-cream-mist.html
+- Published: 2026-10-27
+- Summary: Zeroid Intensive Cream Mist analysis: 4.9 stars from 78 Olive Young Korea review records, skincare rank 18, exposed star shares, shopper polls, and evidence limits.
+- Rating: 4.9 / 5 from 78 reviews (exposed rows: 5★ 90% · 4★ 9% · 3★ 1%; no 2★ or 1★ row exposed)
+- Skin-type poll: dry 61% · combination 33% · oily 6%
+- Concern poll: hydration 76% · soothing 20% · wrinkle / brightening 5% (rounded shares total 101%)
+- Irritation poll: gentle 78% · ordinary 17% · felt irritation 5%
+- Anonymous recent-summary signal: none exposed; the retailer summary response contained no usable topic or sentiment aggregate.
+- Limits: retailer-displayed rounded aggregates; no individual review text, reviewer identity, product photo, use test, instrument hydration or barrier endpoint, verified formula details, inferred lower-star shares, or universal suitability claim.
+
 ## numbuzin No.5 Glutathione C Blemish Ampoule: What 22,888 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/numbuzin-no-5-glutathione-c-blemish-ampoule.html

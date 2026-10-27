@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral facial mist format illustration</title>
+  <desc id="desc">An abstract code-drawn spray cloud crossing a pale blue surface. It is not a product photograph or formula reconstruction.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef8f7"/><stop offset=".58" stop-color="#d8eeee"/><stop offset="1" stop-color="#b9d7d8"/></linearGradient>
+    <radialGradient id="haze"><stop stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="38" fill="url(#surface)"/>
+  <path d="M-40 620C210 480 470 550 650 420s330-160 600-92v500H-40Z" fill="#a8cfd0" opacity=".36"/>
+  <ellipse cx="700" cy="300" rx="360" ry="220" fill="url(#haze)" filter="url(#blur)"/>
+  <g fill="#fff" opacity=".82">
+    <circle cx="365" cy="388" r="11"/><circle cx="420" cy="354" r="7"/><circle cx="474" cy="321" r="14"/><circle cx="525" cy="300" r="6"/><circle cx="570" cy="276" r="10"/><circle cx="620" cy="260" r="5"/><circle cx="668" cy="246" r="9"/><circle cx="716" cy="236" r="4"/><circle cx="760" cy="231" r="7"/>
+    <circle cx="452" cy="423" r="5"/><circle cx="510" cy="388" r="9"/><circle cx="565" cy="355" r="4"/><circle cx="618" cy="337" r="12"/><circle cx="675" cy="316" r="6"/><circle cx="730" cy="304" r="9"/><circle cx="784" cy="290" r="5"/><circle cx="835" cy="286" r="11"/>
+    <circle cx="554" cy="456" r="8"/><circle cx="612" cy="418" r="4"/><circle cx="671" cy="391" r="10"/><circle cx="731" cy="370" r="6"/><circle cx="790" cy="358" r="12"/><circle cx="852" cy="349" r="5"/><circle cx="910" cy="346" r="8"/>
+  </g>
+  <g transform="translate(168 265)">
+    <rect x="0" y="70" width="155" height="300" rx="45" fill="#f8fbfb" stroke="#6f9fa2" stroke-width="8"/>
+    <rect x="37" y="0" width="81" height="95" rx="18" fill="#759fa1"/>
+    <path d="M116 18h90c28 0 45 14 54 30" fill="none" stroke="#759fa1" stroke-width="24" stroke-linecap="round"/>
+    <rect x="25" y="185" width="105" height="78" rx="18" fill="#d9ecec"/>
+    <path d="M49 224h57" stroke="#6f9fa2" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text x="72" y="724" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#365f62">GENERIC MIST-FORMAT VISUAL</text>
+  <text x="72" y="759" font-family="Arial, sans-serif" font-size="20" fill="#4e6d6f">Not the actual package, spray pattern, color, texture, or formula</text>
+</svg>
