@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## SKIN1004 Madagascar Centella Soothing Cream: What 510 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/skin1004-madagascar-centella-soothing-cream.html
+- Published: 2026-10-28
+- Summary: SKIN1004 Madagascar Centella Soothing Cream analysis: 4.8 stars from 510 Olive Young Korea review records, skincare rank 28, star shares, shopper polls, and evidence limits.
+- Rating: 4.8 / 5 from 510 reviews (5★ 91% · 4★ 5% · 3★ 2% · 2★ 1% · 1★ 1%)
+- Skin-type poll: combination 50% · dry 30% · oily 20%
+- Concern poll: soothing 49% · hydration 48% · wrinkle / brightening 2% (rounded shares total 99%)
+- Irritation poll: gentle 86% · ordinary 12% · felt irritation 2%
+- Anonymous recent-summary signal: 88% positive; broad themes around a fresh gel-type feel, soothing impressions, and easy spreading or makeup preparation.
+- Limits: retailer-displayed rounded aggregates and automated themes; no individual review text, reviewer identity, product photo, use test, clinical soothing or hydration endpoint, verified formula details, or universal suitability claim.
+
 ## Zeroid Intensive Cream Mist: What 78 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/zeroid-intensive-cream-mist.html

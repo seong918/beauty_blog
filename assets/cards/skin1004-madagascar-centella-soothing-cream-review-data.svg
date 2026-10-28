@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">SKIN1004 Madagascar Centella Soothing Cream review data</title>
+  <desc id="desc">Aggregate card showing skincare sales rank 28, 4.8 stars from 510 review records, and leading poll shares.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#eef7ef"/><stop offset="1" stop-color="#dbeee3"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#446052" flood-opacity=".14"/></filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1090" cy="82" r="116" fill="#c5e2cf" opacity=".72"/>
+  <circle cx="92" cy="568" r="150" fill="#f8fbf7" opacity=".9"/>
+  <text x="78" y="84" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#52705f" letter-spacing="2">THE K-BEAUTY DATA DESK</text>
+  <text x="78" y="145" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" fill="#1f3328">SKIN1004 Madagascar Centella</text>
+  <text x="78" y="195" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" fill="#1f3328">Soothing Cream</text>
+  <g filter="url(#shadow)">
+    <rect x="78" y="242" width="310" height="224" rx="24" fill="#fff"/>
+    <rect x="420" y="242" width="310" height="224" rx="24" fill="#fff"/>
+    <rect x="762" y="242" width="360" height="224" rx="24" fill="#fff"/>
+  </g>
+  <text x="112" y="294" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#6a7c71">SKINCARE SALES RANK</text>
+  <text x="112" y="393" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="700" fill="#355b45">28</text>
+  <text x="454" y="294" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#6a7c71">AGGREGATE RATING</text>
+  <text x="454" y="382" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="700" fill="#355b45">4.8</text>
+  <text x="614" y="382" font-family="Arial,Helvetica,sans-serif" font-size="28" fill="#6a7c71">/ 5</text>
+  <text x="454" y="426" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#52705f">510 review records</text>
+  <text x="796" y="294" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700" fill="#6a7c71">LEADING POLL SHARES</text>
+  <text x="796" y="345" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#263c30"><tspan font-weight="700">50%</tspan> combination skin</text>
+  <text x="796" y="390" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#263c30"><tspan font-weight="700">49%</tspan> soothing concern</text>
+  <text x="796" y="435" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#263c30"><tspan font-weight="700">86%</tspan> gentle response</text>
+  <text x="78" y="532" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#3f5d4c">Olive Young Korea aggregate display · captured 2026-10-28 KST</text>
+  <text x="78" y="574" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#667a6e">Rounded shopper responses; not a clinical test or universal product-fit score.</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic lightweight gel-cream format illustration</title>
+  <desc id="desc">A brand-neutral translucent gel-cream ribbon and soft green forms on a pale surface.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5faf5"/><stop offset="1" stop-color="#dceee1"/></linearGradient>
+    <linearGradient id="gel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".94"/><stop offset=".55" stop-color="#d6f1df" stop-opacity=".86"/><stop offset="1" stop-color="#a8d5ba" stop-opacity=".66"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#31533f" flood-opacity=".2"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#surface)"/>
+  <ellipse cx="270" cy="164" rx="210" ry="120" fill="#b8ddc3" opacity=".45" filter="url(#blur)"/>
+  <ellipse cx="990" cy="650" rx="240" ry="140" fill="#91c5a3" opacity=".35" filter="url(#blur)"/>
+  <path d="M164 506C294 324 414 304 548 386c102 62 205 72 320 19 76-35 145-25 193 32-102 173-240 242-413 206-160-34-300-17-484 38-39-58-39-116 0-175z" fill="url(#gel)" filter="url(#shadow)"/>
+  <path d="M223 520c137-111 267-129 388-54 104 65 214 68 331 10" fill="none" stroke="#fff" stroke-width="34" stroke-linecap="round" opacity=".68"/>
+  <g fill="#7ab38d" opacity=".68"><ellipse cx="921" cy="194" rx="29" ry="70" transform="rotate(38 921 194)"/><ellipse cx="1003" cy="236" rx="27" ry="64" transform="rotate(65 1003 236)"/><ellipse cx="955" cy="282" rx="25" ry="62" transform="rotate(15 955 282)"/></g>
+  <text x="66" y="83" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="700" letter-spacing="2" fill="#587261">GENERIC FORMAT STUDY</text>
+  <text x="66" y="721" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#3b5847">Brand-neutral gel-cream illustration</text>
+  <text x="66" y="755" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#657b6e">Not the product, package, formula, color, or evidence of firsthand use</text>
+</svg>
