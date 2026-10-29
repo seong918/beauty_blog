@@ -72,6 +72,7 @@ https://seong918.github.io/beauty_blog/posts/isntree-onion-newpair-gel-cream-plu
 https://seong918.github.io/beauty_blog/posts/kiehls-1cc-pink-serum.html
 https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-baume-b5.html
 https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-multi-repair-cream.html
+https://seong918.github.io/beauty_blog/posts/medicube-pdrn-glow-toning-booster.html
 https://seong918.github.io/beauty_blog/posts/medicube-pdrn-pink-peptide-ampoule.html
 https://seong918.github.io/beauty_blog/posts/medicube-zero-pore-one-day-peptide-serum.html
 https://seong918.github.io/beauty_blog/posts/mediheal-madecassoside-blemish-repair-serum.html
@@ -82,7 +83,6 @@ https://seong918.github.io/beauty_blog/posts/mixsoon-hyalpear-pore-bubble-serum.
 https://seong918.github.io/beauty_blog/posts/niacinamide-10-1.html
 https://seong918.github.io/beauty_blog/posts/numbuzin-no-1-pantothenic-acid-active-up-soothing-serum.html
 https://seong918.github.io/beauty_blog/posts/numbuzin-no-1-pantothenic-acid-skincare-100-blur-powder.html
-https://seong918.github.io/beauty_blog/posts/zeroid-intensive-cream-mist.html
 https://seong918.github.io/beauty_blog/posts/numbuzin-no-5-glutathione-c-blemish-ampoule.html
 https://seong918.github.io/beauty_blog/posts/oars-hyaluron-cica-7-second-serum-in-ampoule.html
 https://seong918.github.io/beauty_blog/posts/ongredients-bakuglow-capsule-lotion.html
@@ -111,6 +111,7 @@ https://seong918.github.io/beauty_blog/posts/vt-pdrn-essence-100.html
 https://seong918.github.io/beauty_blog/posts/vt-pdrn-reedle-shot-eye-lifter.html
 https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-blue-100-ampoule.html
 https://seong918.github.io/beauty_blog/posts/wellage-real-hyaluronic-soothing-cream.html
+https://seong918.github.io/beauty_blog/posts/zeroid-intensive-cream-mist.html
 https://seong918.github.io/beauty_blog/posts/zeroid-intensive-cream.html
 https://seong918.github.io/beauty_blog/posts/zeroid-pimprove-red-control-cream-ph4.html
 https://seong918.github.io/beauty_blog/posts/zeroid-soothing-cream.html

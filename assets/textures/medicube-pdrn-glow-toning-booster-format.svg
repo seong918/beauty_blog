@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral translucent serum-format illustration</title>
+  <desc id="desc">An abstract clear serum drop and curved trail on a soft violet surface. This is not the actual Medicube product or formula.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eee3f2"/><stop offset=".55" stop-color="#cbb3d5"/><stop offset="1" stop-color="#8f719d"/></linearGradient>
+    <radialGradient id="drop" cx="38%" cy="28%" r="72%"><stop offset="0" stop-color="#fff" stop-opacity=".92"/><stop offset=".45" stop-color="#f5ecf8" stop-opacity=".72"/><stop offset="1" stop-color="#bda4c8" stop-opacity=".35"/></radialGradient>
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".08"/><stop offset=".48" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#f7effa" stop-opacity=".12"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="24" stdDeviation="22" flood-color="#4c3158" flood-opacity=".32"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#surface)"/>
+  <ellipse cx="603" cy="675" rx="420" ry="75" fill="#5f456b" opacity=".25" filter="url(#blur)"/>
+  <path d="M155 550C335 390 465 330 642 348c157 16 251 92 414 27-89 118-221 167-396 149-174-17-322 6-505 88z" fill="url(#trail)" filter="url(#shadow)"/>
+  <path d="M542 196c0-103 102-177 102-177s102 74 102 177c0 69-45 124-102 124s-102-55-102-124z" fill="url(#drop)" stroke="#fff" stroke-opacity=".62" stroke-width="5" filter="url(#shadow)"/>
+  <ellipse cx="614" cy="127" rx="28" ry="47" fill="#fff" opacity=".64" transform="rotate(22 614 127)"/>
+  <path d="M333 552c112-72 230-92 354-59" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" opacity=".58"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" fill="#fff">
+    <text x="70" y="84" font-size="22" font-weight="700" letter-spacing="3" opacity=".92">GENERIC SERUM FORMAT</text>
+    <text x="70" y="121" font-size="18" opacity=".8">Code-drawn illustration · not an actual product image</text>
+  </g>
+</svg>
