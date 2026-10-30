@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral lotion-format illustration</title>
+  <desc id="desc">An abstract ivory lotion ribbon and translucent moisture shapes on a sage background. This is not the actual product or formula.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dfe9d7"/>
+      <stop offset="1" stop-color="#a9bf9b"/>
+    </linearGradient>
+    <linearGradient id="lotion" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdf7"/>
+      <stop offset="0.55" stop-color="#f2efe4"/>
+      <stop offset="1" stop-color="#ddd9ca"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="24" stdDeviation="22" flood-color="#4f6647" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+  <circle cx="174" cy="155" r="94" fill="#fff" opacity="0.18"/>
+  <circle cx="1030" cy="630" r="135" fill="#fff" opacity="0.14"/>
+  <path d="M200 515 C320 370 454 331 596 386 C742 442 842 422 980 282 C905 490 771 594 601 590 C425 586 314 640 200 515Z" fill="url(#lotion)" filter="url(#shadow)"/>
+  <ellipse cx="584" cy="475" rx="252" ry="94" fill="#fff" opacity="0.33"/>
+  <path d="M357 455 C441 409 521 410 600 445 C679 480 758 478 836 439" fill="none" stroke="#fff" stroke-width="25" stroke-linecap="round" opacity="0.56"/>
+  <g fill="none" stroke="#eef6e8" stroke-width="5" opacity="0.7">
+    <circle cx="308" cy="242" r="37"/>
+    <circle cx="910" cy="208" r="52"/>
+    <circle cx="984" cy="365" r="24"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#30412b">
+    <text x="74" y="700" font-size="25" font-weight="700" letter-spacing="1">GENERIC LOTION-FORMAT VISUAL</text>
+    <text x="74" y="738" font-size="19">Abstract editorial illustration — not the product, package, formula, or a use-test image.</text>
+  </g>
+</svg>

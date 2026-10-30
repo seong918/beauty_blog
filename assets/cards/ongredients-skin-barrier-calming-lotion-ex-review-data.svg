@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Ongredients Skin Barrier Calming Lotion EX aggregate review data</title>
+  <desc id="desc">Skincare sales rank 12, 4.9 stars from 9,647 review records, 93 percent five-star, 52 percent dry skin, 82 percent hydration concern, and 84 percent gentle response.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f8ee"/>
+      <stop offset="1" stop-color="#e8f1e4"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#70915a"/>
+      <stop offset="1" stop-color="#9fbd82"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+  <rect x="56" y="48" width="1088" height="534" rx="28" fill="#fff" stroke="#dce7d4" stroke-width="2"/>
+  <text x="96" y="112" fill="#26331f" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="2">AGGREGATE RETAIL SNAPSHOT</text>
+  <text x="96" y="161" fill="#26331f" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">Ongredients Skin Barrier Calming Lotion EX</text>
+  <text x="96" y="203" fill="#65705f" font-family="Arial, Helvetica, sans-serif" font-size="20">Captured 2026-10-30 · Olive Young Korea skincare sales rank 12</text>
+  <rect x="96" y="241" width="300" height="148" rx="20" fill="#f2f7ed"/>
+  <text x="124" y="289" fill="#65705f" font-family="Arial, Helvetica, sans-serif" font-size="20">DISPLAYED RATING</text>
+  <text x="124" y="350" fill="#26331f" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">4.9 / 5</text>
+  <text x="124" y="378" fill="#65705f" font-family="Arial, Helvetica, sans-serif" font-size="19">9,647 linked records</text>
+  <text x="438" y="274" fill="#26331f" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Displayed star share</text>
+  <rect x="438" y="298" width="648" height="26" rx="13" fill="#edf0e9"/>
+  <rect x="438" y="298" width="603" height="26" rx="13" fill="url(#bar)"/>
+  <text x="438" y="354" fill="#26331f" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">93% five-star</text>
+  <text x="660" y="354" fill="#65705f" font-family="Arial, Helvetica, sans-serif" font-size="20">4★ 4% · 3★ 2% · 2★ 0% · 1★ 1%</text>
+  <line x1="96" y1="430" x2="1104" y2="430" stroke="#dce7d4" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="96" y="477" fill="#65705f" font-size="18">SKIN-TYPE POLL LEAD</text>
+    <text x="96" y="527" fill="#26331f" font-size="38" font-weight="700">Dry 52%</text>
+    <text x="438" y="477" fill="#65705f" font-size="18">CONCERN POLL LEAD</text>
+    <text x="438" y="527" fill="#26331f" font-size="38" font-weight="700">Hydration 82%</text>
+    <text x="810" y="477" fill="#65705f" font-size="18">IRRITATION POLL LEAD</text>
+    <text x="810" y="527" fill="#26331f" font-size="38" font-weight="700">Gentle 84%</text>
+  </g>
+  <text x="96" y="561" fill="#7d8678" font-family="Arial, Helvetica, sans-serif" font-size="15">Rounded retailer displays describe a self-selected sample; they are not clinical outcomes or suitability guarantees.</text>
+</svg>

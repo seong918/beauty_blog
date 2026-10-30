@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Ongredients Skin Barrier Calming Lotion EX: What 9,647 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/ongredients-skin-barrier-calming-lotion-ex.html
+- Published: 2026-10-30
+- Summary: Ongredients Skin Barrier Calming Lotion EX analysis: 4.9 stars from 9,647 Olive Young Korea review records, skincare rank 12, star shares, shopper polls, themes, and evidence limits.
+- Rating: 4.9 / 5 from 9,647 reviews (5★ 93% · 4★ 4% · 3★ 2% · 2★ 0% · 1★ 1%)
+- Skin-type poll: dry 52% · combination 42% · oily 6%
+- Concern poll: hydration 82% · soothing 17% · wrinkle / brightening 2% (rounded shares total 101%)
+- Irritation poll: gentle 84% · ordinary 15% · felt irritation 1%
+- Anonymous recent-summary signal: 89% positive; broad themes around makeup preparation, moisture or glow impressions, and mild-feeling or soothing use.
+- Limits: retailer-displayed rounded aggregates and automated themes; no individual review text, reviewer identity, product photo, use test, clinical hydration or barrier endpoint, verified formula details, or universal suitability claim.
+
 ## Medicube PDRN Glow Toning Booster: What 8 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/medicube-pdrn-glow-toning-booster.html
