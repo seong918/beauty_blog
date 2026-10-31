@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Medicube AGE-R Booster Pro X2: What 53 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/medicube-age-r-booster-pro-x2.html
+- Published: 2026-10-31
+- Summary: Medicube AGE-R Booster Pro X2 analysis: 5.0 stars from 53 Olive Young Korea review records, skincare rank 10, star shares, package context, and strict small-sample limits.
+- Rating: 5.0 / 5 from 53 reviews (5★ 98% · 4★ 0% · 3★ 2% · 2★ 0% · 1★ 0%)
+- Skin-type poll: no usable distribution exposed.
+- Concern poll: no usable distribution exposed.
+- Irritation poll: no usable distribution exposed.
+- Anonymous recent-summary signal: none exposed; no topic or sentiment aggregate was inferred from individual reviews.
+- Limits: small retailer-displayed rounded aggregate; no individual review text, reviewer identity, product photo, use test, clinical or instrument endpoint, verified technical specification, durability series, or universal suitability claim.
+
 ## Ongredients Skin Barrier Calming Lotion EX: What 9,647 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/ongredients-skin-barrier-calming-lotion-ex.html
