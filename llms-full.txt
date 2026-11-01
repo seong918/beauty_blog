@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## belif Moisturizing Bomb / Aqua Bomb: What 10,078 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/belif-moisturizing-bomb-aqua-bomb.html
+- Published: 2026-11-01
+- Summary: belif Moisturizing Bomb / Aqua Bomb listing analysis: 4.9 stars from 10,078 Olive Young Korea review records, skincare rank 5, star shares, shopper polls, themes, and option-level limits.
+- Rating: 4.9 / 5 from 10,078 reviews (5★ 93% · 4★ 5% · 3★ 2% · 2★ 0% · 1★ 0%)
+- Skin-type poll: dry 47% · combination 45% · oily 8%
+- Concern poll: hydration 78% · soothing 22% · wrinkle / brightening 1% (rounded shares total 101%)
+- Irritation poll: gentle 79% · ordinary 20% · felt irritation 1%
+- Anonymous recent-summary signal: 96% positive; broad themes around lasting moisture impressions, makeup preparation, and mild-feeling use.
+- Limits: the listing combines Moisturizing Bomb and Aqua Bomb options; aggregates are not option-separated. No individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, verified formula details, or universal suitability claim.
+
 ## Medicube AGE-R Booster Pro X2: What 53 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/medicube-age-r-booster-pro-x2.html

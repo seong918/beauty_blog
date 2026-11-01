@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Brand-neutral rich cream and gel-cream format illustration</title>
+<desc id="desc">Abstract cream dollop and translucent gel-cream sweep on a neutral background, not an actual product image.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef6f2"/><stop offset="1" stop-color="#f7efe1"/></linearGradient><linearGradient id="gel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b8ded7" stop-opacity=".9"/><stop offset="1" stop-color="#effaf8" stop-opacity=".6"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#6b817d" flood-opacity=".18"/></filter></defs>
+<rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+<text x="70" y="82" font-family="system-ui,sans-serif" font-size="25" font-weight="700" fill="#315d61">GENERIC CREAM-FORMAT CONTEXT</text>
+<text x="70" y="124" font-family="system-ui,sans-serif" font-size="18" fill="#637174">Abstract illustration only · no product, package, reviewer, or use-test image</text>
+<g filter="url(#shadow)"><path d="M170 544c68-170 213-278 366-248 82 16 132 72 109 139-31 90-205 84-310 139-75 39-124 93-165 63-24-18-24-54 0-93z" fill="#fffdf8"/><path d="M720 542c35-126 122-236 236-257 105-19 174 32 153 98-28 88-167 113-251 180-62 50-113 92-150 64-22-17-18-48 12-85z" fill="url(#gel)"/></g>
+<path d="M209 554c100-84 211-129 344-137" fill="none" stroke="#e9ded0" stroke-width="16" stroke-linecap="round" opacity=".7"/><path d="M755 555c85-98 183-155 291-181" fill="none" stroke="#d5f1eb" stroke-width="15" stroke-linecap="round" opacity=".8"/>
+<g font-family="system-ui,sans-serif" text-anchor="middle"><text x="408" y="690" font-size="25" font-weight="700" fill="#315d61">RICH CREAM SHAPE</text><text x="914" y="690" font-size="25" font-weight="700" fill="#315d61">GEL-CREAM SHAPE</text><text x="600" y="752" font-size="17" fill="#667477">These shapes do not represent the color, viscosity, finish, or formula of either listing option.</text></g>
+</svg>
