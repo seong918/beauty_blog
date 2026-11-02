@@ -2,6 +2,17 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## medicube PDRN Pink Collagen Glow Jelly Mist: What 5,524 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/medicube-pdrn-pink-collagen-glow-jelly-mist.html
+- Published: 2026-11-02
+- Summary: medicube PDRN Pink Collagen Glow Jelly Mist analysis: 4.7 stars from 5,524 Olive Young Korea review records, skincare rank 2, star shares, shopper polls, and evidence limits.
+- Rating: 4.7 / 5 from 5,524 reviews (5★ 79% · 4★ 13% · 3★ 6% · 2★ 2% · 1★ 1%; rounded shares total 101%)
+- Skin-type poll: dry 47% · combination 47% · oily 6%
+- Concern poll: hydration 74% · soothing 19% · wrinkle / brightening 7%
+- Irritation poll: gentle 72% · ordinary 26% · felt irritation 2%
+- Anonymous aggregate themes: no usable official theme summary was exposed, so none is inferred.
+- Limits: no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, verified formula details, PDRN source or concentration, collagen measurement, or universal suitability claim.
 ## belif Moisturizing Bomb / Aqua Bomb: What 10,078 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/belif-moisturizing-bomb-aqua-bomb.html

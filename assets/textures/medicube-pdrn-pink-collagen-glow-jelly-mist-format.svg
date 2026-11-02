@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Brand-neutral facial mist and gel-like format illustration</title>
+<desc id="desc">Abstract mist droplets and a translucent gel-like sweep on a neutral background, not an actual product image.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff3f7"/><stop offset="1" stop-color="#eeeafa"/></linearGradient><linearGradient id="gel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efb8d2" stop-opacity=".92"/><stop offset="1" stop-color="#f9e6f0" stop-opacity=".55"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#704b65" flood-opacity=".18"/></filter></defs>
+<rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+<text x="70" y="82" font-family="system-ui,sans-serif" font-size="25" font-weight="700" fill="#7f4568">GENERIC MIST-FORMAT CONTEXT</text>
+<text x="70" y="124" font-family="system-ui,sans-serif" font-size="18" fill="#746675">Abstract illustration only · no product, package, reviewer, or use-test image</text>
+<g fill="#c66d99" opacity=".72"><circle cx="250" cy="315" r="13"/><circle cx="332" cy="248" r="9"/><circle cx="401" cy="333" r="16"/><circle cx="478" cy="267" r="7"/><circle cx="535" cy="366" r="12"/><circle cx="294" cy="431" r="8"/><circle cx="448" cy="457" r="11"/></g>
+<g fill="none" stroke="#d88caf" stroke-linecap="round" opacity=".55"><path d="M174 541c82-88 175-151 283-193" stroke-width="16"/><path d="M197 575c111-66 222-103 336-113" stroke-width="10"/></g>
+<g filter="url(#shadow)"><path d="M687 544c42-139 141-248 260-256 103-7 164 52 136 115-36 82-173 95-260 155-67 46-124 91-158 58-20-20-11-49 22-72z" fill="url(#gel)"/></g>
+<path d="M724 560c91-90 187-143 292-163" fill="none" stroke="#f8ddea" stroke-width="15" stroke-linecap="round" opacity=".85"/>
+<g font-family="system-ui,sans-serif" text-anchor="middle"><text x="360" y="690" font-size="25" font-weight="700" fill="#7f4568">MIST CLOUD</text><text x="890" y="690" font-size="25" font-weight="700" fill="#7f4568">GEL-LIKE SWEEP</text><text x="600" y="752" font-size="17" fill="#746675">These shapes do not represent the product's spray, color, viscosity, scent, finish, or formula.</text></g>
+</svg>
