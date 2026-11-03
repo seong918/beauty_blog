@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## BIOHEAL BOH Probioderm 3D Lifting Ampoule: What 1,671 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/bioheal-boh-probioderm-3d-lifting-ampoule.html
+- Published: 2026-11-03
+- Summary: BIOHEAL BOH Probioderm 3D Lifting Ampoule analysis: 4.8 stars from 1,671 Olive Young Korea review records, skincare rank 20, star shares, shopper polls, themes, and evidence limits.
+- Rating: 4.8 / 5 from 1,671 reviews (5★ 89% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 0%; rounded shares total 99%)
+- Skin-type poll: dry 53% · combination 43% · oily 3% (rounded shares total 99%)
+- Concern poll: hydration 53% · wrinkle / brightening 27% · soothing 20%
+- Irritation poll: gentle 67% · ordinary 31% · felt irritation 2%
+- Anonymous recent-summary signal: 91% positive; broad themes around firmness impressions, moisture retention, and mild-feeling use.
+- Limits: retailer-displayed rounded aggregates and automated themes; no individual review text, reviewer identity, product photo, use test, clinical lifting or hydration endpoint, verified formula details, ingredient concentration, or universal suitability claim.
+
 ## medicube PDRN Pink Collagen Glow Jelly Mist: What 5,524 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/medicube-pdrn-pink-collagen-glow-jelly-mist.html
