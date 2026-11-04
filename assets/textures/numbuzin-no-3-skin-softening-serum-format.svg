@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Brand-neutral serum-format illustration</title>
+<desc id="desc">Abstract translucent serum drop and smooth fluid ribbons on a warm neutral background, not an actual product image.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff9ef"/><stop offset="1" stop-color="#eef3e8"/></linearGradient><linearGradient id="serum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9c287" stop-opacity=".92"/><stop offset="1" stop-color="#eef0d5" stop-opacity=".62"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#56603f" flood-opacity=".2"/></filter></defs>
+<rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+<text x="70" y="82" font-family="system-ui,sans-serif" font-size="25" font-weight="700" fill="#68764b">GENERIC SERUM-FORMAT CONTEXT</text>
+<text x="70" y="124" font-family="system-ui,sans-serif" font-size="18" fill="#6e7465">Abstract illustration only · no product, package, reviewer, or use-test image</text>
+<g filter="url(#shadow)"><path d="M352 225c-42 81-119 163-119 264 0 96 78 174 174 174s174-78 174-174c0-101-77-183-119-264-24-47-86-47-110 0z" fill="url(#serum)"/></g>
+<path d="M309 486c24 68 85 107 151 93" fill="none" stroke="#fffaf0" stroke-width="18" stroke-linecap="round" opacity=".85"/>
+<g filter="url(#shadow)"><path d="M655 373c79-87 208-121 315-75 86 37 111 113 54 150-70 45-177-5-279 1-80 5-157 24-166-19-6-28 25-51 76-57z" fill="url(#serum)"/></g>
+<g filter="url(#shadow)"><path d="M673 530c93-49 223-44 311 18 69 49 76 122 17 145-74 29-164-30-255-39-71-7-144-3-146-43-1-26 28-53 73-81z" fill="url(#serum)" opacity=".84"/></g>
+<g font-family="system-ui,sans-serif" text-anchor="middle"><text x="407" y="715" font-size="25" font-weight="700" fill="#68764b">SERUM DROP</text><text x="850" y="715" font-size="25" font-weight="700" fill="#68764b">FLUID RIBBONS</text><text x="600" y="762" font-size="17" fill="#6e7465">These shapes do not represent the product's color, viscosity, scent, finish, formula, or performance.</text></g>
+</svg>

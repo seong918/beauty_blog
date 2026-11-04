@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## numbuzin No.3 Skin Softening Serum: What 10,260 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/numbuzin-no-3-skin-softening-serum.html
+- Published: 2026-11-04
+- Summary: numbuzin No.3 Skin Softening Serum analysis: 4.8 stars from 10,260 Olive Young Korea review records, skincare rank 7, star shares, shopper polls, and evidence limits.
+- Rating: 4.8 / 5 from 10,260 reviews (5★ 88% · 4★ 8% · 3★ 3% · 2★ 1% · 1★ 1%; rounded shares total 101%)
+- Skin-type poll: combination 61% · dry 27% · oily 12%
+- Concern poll: hydration 54% · soothing 23% · wrinkle / brightening 22% (rounded shares total 99%)
+- Irritation poll: gentle 61% · ordinary 37% · felt irritation 2%
+- Anonymous aggregate themes: no usable official theme summary was exposed, so none is inferred.
+- Limits: retailer-displayed rounded aggregates; no individual review text, reviewer identity, product photo, use test, pore or texture endpoint, clinical hydration endpoint, verified formula details, ingredient concentration, or universal suitability claim.
+
 ## BIOHEAL BOH Probioderm 3D Lifting Ampoule: What 1,671 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/bioheal-boh-probioderm-3d-lifting-ampoule.html
