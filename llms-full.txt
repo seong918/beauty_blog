@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## BIOHEAL BOH Shurink Home Skin Booster × Collagen Serum: What 1,293 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/bioheal-boh-shurink-home-skin-booster-collagen-serum.html
+- Published: 2026-11-05
+- Summary: BIOHEAL BOH Shurink Home Skin Booster × Collagen Serum analysis: 4.8 stars from 1,293 Olive Young Korea review records, skincare rank 12, star shares, shopper polls, themes, and evidence limits.
+- Rating: 4.8 / 5 from 1,293 reviews (5★ 86% · 4★ 11% · 3★ 2% · 2★ 0% · 1★ 1%)
+- Skin-type poll: combination 54% · dry 39% · oily 7%
+- Concern poll: hydration 44% · wrinkle / brightening 30% · soothing 27% (rounded shares total 101%)
+- Irritation poll: gentle 59% · ordinary 35% · felt irritation 6%
+- Anonymous recent-summary signal: 91% positive; broad themes around firmness or pore impressions, moisture and spreadability, and makeup adherence.
+- Limits: retailer-displayed rounded aggregates and automated themes; no individual review text, reviewer identity, product or device photo, firsthand use, clinical or instrument endpoint, device-performance evidence, collagen source or concentration, verified formula details, or universal suitability claim.
+
 ## numbuzin No.3 Skin Softening Serum: What 10,260 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/numbuzin-no-3-skin-softening-serum.html
