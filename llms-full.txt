@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Anua Heartleaf 77 Hyaluronic Soothing Toner: What 2,614 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/anua-heartleaf-77-hyaluronic-soothing-toner.html
+- Published: 2026-11-06
+- Summary: Anua Heartleaf 77 Hyaluronic Soothing Toner analysis: 4.8 stars from 2,614 Olive Young Korea review records, skincare rank 4, star shares, shopper polls, and evidence limits.
+- Rating: 4.8 / 5 from 2,614 reviews (5★ 88% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 1%; rounded shares total 99%)
+- Skin-type poll: combination 57% · dry 27% · oily 16%
+- Concern poll: soothing 62% · hydration 37% · wrinkle / brightening 1%
+- Irritation poll: gentle 71% · ordinary 26% · felt irritation 2% (rounded shares total 99%)
+- Anonymous aggregate themes: no usable official theme summary was exposed, so none is inferred.
+- Limits: retailer-displayed rounded aggregates; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, verified formula details, heartleaf or hyaluronic-acid concentration, or universal suitability claim.
+
 ## BIOHEAL BOH Shurink Home Skin Booster × Collagen Serum: What 1,293 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/bioheal-boh-shurink-home-skin-booster-collagen-serum.html
