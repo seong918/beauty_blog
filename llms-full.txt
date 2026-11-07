@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Torriden Balanceful Cica Control Serum: What 6,744 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/torriden-balanceful-cica-control-serum.html
+- Published: 2026-11-07
+- Summary: Torriden Balanceful Cica Control Serum analysis: 4.7 stars from 6,744 Olive Young Korea review records, skincare rank 31, star shares, shopper polls, themes, and evidence limits.
+- Rating: 4.7 / 5 from 6,744 reviews (5★ 79% · 4★ 14% · 3★ 5% · 2★ 1% · 1★ 1%)
+- Skin-type poll: combination 59% · dry 22% · oily 19%
+- Concern poll: soothing 76% · hydration 23% · wrinkle / brightening 1%
+- Irritation poll: gentle 69% · ordinary 29% · felt irritation 2%
+- Anonymous aggregate themes: 87% positive in the retailer's undisclosed recent-summary subset; broad themes concerned calming or visible-redness impressions, mild-feeling use, and light moisture or non-greasy absorption.
+- Limits: retailer-displayed rounded aggregates; automated-summary method and sample size undisclosed; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, verified formula details, cica or centella concentration, or universal suitability claim.
+
 ## Anua Heartleaf 77 Hyaluronic Soothing Toner: What 2,614 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/anua-heartleaf-77-hyaluronic-soothing-toner.html
