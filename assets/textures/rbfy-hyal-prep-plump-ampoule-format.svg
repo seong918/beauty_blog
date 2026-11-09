@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral ampoule-format illustration</title>
+  <desc id="desc">An abstract code-drawn illustration of translucent green-blue liquid layers, rounded drops, suspended bubbles, and concentric ripples. It does not depict the Rbfy product or packaging.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fcfa"/><stop offset="1" stop-color="#dceee6"/></linearGradient>
+    <linearGradient id="liquid" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c4e6d8" stop-opacity=".94"/><stop offset="1" stop-color="#6bb295" stop-opacity=".6"/></linearGradient>
+    <radialGradient id="drop"><stop stop-color="#fff" stop-opacity=".97"/><stop offset=".56" stop-color="#ccecdf" stop-opacity=".84"/><stop offset="1" stop-color="#63a88d" stop-opacity=".52"/></radialGradient>
+  </defs>
+  <rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+  <ellipse cx="600" cy="620" rx="438" ry="102" fill="#b7dcca" opacity=".44"/>
+  <ellipse cx="600" cy="620" rx="322" ry="66" fill="#f1faf6" stroke="#83baa3" stroke-width="4"/>
+  <path d="M210 590 C340 480 470 552 600 495 C730 438 856 512 990 590 C880 690 320 690 210 590Z" fill="url(#liquid)"/>
+  <path d="M300 577 C425 500 535 568 620 520 C710 470 805 520 900 577" fill="none" stroke="#f3fbf7" stroke-width="18" stroke-linecap="round" opacity=".82"/>
+  <g fill="url(#drop)" stroke="#5c9f84" stroke-width="3">
+    <path d="M458 150 C458 150 382 270 382 328 C382 383 416 419 458 419 C500 419 534 383 534 328 C534 270 458 150 458 150Z"/>
+    <path d="M694 100 C694 100 628 202 628 250 C628 298 658 328 694 328 C730 328 760 298 760 250 C760 202 694 100 694 100Z"/>
+    <circle cx="820" cy="390" r="49"/><circle cx="336" cy="454" r="33"/><circle cx="884" cy="263" r="21"/><circle cx="568" cy="454" r="24"/>
+  </g>
+  <g fill="none" stroke="#69a88e" opacity=".55"><ellipse cx="600" cy="620" rx="478" ry="132" stroke-width="3"/><ellipse cx="600" cy="620" rx="540" ry="163" stroke-width="2"/></g>
+  <text x="600" y="738" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing=".6" fill="#52786a">BRAND-NEUTRAL LIQUID-FORMAT VISUAL · NOT A PRODUCT IMAGE</text>
+</svg>

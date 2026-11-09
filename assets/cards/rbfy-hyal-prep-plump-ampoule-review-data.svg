@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Rbfy Hyal Prep Plump Ampoule aggregate review data</title>
+  <desc id="desc">Skincare sales rank 3, 5.0 stars from 270 review records, 100 percent five-star, and leading shopper poll shares of 49 percent dry skin, 86 percent moisture concern, and 92 percent gentle response.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fbf7"/><stop offset="1" stop-color="#e4f1ea"/></linearGradient></defs>
+  <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+  <circle cx="1090" cy="70" r="172" fill="#d4e9dd" opacity=".8"/>
+  <circle cx="1028" cy="575" r="210" fill="#e1f0e8" opacity=".92"/>
+  <text x="70" y="92" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" fill="#39725f">THE K-BEAUTY DATA DESK</text>
+  <text x="70" y="146" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" fill="#203f35">Rbfy Hyal Prep Plump Ampoule</text>
+  <text x="70" y="196" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#5f756d">Olive Young Korea aggregate display · captured 2026-11-09</text>
+  <g transform="translate(70 245)">
+    <rect width="300" height="255" rx="22" fill="#fff" stroke="#c9dfd4" stroke-width="2"/>
+    <text x="28" y="49" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#60786f">SKINCARE SALES RANK</text>
+    <text x="28" y="145" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="700" fill="#3d8a70">#3</text>
+    <text x="28" y="205" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#60786f">dated position, not quality</text>
+  </g>
+  <g transform="translate(395 245)">
+    <rect width="300" height="255" rx="22" fill="#fff" stroke="#c9dfd4" stroke-width="2"/>
+    <text x="28" y="49" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#60786f">AGGREGATE RATING</text>
+    <text x="28" y="145" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="700" fill="#3d8a70">5.0</text>
+    <text x="28" y="190" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#405d53">270 records</text>
+    <text x="28" y="224" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#60786f">100% displayed at five stars</text>
+  </g>
+  <g transform="translate(720 245)">
+    <rect width="410" height="255" rx="22" fill="#fff" stroke="#c9dfd4" stroke-width="2"/>
+    <text x="28" y="49" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#60786f">LEADING SHOPPER-POLL SHARES</text>
+    <text x="28" y="105" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" fill="#3d8a70">49% dry skin</text>
+    <text x="28" y="153" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" fill="#3d8a70">86% moisture concern</text>
+    <text x="28" y="201" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" fill="#3d8a70">92% gentle response</text>
+    <text x="28" y="231" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#60786f">rounded, self-reported interface values</text>
+  </g>
+  <text x="70" y="565" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#5f756d">Retail signals only · no product photo · no firsthand or clinical claim</text>
+</svg>

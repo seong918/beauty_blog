@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Rbfy Hyal Prep Plump Ampoule: What 270 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/rbfy-hyal-prep-plump-ampoule.html
+- Published: 2026-11-09
+- Summary: Rbfy Hyal Prep Plump Ampoule analysis: 5.0 stars from 270 Olive Young Korea review records, skincare rank 3, star shares, shopper polls, and evidence limits.
+- Rating: 5.0 / 5 from 270 reviews (5★ 100% · 4★ 0% · 3★ 0% · 2★ 0% · 1★ 0%)
+- Skin-type poll: dry 49% · combination 43% · oily 8%
+- Concern poll: hydration 86% · soothing 12% · wrinkle / brightening 2%
+- Irritation poll: gentle 92% · ordinary 7% · felt irritation 1%
+- Aggregate themes: no reliable retailer-generated theme summary was exposed; none was inferred from individual review text.
+- Limits: retailer-displayed rounded aggregates; modest 270-record base; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, verified formula details, ingredient concentration, or universal suitability claim.
+
 ## AESTURA Atobarrier 365 Hydro Cera-HA Ampoule: What 8,237 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/aestura-atobarrier-365-hydro-cera-ha-ampoule.html
