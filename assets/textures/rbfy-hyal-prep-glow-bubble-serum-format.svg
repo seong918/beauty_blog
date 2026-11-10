@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Generic bubble-serum format illustration</title>
+  <desc id="desc">A brand-neutral abstract scene of translucent bubbles settling into soft fluid layers. It does not depict a real product, package, person, or use result.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5fcfd"/><stop offset=".55" stop-color="#dceff4"/><stop offset="1" stop-color="#c9e2eb"/></linearGradient>
+    <radialGradient id="bubble" cx="35%" cy="28%"><stop stop-color="#fff" stop-opacity=".95"/><stop offset=".55" stop-color="#dff7fb" stop-opacity=".55"/><stop offset="1" stop-color="#5ba5ba" stop-opacity=".2"/></radialGradient>
+    <linearGradient id="fluid" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#78b9c8" stop-opacity=".22"/><stop offset=".5" stop-color="#fff" stop-opacity=".7"/><stop offset="1" stop-color="#5d9eb2" stop-opacity=".3"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+  <ellipse cx="600" cy="650" rx="455" ry="78" fill="#55889a" opacity=".12" filter="url(#soft)"/>
+  <path d="M120 575 C250 470 365 635 500 545 C650 445 755 610 1080 485 L1080 690 L120 690 Z" fill="url(#fluid)"/>
+  <path d="M145 610 C330 520 390 670 585 565 C760 470 900 610 1050 550" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="12" stroke-linecap="round"/>
+  <g fill="url(#bubble)" stroke="#fff" stroke-opacity=".75">
+    <circle cx="308" cy="360" r="95" stroke-width="6"/><circle cx="460" cy="295" r="64" stroke-width="5"/><circle cx="575" cy="390" r="116" stroke-width="7"/><circle cx="770" cy="300" r="84" stroke-width="6"/><circle cx="896" cy="410" r="108" stroke-width="7"/>
+    <circle cx="220" cy="245" r="38" stroke-width="4"/><circle cx="376" cy="165" r="44" stroke-width="4"/><circle cx="610" cy="175" r="52" stroke-width="5"/><circle cx="820" cy="155" r="34" stroke-width="4"/><circle cx="1010" cy="250" r="48" stroke-width="4"/>
+  </g>
+  <g fill="#fff" opacity=".9"><circle cx="278" cy="320" r="16"/><circle cx="548" cy="345" r="20"/><circle cx="742" cy="274" r="14"/><circle cx="856" cy="370" r="19"/><circle cx="355" cy="146" r="10"/><circle cx="592" cy="151" r="12"/></g>
+  <text x="78" y="85" font-family="system-ui,-apple-system,sans-serif" font-size="24" font-weight="700" fill="#356a85" letter-spacing="2">GENERIC FORMAT STUDY</text>
+  <text x="78" y="130" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#526772">Abstract bubble-to-fluid transition · not an actual product or use test</text>
+</svg>

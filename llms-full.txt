@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Rbfy Hyal Prep Glow Bubble Serum: What 11 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/rbfy-hyal-prep-glow-bubble-serum.html
+- Published: 2026-11-10
+- Summary: Rbfy Hyal Prep Glow Bubble Serum analysis: 5.0 stars from 11 Olive Young Korea review records, skincare rank 18, star shares, shopper polls, and strict small-sample limits.
+- Rating: 5.0 / 5 from 11 reviews (5★ 100% · 4★ 0% · 3★ 0% · 2★ 0% · 1★ 0%)
+- Skin-type poll: dry 45% · combination 45% · oily 9% (rounded shares total 99%)
+- Concern poll: hydration 100% · soothing 0% · wrinkle / brightening 0%
+- Irritation poll: gentle 100% · ordinary 0% · felt irritation 0%
+- Aggregate themes: no reliable retailer-generated theme summary was exposed; none was inferred from individual review text.
+- Limits: retailer-displayed rounded aggregates; exceptionally small 11-record base; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, verified formula details, ingredient concentration, bubble behavior test, or universal suitability claim.
+
 ## Rbfy Hyal Prep Plump Ampoule: What 270 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/rbfy-hyal-prep-plump-ampoule.html
