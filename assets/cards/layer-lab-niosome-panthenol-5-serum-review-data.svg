@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Layer Lab Niosome Panthenol 5% Serum review data</title>
+  <desc id="desc">Skincare sales rank 17, 4.9 stars from 3,919 review records, with displayed shopper-poll leaders.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4f7ff"/><stop offset="1" stop-color="#e8f6f4"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6478c8"/><stop offset="1" stop-color="#47a69a"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="30" fill="url(#bg)"/>
+  <circle cx="1070" cy="88" r="155" fill="#fff" opacity=".48"/><circle cx="1090" cy="565" r="210" fill="#d9e7ff" opacity=".42"/>
+  <text x="70" y="78" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#536172" letter-spacing="2">THE K-BEAUTY DATA DESK</text>
+  <text x="70" y="137" font-family="Arial, sans-serif" font-size="40" font-weight="800" fill="#1e2b3d">Layer Lab Niosome Panthenol 5% Serum</text>
+  <text x="70" y="178" font-family="Arial, sans-serif" font-size="24" fill="#58697b">Olive Young Korea aggregate snapshot · 2026-11-11</text>
+  <g transform="translate(70 220)">
+    <rect width="310" height="148" rx="20" fill="#fff" opacity=".92"/><text x="28" y="44" font-family="Arial, sans-serif" font-size="22" fill="#657486">SKINCARE SALES RANK</text><text x="28" y="116" font-family="Arial, sans-serif" font-size="66" font-weight="800" fill="#5268bf">#17</text>
+    <rect x="335" width="360" height="148" rx="20" fill="#fff" opacity=".92"/><text x="363" y="44" font-family="Arial, sans-serif" font-size="22" fill="#657486">DISPLAYED RATING</text><text x="363" y="108" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#1f786f">4.9 / 5</text><text x="563" y="108" font-family="Arial, sans-serif" font-size="22" fill="#657486">3,919 records</text>
+  </g>
+  <g transform="translate(70 405)" font-family="Arial, sans-serif">
+    <text x="0" y="0" font-size="22" font-weight="700" fill="#344457">DISPLAYED POLL LEADERS</text>
+    <text x="0" y="51" font-size="24" fill="#344457">Dry skin</text><rect x="190" y="27" width="520" height="28" rx="14" fill="#dbe4ef"/><rect x="190" y="27" width="265" height="28" rx="14" fill="url(#bar)"/><text x="730" y="51" font-size="24" font-weight="700" fill="#344457">51%</text>
+    <text x="0" y="101" font-size="24" fill="#344457">Moisture</text><rect x="190" y="77" width="520" height="28" rx="14" fill="#dbe4ef"/><rect x="190" y="77" width="322" height="28" rx="14" fill="url(#bar)"/><text x="730" y="101" font-size="24" font-weight="700" fill="#344457">62%</text>
+    <text x="0" y="151" font-size="24" fill="#344457">Gentle response</text><rect x="190" y="127" width="520" height="28" rx="14" fill="#dbe4ef"/><rect x="190" y="127" width="452" height="28" rx="14" fill="url(#bar)"/><text x="730" y="151" font-size="24" font-weight="700" fill="#344457">87%</text>
+  </g>
+  <text x="875" y="465" font-family="Arial, sans-serif" font-size="19" fill="#5f7080">Retailer-displayed, rounded aggregates</text>
+  <text x="875" y="500" font-family="Arial, sans-serif" font-size="19" fill="#5f7080">No product or reviewer photo</text>
+  <text x="875" y="535" font-family="Arial, sans-serif" font-size="19" fill="#5f7080">Not a clinical efficacy result</text>
+</svg>

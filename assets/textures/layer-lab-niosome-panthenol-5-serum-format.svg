@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral serum format illustration</title>
+  <desc id="desc">Abstract translucent serum ribbons and droplets on a pale blue and green field, without product packaging or human skin.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef3ff"/><stop offset=".55" stop-color="#f7fbff"/><stop offset="1" stop-color="#e2f4ef"/></linearGradient>
+    <linearGradient id="serum" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".9"/><stop offset=".45" stop-color="#aebcf0" stop-opacity=".58"/><stop offset="1" stop-color="#72c4b6" stop-opacity=".7"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#5e7097" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+  <ellipse cx="610" cy="622" rx="430" ry="78" fill="#9fb5c8" opacity=".16"/>
+  <path d="M185 466C284 272 420 225 542 334c91 82 137 91 221 1 105-112 229-54 273 91 24 80-28 152-122 167-116 18-212-56-316-28-125 34-238 103-353 34-58-35-90-77-60-133z" fill="url(#serum)" filter="url(#shadow)"/>
+  <path d="M252 486c122-88 207-89 304-22 96 67 171 63 287-17 64-44 133-45 181-19-48 85-130 118-218 98-113-25-176-2-275 31-109 36-209 18-279-71z" fill="#fff" opacity=".46"/>
+  <g fill="#fff" opacity=".76" stroke="#8da9cb" stroke-opacity=".3">
+    <circle cx="303" cy="233" r="47"/><circle cx="407" cy="174" r="25"/><circle cx="825" cy="210" r="57"/><circle cx="916" cy="298" r="24"/><circle cx="710" cy="142" r="18"/>
+  </g>
+  <g fill="#7ebdb4" opacity=".32"><circle cx="303" cy="233" r="15"/><circle cx="825" cy="210" r="19"/><circle cx="916" cy="298" r="8"/></g>
+  <path d="M610 160c32 45 57 77 57 112a57 57 0 1 1-114 0c0-35 25-67 57-112z" fill="#fff" opacity=".78" stroke="#7f9fc4" stroke-opacity=".35"/>
+</svg>

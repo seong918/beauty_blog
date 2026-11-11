@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Layer Lab Niosome Panthenol 5% Serum: What 3,919 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/layer-lab-niosome-panthenol-5-serum.html
+- Published: 2026-11-11
+- Summary: Layer Lab Niosome Panthenol 5% Serum analysis: 4.9 stars from 3,919 Olive Young Korea review records, skincare rank 17, star shares, shopper polls, and evidence limits.
+- Rating: 4.9 / 5 from 3,919 reviews (5★ 96% · 4★ 3% · 3★ 1% · 2★ 0% · 1★ 0%)
+- Skin-type poll: dry 51% · combination 43% · oily 6%
+- Concern poll: hydration 62% · soothing 31% · wrinkle / brightening 7%
+- Irritation poll: gentle 87% · ordinary 12% · felt irritation 1%
+- Aggregate themes: no reliable retailer-generated theme summary was used; none was inferred from individual review text.
+- Limits: retailer-displayed rounded aggregates; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula or concentration, niosome-delivery evidence, or universal suitability claim.
+
 ## Rbfy Hyal Prep Glow Bubble Serum: What 11 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/rbfy-hyal-prep-glow-bubble-serum.html
