@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Dr.G Red Blemish Clear Hyal Cica Soothing Serum: What 6,603 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/dr-g-red-blemish-clear-hyal-cica-soothing-serum.html
+- Published: 2026-11-12
+- Summary: Dr.G Red Blemish Clear Hyal Cica Soothing Serum analysis: 4.8 stars from 6,603 Olive Young Korea review records, skincare rank 15, star shares, shopper polls, and evidence limits.
+- Rating: 4.8 / 5 from 6,603 reviews (5★ 85% · 4★ 10% · 3★ 3% · 2★ 1% · 1★ 1%)
+- Skin-type poll: combination 51% · dry 27% · oily 22%
+- Concern poll: soothing 65% · hydration 35% · wrinkle / brightening 1% (rounded shares total 101%)
+- Irritation poll: gentle 80% · ordinary 19% · felt irritation 1%
+- Aggregate themes: no reliable retailer-generated theme summary was used; none was inferred from individual review text.
+- Limits: retailer-displayed rounded aggregates; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, verified formula details, proprietary-complex definition, ingredient concentration, or universal suitability claim.
+
 ## Layer Lab Niosome Panthenol 5% Serum: What 3,919 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/layer-lab-niosome-panthenol-5-serum.html

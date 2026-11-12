@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Dr.G Red Blemish Clear Hyal Cica Soothing Serum review data</title>
+  <desc id="desc">Skincare rank 15, rating 4.8 from 6,603 records, with leading poll responses combination 51 percent, soothing 65 percent, and gentle 80 percent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#edf8f6"/><stop offset="1" stop-color="#e6eff8"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#35636c" flood-opacity=".12"/></filter>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)"/>
+  <circle cx="1080" cy="90" r="170" fill="#c8e9e2" opacity=".55"/>
+  <circle cx="90" cy="590" r="180" fill="#cddff0" opacity=".5"/>
+  <text x="70" y="82" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="2" fill="#48727c">THE K-BEAUTY DATA DESK</text>
+  <text x="70" y="138" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="750" fill="#183b46">Dr.G Red Blemish Clear</text>
+  <text x="70" y="188" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="750" fill="#183b46">Hyal Cica Soothing Serum</text>
+  <g filter="url(#shadow)">
+    <rect x="70" y="235" width="320" height="235" rx="24" fill="#fff"/>
+    <rect x="420" y="235" width="710" height="235" rx="24" fill="#fff"/>
+  </g>
+  <text x="100" y="282" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#60717a">CAPTURED RATING</text>
+  <text x="100" y="364" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" fill="#2f7583">4.8</text>
+  <text x="252" y="360" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#3f525a">/ 5</text>
+  <text x="100" y="414" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#394d55">6,603 review records</text>
+  <text x="100" y="449" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#718088">Skincare sales rank 15</text>
+  <text x="455" y="282" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#60717a">LEADING SHOPPER-POLL RESPONSES</text>
+  <text x="455" y="346" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#23434d">Combination skin</text>
+  <rect x="765" y="321" width="300" height="28" rx="14" fill="#e4edf0"/><rect x="765" y="321" width="153" height="28" rx="14" fill="#6eb8bb"/><text x="1080" y="345" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#23434d">51%</text>
+  <text x="455" y="401" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#23434d">Soothing concern</text>
+  <rect x="765" y="376" width="300" height="28" rx="14" fill="#e4edf0"/><rect x="765" y="376" width="195" height="28" rx="14" fill="#5da6b2"/><text x="1080" y="400" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#23434d">65%</text>
+  <text x="455" y="456" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" fill="#23434d">Gentle response</text>
+  <rect x="765" y="431" width="300" height="28" rx="14" fill="#e4edf0"/><rect x="765" y="431" width="240" height="28" rx="14" fill="#4b8ea2"/><text x="1080" y="455" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#23434d">80%</text>
+  <text x="70" y="535" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" fill="#395963">Captured November 12, 2026 · retailer-displayed rounded aggregates</text>
+  <text x="70" y="574" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#637780">Not a clinical test, product photograph, or personal-use claim</text>
+</svg>
