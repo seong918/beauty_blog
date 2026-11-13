@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Bring Green Tea Tree Cica Soothing Toner: What 44,602 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/bring-green-tea-tree-cica-soothing-toner.html
+- Published: 2026-11-13
+- Summary: Bring Green Tea Tree Cica Soothing Toner analysis: 4.8 stars from 44,602 Olive Young Korea review records, skincare rank 63, star shares, shopper polls, themes, and evidence limits.
+- Rating: 4.8 / 5 from 44,602 reviews (5★ 85% · 4★ 11% · 3★ 3% · 2★ 0% · 1★ 1%)
+- Skin-type poll: combination 53% · oily 31% · dry 16%
+- Concern poll: soothing 77% · hydration 23% · wrinkle / brightening 1% (rounded shares total 101%)
+- Irritation poll: gentle 64% · ordinary 34% · felt irritation 3% (rounded shares total 101%)
+- Aggregate themes: 88% recent-positive classification; broad topics were large-size value, soothing impressions, and a light or fresh-feeling use experience. These are automated anonymous aggregate labels, not efficacy findings.
+- Limits: retailer-displayed rounded aggregates; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, verified formula details, ingredient concentration, exact poll denominator, or universal suitability claim.
+
 ## Dr.G Red Blemish Clear Hyal Cica Soothing Serum: What 6,603 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/dr-g-red-blemish-clear-hyal-cica-soothing-serum.html
