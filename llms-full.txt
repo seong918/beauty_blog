@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Favorite Smooth Cream: What 548 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/favorite-smooth-cream.html
+- Published: 2026-11-14
+- Summary: Favorite Smooth Cream analysis: 5.0 stars from 548 Olive Young Korea review records, skincare rank 10, star share, shopper polls, and evidence limits.
+- Rating: 5.0 / 5 from 548 reviews (5★ 100%; no other star rows were exposed)
+- Skin-type poll: dry 46% · combination 46% · oily 8%
+- Concern poll: hydration 81% · soothing 12% · wrinkle / brightening 7%
+- Irritation poll: gentle 93% · ordinary 5% · felt irritation 1% (rounded shares total 99%)
+- Aggregate themes: no reliable retailer-generated theme summary was exposed; none was inferred from individual review text.
+- Limits: retailer-displayed rounded aggregates; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, verified formula details, ingredient concentration, exact poll denominator, raw star counts, or universal suitability claim.
+
 ## Bring Green Tea Tree Cica Soothing Toner: What 44,602 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/bring-green-tea-tree-cica-soothing-toner.html

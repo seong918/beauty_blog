@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral cream format illustration</title>
+  <desc id="desc">An abstract code-drawn swirl of pale cream on a soft green and beige background. It is not a product photograph.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eff4ec"/>
+      <stop offset=".55" stop-color="#f8f1e7"/>
+      <stop offset="1" stop-color="#dce9df"/>
+    </linearGradient>
+    <radialGradient id="cream" cx="42%" cy="34%" r="70%">
+      <stop offset="0" stop-color="#fffefb"/>
+      <stop offset=".58" stop-color="#f7f0e5"/>
+      <stop offset="1" stop-color="#e8dccb"/>
+    </radialGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="28" stdDeviation="30" flood-color="#385545" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="800" rx="36" fill="url(#bg)"/>
+  <path d="M113 170C251 30 421 53 485 154c46 72 22 154-86 196-126 50-242 10-286-73-20-39-18-75 0-107Z" fill="#b8d0bd" opacity=".32"/>
+  <path d="M1014 653c-137 131-316 112-370 3-44-88 20-180 151-209 140-31 261 24 282 111 9 38-12 72-63 95Z" fill="#dec2a2" opacity=".29"/>
+  <ellipse cx="600" cy="600" rx="386" ry="90" fill="#426251" opacity=".11"/>
+  <g filter="url(#soft)">
+    <path d="M332 532c-47-87 11-164 116-188 31-7 59-20 77-44 46-60 132-80 205-45 60 29 83 83 62 132 91 15 139 63 124 121-22 84-180 137-345 122-116-10-203-42-239-98Z" fill="url(#cream)"/>
+    <path d="M439 468c62-92 267-131 373-57 66 46 23 108-72 132-111 28-254 13-301-36-12-13-12-26 0-39Z" fill="#fffdf8" opacity=".7"/>
+    <path d="M510 431c52-50 170-75 235-36 31 19 27 47-4 68-48 32-147 40-205 11-32-16-42-29-26-43Z" fill="#e9ddcc" opacity=".62"/>
+    <path d="M571 396c31-26 91-35 123-13 20 14 7 35-25 45-41 13-87 2-98-13-5-7-5-13 0-19Z" fill="#fff" opacity=".8"/>
+  </g>
+  <g fill="#6b826f" opacity=".55">
+    <circle cx="319" cy="278" r="12"/><circle cx="878" cy="278" r="9"/><circle cx="925" cy="324" r="16"/><circle cx="264" cy="370" r="7"/>
+  </g>
+  <text x="70" y="720" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#334d41">Generic cream-format study</text>
+  <text x="70" y="756" font-family="Arial, sans-serif" font-size="20" fill="#607268">Code-drawn illustration · no product, package, user, or texture-test claim</text>
+</svg>
