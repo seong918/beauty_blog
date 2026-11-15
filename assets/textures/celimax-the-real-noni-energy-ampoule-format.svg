@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Brand-neutral ampoule format illustration</title>
+<desc id="desc">Abstract translucent green droplets and a serum ribbon on a soft neutral background. This is not a product photograph.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f4ec"/><stop offset="1" stop-color="#dcebdc"/></linearGradient>
+<radialGradient id="drop" cx=".34" cy=".25" r=".8"><stop stop-color="#f5fff2" stop-opacity=".96"/><stop offset=".42" stop-color="#9fcca0" stop-opacity=".8"/><stop offset="1" stop-color="#4f8c63" stop-opacity=".88"/></radialGradient>
+<linearGradient id="ribbon" x1="0" y1="0" x2="1" y2=".2"><stop stop-color="#e9f7e4" stop-opacity=".25"/><stop offset=".45" stop-color="#79b486" stop-opacity=".75"/><stop offset="1" stop-color="#d7efd2" stop-opacity=".35"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+<filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#315742" flood-opacity=".18"/></filter>
+</defs>
+<rect width="1200" height="800" rx="34" fill="url(#bg)"/>
+<ellipse cx="612" cy="650" rx="380" ry="82" fill="#638c6e" opacity=".12" filter="url(#blur)"/>
+<path d="M170 565 C330 410 455 705 640 525 C780 390 885 505 1040 345" fill="none" stroke="url(#ribbon)" stroke-width="86" stroke-linecap="round" opacity=".8"/>
+<path d="M170 555 C330 400 455 695 640 515 C780 380 885 495 1040 335" fill="none" stroke="#f4fff0" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+<g filter="url(#shadow)">
+<path d="M606 125 C555 214 488 284 488 386 C488 462 542 520 614 520 C688 520 742 462 742 386 C742 286 664 210 606 125Z" fill="url(#drop)"/>
+<ellipse cx="574" cy="302" rx="30" ry="71" fill="#fff" opacity=".42" transform="rotate(18 574 302)"/>
+</g>
+<circle cx="290" cy="254" r="43" fill="url(#drop)" opacity=".72"/><circle cx="908" cy="205" r="66" fill="url(#drop)" opacity=".48"/><circle cx="1000" cy="558" r="32" fill="url(#drop)" opacity=".62"/>
+<text x="72" y="706" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" fill="#315742">AMPOULE FORMAT · BRAND-NEUTRAL ILLUSTRATION</text>
+<text x="72" y="748" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#5b7264">Abstract visual only — not the product, packaging, formula color, or evidence of a texture test.</text>
+</svg>

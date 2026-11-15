@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Celimax The Real Noni Energy Ampoule: What 6,842 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/celimax-the-real-noni-energy-ampoule.html
+- Published: 2026-11-15
+- Summary: Celimax The Real Noni Energy Ampoule analysis: 4.8 stars from 6,842 Olive Young Korea review records, skincare rank 13, star shares, shopper polls, and evidence limits.
+- Rating: 4.8 / 5 from 6,842 reviews (5★ 88% · 4★ 9% · 3★ 2% · 2★ 0% · 1★ 0%; displayed rows total 99% after rounding)
+- Skin-type poll: combination 61% · dry 36% · oily 3%
+- Concern poll: soothing 56% · hydration 44% · wrinkle / brightening 0%
+- Irritation poll: gentle 78% · ordinary 21% · felt irritation 1%
+- Aggregate themes: no reliable retailer-generated theme summary was used; none was inferred from individual review text.
+- Limits: retailer-displayed rounded aggregates; listing-level bundle context; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula or noni concentration, exact poll denominator, raw star counts, or universal suitability claim.
+
 ## Favorite Smooth Cream: What 548 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/favorite-smooth-cream.html
