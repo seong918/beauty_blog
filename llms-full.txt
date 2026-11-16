@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Torriden Dive-In Low Molecular Hyaluronic Acid Toner: What 1,882 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/torriden-dive-in-low-molecular-hyaluronic-acid-toner.html
+- Published: 2026-11-16
+- Summary: Torriden Dive-In Low Molecular Hyaluronic Acid Toner analysis: 4.8 stars from 1,882 Olive Young Korea review records, skincare rank 2, star shares, shopper polls, themes, and evidence limits.
+- Rating: 4.8 / 5 from 1,882 reviews (5★ 88% · 4★ 9% · 3★ 3% · 2★ 0% · 1★ 0%)
+- Skin-type poll: combination 51% · dry 33% · oily 15% (rounded shares total 99%)
+- Concern poll: hydration 66% · soothing 33% · wrinkle / brightening 1%
+- Irritation poll: gentle 76% · ordinary 23% · felt irritation 1%
+- Anonymous aggregate themes: 91% positive in the retailer's undisclosed recent-summary subset; broad themes concerned mild-feeling use, light hydration without a heavy finish, and large-size versatility or value.
+- Limits: retailer-displayed rounded aggregates and automated themes; bundle-level context; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula, hyaluronic-acid amount or molecular-weight profile, exact poll denominator, raw star counts, or universal suitability claim.
+
 ## Celimax The Real Noni Energy Ampoule: What 6,842 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/celimax-the-real-noni-energy-ampoule.html

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">Brand-neutral watery toner format illustration</title>
+<desc id="desc">Abstract clear-blue liquid ripples and suspended droplets on a soft neutral background. This is not a product photograph.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f7f1"/><stop offset="1" stop-color="#d8edf2"/></linearGradient><radialGradient id="drop" cx=".35" cy=".24" r=".82"><stop stop-color="#ffffff" stop-opacity=".97"/><stop offset=".43" stop-color="#9bd8e4" stop-opacity=".76"/><stop offset="1" stop-color="#3c9bb2" stop-opacity=".84"/></radialGradient><linearGradient id="wave" x1="0" y1="0" x2="1" y2=".2"><stop stop-color="#e9fbff" stop-opacity=".35"/><stop offset=".5" stop-color="#67bfd0" stop-opacity=".78"/><stop offset="1" stop-color="#d8f3f7" stop-opacity=".42"/></linearGradient><filter id="blur"><feGaussianBlur stdDeviation="18"/></filter><filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#285e70" flood-opacity=".16"/></filter></defs>
+<rect width="1200" height="800" rx="34" fill="url(#bg)"/>
+<ellipse cx="606" cy="650" rx="410" ry="88" fill="#468a9b" opacity=".12" filter="url(#blur)"/>
+<path d="M105 540 C245 410 375 660 520 520 C665 380 770 620 1090 360" fill="none" stroke="url(#wave)" stroke-width="92" stroke-linecap="round" opacity=".84"/>
+<path d="M105 529 C245 399 375 649 520 509 C665 369 770 609 1090 349" fill="none" stroke="#f5feff" stroke-width="13" stroke-linecap="round" opacity=".65"/>
+<g filter="url(#shadow)"><path d="M610 118 C562 202 503 270 503 363 C503 434 552 489 619 489 C686 489 735 434 735 363 C735 271 664 201 610 118Z" fill="url(#drop)"/><ellipse cx="580" cy="286" rx="28" ry="66" fill="#fff" opacity=".46" transform="rotate(18 580 286)"/></g>
+<circle cx="278" cy="241" r="46" fill="url(#drop)" opacity=".72"/><circle cx="917" cy="212" r="67" fill="url(#drop)" opacity=".5"/><circle cx="1013" cy="565" r="34" fill="url(#drop)" opacity=".64"/>
+<text x="72" y="706" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" fill="#285e70">WATERY TONER FORMAT · BRAND-NEUTRAL ILLUSTRATION</text>
+<text x="72" y="748" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#58747e">Abstract visual only — not the product, packaging, formula color, or evidence of a texture test.</text>
+</svg>
