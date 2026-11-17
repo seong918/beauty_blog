@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral cream-format illustration</title>
+  <desc id="desc">An abstract code-drawn illustration of soft off-white cream ribbons and droplets on a pale sage background. It does not depict a product or packaging.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef3ef"/><stop offset="1" stop-color="#dfe9e1"/></linearGradient>
+    <linearGradient id="cream" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#fffef9"/><stop offset=".55" stop-color="#f5efe5"/><stop offset="1" stop-color="#e5dbce"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#587064" flood-opacity=".2"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="42" fill="url(#bg)"/>
+  <circle cx="985" cy="135" r="210" fill="#d2e0d6" opacity=".72"/>
+  <circle cx="160" cy="700" r="260" fill="#e8ddd1" opacity=".62"/>
+  <g filter="url(#shadow)">
+    <path d="M280 500c85-178 278-269 455-201 127 49 208 161 169 260-31 80-124 125-244 112-117-13-224-2-323 39-102 42-187-8-174-82 7-42 58-85 117-128z" fill="url(#cream)"/>
+    <path d="M350 505c104-107 255-151 388-102 65 24 119 68 142 114-80-40-177-47-275-22-106 27-198 76-275 139-33-38-25-83 20-129z" fill="#fffdf7" opacity=".86"/>
+    <path d="M515 427c44-40 107-57 160-36 32 12 55 39 53 65-3 32-43 49-88 38-53-13-98-8-137 14-24 13-47 2-43-18 4-19 24-42 55-63z" fill="#ffffff" opacity=".82"/>
+  </g>
+  <g fill="#f9f4eb" stroke="#ffffff" stroke-width="5" opacity=".92"><circle cx="256" cy="224" r="28"/><circle cx="947" cy="587" r="20"/><circle cx="876" cy="213" r="13"/></g>
+  <text x="72" y="92" fill="#365246" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" letter-spacing="2">GENERIC CREAM-FORMAT STUDY</text>
+  <text x="72" y="132" fill="#60746b" font-family="Arial,Helvetica,sans-serif" font-size="19">Abstract vector illustration · no product, package, user, or tested texture</text>
+</svg>

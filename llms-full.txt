@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## ILLIYOON Multibarrier Facial Repair Cream: What 15 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/illiyoon-multibarrier-facial-repair-cream.html
+- Published: 2026-11-17
+- Summary: ILLIYOON Multibarrier Facial Repair Cream analysis: 4.9 stars from 15 Olive Young Korea review records, skincare rank 2, star shares, shopper polls, and strict small-sample limits.
+- Rating: 4.9 / 5 from 15 reviews (5★ 88% · 4★ 13% · 3★ 0% · 2★ 0% · 1★ 0%; displayed rows total 101% after rounding)
+- Skin-type poll: combination 67% · dry 33% · oily 0%
+- Concern poll: hydration 67% · soothing 33% · wrinkle / brightening 0%
+- Irritation poll: gentle 96% · ordinary 4% · felt irritation 0%
+- Aggregate themes: no reliable retailer-generated theme summary was exposed; none was inferred from individual review text.
+- Limits: retailer-displayed rounded aggregates; exceptionally small 15-record base; launch and promotion context; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, verified formula details, ingredient concentration, exact poll denominator, raw star counts, or universal suitability claim.
+
 ## Torriden Dive-In Low Molecular Hyaluronic Acid Toner: What 1,882 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/torriden-dive-in-low-molecular-hyaluronic-acid-toner.html
