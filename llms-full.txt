@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## numbuzin No.3 Skin Softening Lotion: What 2,208 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/numbuzin-no-3-skin-softening-lotion.html
+- Published: 2026-11-18
+- Summary: numbuzin No.3 Skin Softening Lotion analysis: 4.9 stars from 2,208 Olive Young Korea review records, skincare rank 6, star shares, shopper polls, and evidence limits.
+- Rating: 4.9 / 5 from 2,208 reviews (5★ 92% · 4★ 6% · 3★ 2% · 2★ 0% · 1★ 0%)
+- Skin-type poll: dry 58% · combination 34% · oily 7% (rounded shares total 99%)
+- Concern poll: hydration 89% · soothing 7% · wrinkle / brightening 4%
+- Irritation poll: gentle 94% · ordinary 5% · felt irritation 0% (rounded shares total 99%)
+- Aggregate themes: no reliable retailer-generated theme summary was exposed; none was inferred from individual review text.
+- Limits: retailer-displayed rounded aggregates; promotional-set context; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula, ingredient concentration, exact poll denominator, raw star counts, makeup-wear test, or universal suitability claim.
+
 ## ILLIYOON Multibarrier Facial Repair Cream: What 15 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/illiyoon-multibarrier-facial-repair-cream.html

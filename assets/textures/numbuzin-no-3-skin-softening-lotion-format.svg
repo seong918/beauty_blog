@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral lotion-format illustration</title>
+  <desc id="desc">Abstract pale lotion ribbons and droplets on a warm neutral background, not a product or texture photograph.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2eee5"/><stop offset="1" stop-color="#dce9df"/></linearGradient>
+    <linearGradient id="lotion" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".55" stop-color="#f5f0e7"/><stop offset="1" stop-color="#d9e4db"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#6b7e70" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="40" fill="url(#bg)"/>
+  <circle cx="1010" cy="128" r="176" fill="#c8dacd" opacity=".58"/>
+  <circle cx="170" cy="680" r="215" fill="#eadcca" opacity=".7"/>
+  <path d="M206 483 C355 277 502 619 665 378 C795 187 944 282 1040 419 C916 386 859 472 778 532 C622 649 473 440 342 579 C285 640 217 603 206 483Z" fill="url(#lotion)" filter="url(#shadow)"/>
+  <path d="M330 441 C441 372 509 510 617 449 C733 383 797 277 901 316" fill="none" stroke="#fff" stroke-width="34" stroke-linecap="round" opacity=".66"/>
+  <g fill="#fff" opacity=".88" filter="url(#shadow)"><circle cx="285" cy="277" r="38"/><circle cx="908" cy="580" r="25"/><circle cx="995" cy="512" r="15"/></g>
+  <text x="70" y="92" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#536b5c">GENERIC LOTION FORMAT</text>
+  <text x="70" y="130" font-family="Arial, sans-serif" font-size="20" fill="#667a6d">Abstract educational artwork · not a real product swatch</text>
+</svg>
