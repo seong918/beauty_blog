@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral lightweight serum format illustration</title>
+  <desc id="desc">Abstract translucent serum layers and droplets on a pale green background. This is not a product photograph or tested swatch.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eff8f3"/><stop offset="1" stop-color="#d4eadf"/></linearGradient>
+    <radialGradient id="drop" cx="35%" cy="28%" r="70%"><stop stop-color="#fff" stop-opacity=".92"/><stop offset=".45" stop-color="#a7d2bc" stop-opacity=".72"/><stop offset="1" stop-color="#4e8b6d" stop-opacity=".32"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#315f4c" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="595" cy="658" rx="420" ry="72" fill="#4c7d66" opacity=".14" filter="url(#blur)"/>
+  <path d="M120 510C280 350 430 650 610 480S930 345 1080 510C954 677 250 685 120 510Z" fill="#fff" opacity=".5" filter="url(#shadow)"/>
+  <path d="M155 505C300 397 429 595 600 468S912 389 1045 510C883 606 323 622 155 505Z" fill="#8fc3a8" opacity=".34"/>
+  <path d="M235 505C370 435 475 558 615 470S840 427 960 505C810 561 397 571 235 505Z" fill="#f9fffb" opacity=".74"/>
+  <g filter="url(#shadow)">
+    <path d="M615 120C615 120 498 273 498 386a117 117 0 0 0 234 0C732 273 615 120 615 120Z" fill="url(#drop)"/>
+    <circle cx="382" cy="292" r="56" fill="url(#drop)" opacity=".86"/>
+    <circle cx="822" cy="310" r="42" fill="url(#drop)" opacity=".76"/>
+  </g>
+  <g fill="#315f4c" font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+    <text x="600" y="724" font-size="25" font-weight="700">GENERAL SERUM-FORMAT VISUAL</text>
+    <text x="600" y="757" font-size="18" opacity=".78">Brand-neutral vector artwork · not packaging, a user photo, or texture-test evidence</text>
+  </g>
+</svg>

@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## COSRX The 6 Peptide Skin Booster Serum: What 12,577 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/cosrx-the-6-peptide-skin-booster-serum.html
+- Published: 2026-11-19
+- Summary: COSRX The 6 Peptide Skin Booster Serum analysis: 4.8 stars from 12,577 Olive Young Korea review records, skincare rank 25, star shares, shopper polls, aggregate themes, and evidence limits.
+- Rating: 4.8 / 5 from 12,577 reviews (5★ 87% · 4★ 9% · 3★ 3% · 2★ 0% · 1★ 1%)
+- Skin-type poll: combination 54% · dry 37% · oily 9%
+- Concern poll: hydration 68% · soothing 26% · wrinkle / brightening 5% (rounded shares total 99%)
+- Irritation poll: gentle 75% · ordinary 24% · felt irritation 2% (rounded shares total 101%)
+- Aggregate themes: the retailer labeled 91% of an undisclosed recent subset positive and grouped broad themes around use before later routine steps, moisture or reduced tight-feeling impressions, and a light, layerable feel including makeup-preparation context.
+- Limits: retailer-displayed rounded aggregates; promotional double-plan context; undisclosed automated-summary denominator and method; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula, peptide identity or concentration, exact poll denominator, raw star counts, absorption test, makeup-wear test, or universal suitability claim.
+
 ## numbuzin No.3 Skin Softening Lotion: What 2,208 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/numbuzin-no-3-skin-softening-lotion.html
