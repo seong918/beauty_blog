@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## LANEIGE Cream Skin Cerapeptide Refiner: What 64 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/laneige-cream-skin-cerapeptide-refiner.html
+- Published: 2026-11-20
+- Summary: LANEIGE Cream Skin Cerapeptide Refiner analysis: 4.9 stars from 64 Olive Young Korea review records, skincare rank 33, star shares, shopper polls, and small-sample limits.
+- Rating: 4.9 / 5 from 64 reviews (5★ 89% · 4★ 6% · 3★ 5% · 2★ 0% · 1★ 0%)
+- Skin-type poll: dry 57% · combination 38% · oily 5%
+- Concern poll: moisture 85% · soothing 12% · wrinkle / brightening 3%
+- Irritation poll: gentle 80% · ordinary 18% · felt irritation 2%
+- Aggregate themes: no reliable retailer-generated anonymous topic summary was exposed; no individual review text, identity, profile, or image was used.
+- Limits: retailer-displayed rounded aggregates; 64-record small sample; promotional bottle-plus-refill context; undisclosed poll denominators; no product photo, firsthand use, clinical or instrument endpoint, independently verified formula, Cerapeptide identity or concentration, raw star counts, sensory test, or universal suitability claim.
+
 ## COSRX The 6 Peptide Skin Booster Serum: What 12,577 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/cosrx-the-6-peptide-skin-booster-serum.html
