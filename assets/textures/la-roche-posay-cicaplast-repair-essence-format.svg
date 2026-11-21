@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral essence-format illustration</title>
+  <desc id="desc">Abstract translucent layers and droplets suggesting a lightweight leave-on skincare format without depicting a real product, package, or swatch.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edf6f2"/><stop offset=".55" stop-color="#dbeae4"/><stop offset="1" stop-color="#f4dfd5"/></linearGradient><radialGradient id="drop"><stop stop-color="#fff" stop-opacity=".92"/><stop offset=".7" stop-color="#b9d8cb" stop-opacity=".72"/><stop offset="1" stop-color="#7ca995" stop-opacity=".34"/></radialGradient><filter id="blur"><feGaussianBlur stdDeviation="22"/></filter><filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#355b4b" flood-opacity=".2"/></filter></defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="260" cy="215" rx="220" ry="145" fill="#fff" opacity=".34" filter="url(#blur)"/><ellipse cx="955" cy="600" rx="260" ry="170" fill="#d39a84" opacity=".2" filter="url(#blur)"/>
+  <path d="M-40 560 C170 430 335 650 545 530 C770 402 942 480 1240 330 L1240 830 L-40 830Z" fill="#fff" opacity=".52"/>
+  <path d="M-40 645 C205 520 365 730 610 592 C833 466 1005 536 1240 450 L1240 830 L-40 830Z" fill="#9fc3b4" opacity=".34"/>
+  <g filter="url(#shadow)"><path d="M598 156 C680 269 733 339 733 426 C733 510 672 577 598 577 C524 577 463 510 463 426 C463 339 516 269 598 156Z" fill="url(#drop)"/><ellipse cx="567" cy="318" rx="46" ry="78" fill="#fff" opacity=".48" transform="rotate(24 567 318)"/></g>
+  <circle cx="335" cy="330" r="54" fill="url(#drop)" opacity=".82"/><circle cx="846" cy="245" r="34" fill="url(#drop)" opacity=".75"/><circle cx="920" cy="392" r="20" fill="url(#drop)" opacity=".68"/>
+  <text x="66" y="82" font-family="system-ui,sans-serif" font-size="24" font-weight="700" fill="#4e6d5f">GENERIC ESSENCE FORMAT</text>
+  <text x="66" y="118" font-family="system-ui,sans-serif" font-size="18" fill="#6c8177">Brand-neutral code-drawn visual · not a product photograph or texture test</text>
+</svg>

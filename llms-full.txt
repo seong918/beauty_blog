@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## La Roche-Posay Cicaplast Repair Essence: What 1,246 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-repair-essence.html
+- Published: 2026-11-21
+- Summary: La Roche-Posay Cicaplast Repair Essence analysis: 4.8 stars from 1,246 Olive Young Korea review records, skincare rank 27, star shares, shopper polls, aggregate themes, and evidence limits.
+- Rating: 4.8 / 5 from 1,246 reviews (5★ 86% · 4★ 8% · 3★ 4% · 2★ 0% · 1★ 1%; displayed rows total 99% after rounding)
+- Skin-type poll: combination 53% · dry 39% · oily 8%
+- Concern poll: soothing 57% · moisture 40% · wrinkle / brightening 3%
+- Irritation poll: gentle 70% · ordinary 27% · felt irritation 3%
+- Anonymous aggregate themes: the retailer labeled 84% of an undisclosed recent subset positive and grouped broad themes around calming or redness impressions, light-feeling application and absorption, and moisture or reduced tight-feeling impressions.
+- Limits: retailer-displayed rounded aggregates and automated themes; promotional 30 ml plus two 7.5 ml additions; undisclosed poll and automated-summary denominators; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula, ingredient concentration, raw star counts, sensory test, or universal suitability claim.
+
 ## LANEIGE Cream Skin Cerapeptide Refiner: What 64 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/laneige-cream-skin-cerapeptide-refiner.html
