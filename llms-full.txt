@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Kopher Curipair Melacream: What 8,115 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/kopher-curipair-melacream.html
+- Published: 2026-11-22
+- Summary: Kopher Curipair Melacream analysis: 4.9 stars from 8,115 Olive Young Korea review records, skincare rank 10, star shares, shopper polls, aggregate themes, and evidence limits.
+- Rating: 4.9 / 5 from 8,115 reviews (5★ 97% · 4★ 2% · 3★ 1% · 2★ 0% · 1★ 0%)
+- Skin-type poll: combination 47% · dry 45% · oily 8%
+- Concern poll: moisture 48% · wrinkle / brightening 44% · soothing 8%
+- Irritation poll: gentle 92% · ordinary 8% · felt irritation 1% (displayed rows total 101% after rounding)
+- Anonymous aggregate themes: the retailer labeled 96% of an undisclosed recent subset positive and grouped broad themes around mild-feeling use, makeup adhesion or pre-makeup compatibility, and tone or glow impressions.
+- Limits: retailer-displayed rounded aggregates and automated themes; promotional 21 ml plus 4 ml addition; undisclosed poll and automated-summary denominators; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula, ingredient concentration, raw star counts, sensory test, or universal suitability claim.
+
 ## La Roche-Posay Cicaplast Repair Essence: What 1,246 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/la-roche-posay-cicaplast-repair-essence.html

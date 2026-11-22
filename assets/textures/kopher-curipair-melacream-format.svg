@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral cream-format illustration</title>
+  <desc id="desc">Abstract soft folds suggesting a leave-on cream format without depicting a real product, package, color, or swatch.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf5ef"/><stop offset=".55" stop-color="#eadfd5"/><stop offset="1" stop-color="#dfe9dc"/></linearGradient><radialGradient id="cream"><stop stop-color="#fff"/><stop offset=".72" stop-color="#f5eee8"/><stop offset="1" stop-color="#d8c6b9"/></radialGradient><filter id="blur"><feGaussianBlur stdDeviation="24"/></filter><filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#64493b" flood-opacity=".2"/></filter></defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="250" cy="205" rx="220" ry="145" fill="#fff" opacity=".42" filter="url(#blur)"/><ellipse cx="960" cy="610" rx="280" ry="175" fill="#9fb39c" opacity=".24" filter="url(#blur)"/>
+  <g filter="url(#shadow)"><path d="M168 546c78-176 238-287 428-287 184 0 339 101 427 264-100-47-191-45-274 8-119 76-210 91-318 30-87-49-174-54-263-15Z" fill="url(#cream)"/><path d="M238 554c92-114 205-171 339-171 122 0 231 48 326 145-89-20-167-4-234 49-74 59-148 71-225 35-70-33-139-52-206-58Z" fill="#fff" opacity=".68"/><path d="M391 525c62-58 130-88 205-88 67 0 132 25 194 75-63-4-117 13-162 52-45 39-93 49-143 30-39-14-70-37-94-69Z" fill="#eaded5" opacity=".78"/></g>
+  <circle cx="255" cy="350" r="34" fill="#fff" opacity=".58"/><circle cx="918" cy="294" r="52" fill="#f8eee7" opacity=".64"/><circle cx="1005" cy="420" r="24" fill="#fff" opacity=".52"/>
+  <text x="66" y="82" font-family="system-ui,sans-serif" font-size="24" font-weight="700" fill="#6d5548">GENERIC CREAM FORMAT</text>
+  <text x="66" y="118" font-family="system-ui,sans-serif" font-size="18" fill="#7d6d64">Brand-neutral code-drawn visual · not a product photograph or texture test</text>
+</svg>
