@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral cream-format illustration</title>
+  <desc id="desc">An abstract code-drawn arrangement of soft cream-colored ribbons on a muted plum background. It does not depict the BIOHEAL BOH product or a real swatch.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#4b354c"/><stop offset="1" stop-color="#8c6684"/></linearGradient>
+    <linearGradient id="cream" x1="0" x2=".8" y1="0" y2="1"><stop stop-color="#fffdf8"/><stop offset=".55" stop-color="#f3e9df"/><stop offset="1" stop-color="#d9c6c6"/></linearGradient>
+    <filter id="soft" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="26" stdDeviation="22" flood-color="#241827" flood-opacity=".34"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="1040" cy="105" r="230" fill="#d8b7ce" opacity=".17"/><circle cx="120" cy="745" r="260" fill="#ced8bd" opacity=".13"/>
+  <g filter="url(#soft)">
+    <path d="M170 500C270 320 510 250 760 300c144 28 251 100 274 191 17 69-24 129-108 146-107 21-191-39-298-32-141 9-209 88-341 60-105-23-158-85-117-165Z" fill="url(#cream)"/>
+    <path d="M245 502c96-112 263-155 437-120 115 23 193 67 218 118-85-28-178-19-276 30-122 61-238 72-379-28Z" fill="#fffdf9" opacity=".93"/>
+    <path d="M343 540c88-84 207-113 339-82 78 18 137 49 179 90-95-12-169 2-244 43-96 52-185 47-274-51Z" fill="#e4d2d4" opacity=".72"/>
+  </g>
+  <g font-family="system-ui,-apple-system,sans-serif" fill="#fff">
+    <text x="72" y="84" font-size="22" font-weight="700" letter-spacing="2" opacity=".82">GENERIC FORMAT STUDY</text>
+    <text x="72" y="132" font-size="35" font-weight="750">Soft cream ribbons</text>
+    <text x="72" y="716" font-size="22" opacity=".9">Brand-neutral vector art · not a product photo · not a use test</text>
+  </g>
+</svg>
