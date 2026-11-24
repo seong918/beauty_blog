@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Zeroid Intensive Lotion: What 3,111 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/zeroid-intensive-lotion.html
+- Published: 2026-11-24
+- Summary: Zeroid Intensive Lotion analysis: 4.8 stars from 3,111 Olive Young Korea review records, skincare rank 18, star shares, shopper polls, and evidence limits.
+- Rating: 4.8 / 5 from 3,111 reviews (5★ 88% · 4★ 8% · 3★ 2% · 2★ 0% · 1★ 1%; displayed rows total 99% after rounding)
+- Skin-type poll: dry 48% · combination 46% · oily 6%
+- Concern poll: moisture 69% · soothing 31% · wrinkle / brightening 1% (displayed rows total 101% after rounding)
+- Irritation poll: gentle 77% · ordinary 22% · felt irritation 1%
+- Anonymous aggregate themes: no stable retailer-generated theme summary was exposed during capture, so no themes were inferred from individual reviews.
+- Limits: retailer-displayed rounded aggregates; promotional 300 ml plan with keyring; undisclosed poll denominators; linked records may cover related configurations; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula, ingredient concentration, raw star counts, sensory test, or universal suitability claim.
+
 ## BIOHEAL BOH Probioderm 3D Lifting Eye & Wrinkle Cream: What 3,241 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/bioheal-boh-probioderm-3d-lifting-eye-wrinkle-cream.html

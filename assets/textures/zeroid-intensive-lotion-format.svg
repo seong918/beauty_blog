@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral lotion-format illustration</title>
+  <desc id="desc">Abstract translucent teal and ivory layers suggesting a general lotion format without depicting a product, package, or real swatch.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5fbfa"/><stop offset="1" stop-color="#dbeeea"/></linearGradient><linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fdfbf5"/><stop offset=".48" stop-color="#e7f3ef"/><stop offset="1" stop-color="#afd6cf"/></linearGradient><filter id="shadow" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="20" stdDeviation="18" flood-color="#2e6265" flood-opacity=".16"/></filter></defs>
+  <rect width="1200" height="800" rx="34" fill="url(#bg)"/>
+  <circle cx="1040" cy="130" r="210" fill="#88bbb4" opacity=".17"/><circle cx="120" cy="730" r="250" fill="#f4d7c6" opacity=".22"/>
+  <g filter="url(#shadow)"><path d="M105 505C225 354 354 337 485 418c139 86 244 101 357 22 98-69 187-72 273-14v141c-105-54-191-40-282 25-127 91-274 91-422 2-125-74-221-47-306 57z" fill="url(#ribbon)"/><path d="M138 420c132-116 253-115 374-28 121 87 237 95 353 15 88-61 170-67 246-31v82c-83-36-160-27-241 30-129 91-269 84-411-11-111-74-206-70-321 22z" fill="#ffffff" opacity=".72"/></g>
+  <g fill="none" stroke="#73aaa5" stroke-linecap="round" opacity=".38"><path d="M170 337c104-84 202-82 294 0" stroke-width="10"/><path d="M726 315c86-65 166-65 241-2" stroke-width="8"/></g>
+  <text x="70" y="86" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#39777c" letter-spacing="2">GENERIC LOTION FORMAT</text>
+  <text x="70" y="128" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#60787a">Abstract code-drawn visual · not a product image or texture test</text>
+  <text x="70" y="742" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#60787a">The illustration avoids packaging, logos, real swatches, and user photographs.</text>
+</svg>
