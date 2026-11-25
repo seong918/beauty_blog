@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Signiq Birch PDRN Hydration Glow Serum: What 1,335 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/signiq-birch-pdrn-hydration-glow-serum.html
+- Published: 2026-11-25
+- Summary: Signiq Birch PDRN Hydration Glow Serum analysis: 5.0 stars from 1,335 Olive Young Korea review records, skincare rank 31, star shares, missing-poll limits, and buying checks.
+- Rating: 5.0 / 5 from 1,335 reviews (5★ 100% · 4★ 0% · 3★ 0% · 2★ 0% · 1★ 0%)
+- Skin-type poll: unavailable; dry, combination, and oily rows each displayed 0%, so no distribution was inferred.
+- Concern poll: unavailable; moisture, soothing, and wrinkle / brightening rows each displayed 0%, so no distribution was inferred.
+- Irritation poll: unavailable; gentle, ordinary, and felt-irritation rows each displayed 0%, so no distribution or tolerance claim was inferred.
+- Anonymous aggregate themes: no stable retailer-generated theme summary was exposed during capture, so no themes were inferred from individual reviews.
+- Limits: retailer-displayed rounded aggregates; promotional 30 ml plan titled with 8 ml serum and 10 ml cream additions; unexplained all-zero shopper polls; linked records may cover related configurations; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula, ingredient source or concentration, raw star counts, sensory test, or universal suitability claim.
+
 ## Zeroid Intensive Lotion: What 3,111 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/zeroid-intensive-lotion.html

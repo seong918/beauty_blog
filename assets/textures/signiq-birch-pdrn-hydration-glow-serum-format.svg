@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral serum format illustration</title>
+  <desc id="desc">Abstract translucent droplets and flowing ribbons suggesting a general serum format, not an image of the Signiq product or its tested texture.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e8f4ee"/><stop offset="1" stop-color="#bfded1"/></linearGradient>
+    <radialGradient id="drop" cx="35%" cy="25%"><stop stop-color="#fff" stop-opacity=".92"/><stop offset=".6" stop-color="#cce9dd" stop-opacity=".72"/><stop offset="1" stop-color="#78b99f" stop-opacity=".58"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="610" cy="665" rx="430" ry="70" fill="#5d9d85" opacity=".2" filter="url(#soft)"/>
+  <path d="M-40 520 C180 390 310 610 520 470 S865 280 1240 430 L1240 690 C900 540 760 710 520 640 S170 610 -40 720Z" fill="#fff" opacity=".48"/>
+  <path d="M-20 590 C210 470 345 675 565 535 S900 370 1225 505" fill="none" stroke="#75af98" stroke-width="34" stroke-linecap="round" opacity=".45"/>
+  <path d="M545 110 C505 182 444 243 444 330 C444 425 515 494 610 494 C705 494 776 425 776 330 C776 243 715 182 675 110 C645 56 575 56 545 110Z" fill="url(#drop)" stroke="#fff" stroke-opacity=".72" stroke-width="5"/>
+  <ellipse cx="555" cy="205" rx="48" ry="76" fill="#fff" opacity=".5" transform="rotate(25 555 205)"/>
+  <circle cx="910" cy="180" r="58" fill="url(#drop)"/><circle cx="315" cy="245" r="34" fill="url(#drop)"/><circle cx="965" cy="315" r="24" fill="url(#drop)"/>
+  <text x="600" y="748" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#315f51">BRAND-NEUTRAL SERUM FORMAT · NOT A PRODUCT SWATCH</text>
+</svg>
