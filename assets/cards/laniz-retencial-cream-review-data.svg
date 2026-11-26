@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Laniz Retencial Cream aggregate review data</title>
+  <desc id="desc">Skincare sales rank 30, 5.0 stars from 293 review records, 97 percent five-star, with dry skin 55 percent, moisture concern 71 percent, and gentle response 88 percent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf6fc"/><stop offset="1" stop-color="#eee2f1"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#5f4167" flood-opacity=".13"/></filter>
+  </defs>
+  <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+  <circle cx="1080" cy="95" r="150" fill="#d9bfde" opacity=".32"/><circle cx="85" cy="570" r="190" fill="#e9d9ec" opacity=".55"/>
+  <text x="72" y="82" font-family="system-ui,-apple-system,sans-serif" font-size="25" font-weight="700" fill="#77517f" letter-spacing="2">THE K-BEAUTY DATA DESK</text>
+  <text x="72" y="137" font-family="system-ui,-apple-system,sans-serif" font-size="42" font-weight="800" fill="#3d2f42">Laniz Retencial Cream</text>
+  <text x="72" y="173" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#6e6072">Olive Young Korea aggregate display · captured 2026-11-26</text>
+  <g filter="url(#shadow)"><rect x="72" y="214" width="325" height="160" rx="22" fill="#fff"/><rect x="424" y="214" width="325" height="160" rx="22" fill="#fff"/><rect x="776" y="214" width="352" height="160" rx="22" fill="#fff"/></g>
+  <text x="100" y="255" font-family="system-ui,-apple-system,sans-serif" font-size="18" font-weight="700" fill="#806e84">SKINCARE SALES RANK</text><text x="100" y="332" font-family="system-ui,-apple-system,sans-serif" font-size="70" font-weight="850" fill="#6d4776">#30</text>
+  <text x="452" y="255" font-family="system-ui,-apple-system,sans-serif" font-size="18" font-weight="700" fill="#806e84">RATING</text><text x="452" y="327" font-family="system-ui,-apple-system,sans-serif" font-size="66" font-weight="850" fill="#6d4776">5.0</text><text x="577" y="325" font-family="system-ui,-apple-system,sans-serif" font-size="23" fill="#6e6072">/ 5</text><text x="452" y="354" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#6e6072">293 linked records</text>
+  <text x="804" y="255" font-family="system-ui,-apple-system,sans-serif" font-size="18" font-weight="700" fill="#806e84">DISPLAYED STARS</text><text x="804" y="326" font-family="system-ui,-apple-system,sans-serif" font-size="61" font-weight="850" fill="#6d4776">97%</text><text x="956" y="323" font-family="system-ui,-apple-system,sans-serif" font-size="22" fill="#6e6072">five-star</text><text x="804" y="354" font-family="system-ui,-apple-system,sans-serif" font-size="19" fill="#6e6072">2% four-star · other rows 0%</text>
+  <text x="72" y="433" font-family="system-ui,-apple-system,sans-serif" font-size="20" font-weight="800" fill="#4e3b53">LEADING SHOPPER-POLL LABELS</text>
+  <g font-family="system-ui,-apple-system,sans-serif"><rect x="72" y="457" width="325" height="96" rx="18" fill="#7f5a87"/><rect x="424" y="457" width="325" height="96" rx="18" fill="#92709a"/><rect x="776" y="457" width="352" height="96" rx="18" fill="#a684ad"/><text x="98" y="492" font-size="18" font-weight="700" fill="#f8eff9">SKIN TYPE</text><text x="98" y="531" font-size="31" font-weight="850" fill="#fff">Dry · 55%</text><text x="450" y="492" font-size="18" font-weight="700" fill="#f8eff9">CONCERN</text><text x="450" y="531" font-size="31" font-weight="850" fill="#fff">Moisture · 71%</text><text x="802" y="492" font-size="18" font-weight="700" fill="#f8eff9">IRRITATION</text><text x="802" y="531" font-size="31" font-weight="850" fill="#fff">Gentle · 88%</text></g>
+  <text x="72" y="599" font-family="system-ui,-apple-system,sans-serif" font-size="17" fill="#6f6173">Rounded, self-selected retail signals — not clinical outcomes, product-fit scores, or tolerance guarantees.</text>
+</svg>

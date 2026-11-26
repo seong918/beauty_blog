@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral abstract cream-format illustration</title>
+  <desc id="desc">Soft ivory and lavender ribbons arranged as a generic cream-format visual without product packaging, branding, or a real swatch.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#faf7fb"/><stop offset="1" stop-color="#e9deec"/></linearGradient>
+    <linearGradient id="cream" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#fffdfa"/><stop offset=".45" stop-color="#f5edf5"/><stop offset="1" stop-color="#d9c6dd"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b996c0"/><stop offset=".5" stop-color="#fdf9fd"/><stop offset="1" stop-color="#a67caf"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter><filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#5c3e63" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="32" fill="url(#bg)"/>
+  <ellipse cx="600" cy="652" rx="430" ry="82" fill="#8a6592" opacity=".16" filter="url(#soft)"/>
+  <g filter="url(#shadow)"><path d="M175 542C292 398 449 329 596 362c116 26 184 7 270-76 50-49 114-62 163-29 70 48 48 139-25 191-97 70-198 87-303 62-137-32-252 20-345 113-73 73-149 70-193 24-32-34-26-78 12-125z" fill="url(#cream)"/><path d="M240 533c110-98 230-127 358-91 126 35 250 8 357-94" fill="none" stroke="url(#edge)" stroke-width="44" stroke-linecap="round" opacity=".84"/><path d="M304 614c95-61 190-71 291-35 118 42 228 28 333-44" fill="none" stroke="#fff" stroke-width="29" stroke-linecap="round" opacity=".74"/></g>
+  <circle cx="244" cy="244" r="74" fill="#fff" opacity=".58"/><circle cx="964" cy="188" r="46" fill="#c9accf" opacity=".36"/><circle cx="1040" cy="600" r="92" fill="#fff" opacity=".34"/>
+  <path d="M592 153c25 41 48 76 48 111 0 34-24 61-59 61s-59-27-59-61c0-35 31-73 70-111z" fill="#f7eff8" stroke="#b68fbd" stroke-width="5" opacity=".9"/>
+  <text x="64" y="736" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#68566d">Generic cream-format study · not a product image, use test, formula color, or texture claim</text>
+</svg>

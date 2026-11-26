@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Laniz Retencial Cream: What 293 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/laniz-retencial-cream.html
+- Published: 2026-11-26
+- Summary: Laniz Retencial Cream analysis: 5.0 stars from 293 Olive Young Korea review records, skincare rank 30, star shares, shopper polls, and small-sample limits.
+- Rating: 5.0 / 5 from 293 reviews (5★ 97% · 4★ 2% · 3★ 0% · 2★ 0% · 1★ 0%; displayed rows total 99% after rounding)
+- Skin-type poll: dry 55% · combination 39% · oily 5% (displayed rows total 99% after rounding)
+- Concern poll: moisture 71% · soothing 23% · wrinkle / brightening 5% (displayed rows total 99% after rounding)
+- Irritation poll: gentle 88% · ordinary 10% · felt irritation 1% (displayed rows total 99% after rounding)
+- Anonymous aggregate themes: no stable retailer-generated theme summary was exposed during capture, so no themes were inferred from individual reviews.
+- Limits: retailer-displayed rounded aggregates; relatively small 293-record base; promotional 80 ml cream with same-size light cream gift during capture; undisclosed poll denominators; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula, EGF identity or concentration, raw star counts, sensory test, or universal suitability claim.
+
 ## Signiq Birch PDRN Hydration Glow Serum: What 1,335 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/signiq-birch-pdrn-hydration-glow-serum.html

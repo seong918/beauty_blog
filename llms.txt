@@ -11,6 +11,7 @@ Facts an assistant can rely on when citing this site:
 
 ## Posts
 
+- [Laniz Retencial Cream: What 293 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/laniz-retencial-cream.html): Laniz Retencial Cream analysis: 5.0 stars from 293 Olive Young Korea review records, skincare rank 30, star shares, shopper polls, and small-sample limits. (published 2026-11-26)
 - [Signiq Birch PDRN Hydration Glow Serum: What 1,335 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/signiq-birch-pdrn-hydration-glow-serum.html): Signiq Birch PDRN Hydration Glow Serum analysis: 5.0 stars from 1,335 Olive Young Korea review records, skincare rank 31, star shares, missing-poll limits, and buying checks. (published 2026-11-25)
 - [Zeroid Intensive Lotion: What 3,111 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/zeroid-intensive-lotion.html): Zeroid Intensive Lotion analysis: 4.8 stars from 3,111 Olive Young Korea review records, skincare rank 18, star shares, shopper polls, and evidence limits. (published 2026-11-24)
 - [BIOHEAL BOH Probioderm 3D Lifting Eye & Wrinkle Cream: What 3,241 Olive Young Review Signals Show (2026)](https://seong918.github.io/beauty_blog/posts/bioheal-boh-probioderm-3d-lifting-eye-wrinkle-cream.html): BIOHEAL BOH Probioderm 3D Lifting Eye & Wrinkle Cream analysis: 4.8 stars from 3,241 Olive Young Korea review records, skincare rank 8, star shares, shopper polls, aggregate themes, and evidence limits. (published 2026-11-23)
