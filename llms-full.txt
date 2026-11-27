@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Purcell Pixelbiome Cera Capsule Intensive Moisturizing Cream: What 159 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/purcell-pixelbiome-cera-capsule-intensive-moisturizing-cream.html
+- Published: 2026-11-27
+- Summary: Purcell Pixelbiome Cera Capsule Intensive Moisturizing Cream analysis: 5.0 stars from 159 Olive Young Korea review records, skincare rank 42, star shares, shopper polls, and strict small-sample limits.
+- Rating: 5.0 / 5 from 159 reviews (5★ 100% · 4★ 0% · 3★ 0% · 2★ 0% · 1★ 0%)
+- Skin-type poll: dry 83% · combination 16% · oily 1%
+- Concern poll: moisture 94% · soothing 4% · wrinkle / brightening 2%
+- Irritation poll: gentle 100% · ordinary 0% · felt irritation 0%
+- Anonymous aggregate themes: no stable retailer-generated theme summary was exposed during capture, so no themes were inferred from individual reviews.
+- Limits: retailer-displayed aggregates; small 159-record base; new 80 mL listing at ₩29,000 during capture; undisclosed poll denominators; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula, ceramide identity or concentration, capsule-performance test, raw star counts, sensory test, or universal suitability claim.
+
 ## Laniz Retencial Cream: What 293 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/laniz-retencial-cream.html
