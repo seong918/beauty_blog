@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Anua PDRN Hyaluronic Acid 100 Moisture Cream aggregate review data</title>
+  <desc id="desc">Data card showing skincare rank 2, a 4.8 rating from 9,704 records, star shares, and leading shopper poll responses captured November 28, 2026.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef8fb"/><stop offset="1" stop-color="#dceef3"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#244b57" flood-opacity=".12"/></filter>
+  </defs>
+  <rect width="1200" height="630" rx="30" fill="url(#bg)"/>
+  <circle cx="1090" cy="80" r="150" fill="#aad6df" opacity=".28"/>
+  <circle cx="90" cy="600" r="170" fill="#bfe3e6" opacity=".32"/>
+  <text x="64" y="78" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#34788c" letter-spacing="2">RETAIL REVIEW SNAPSHOT · 2026-11-28</text>
+  <text x="64" y="130" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#23444d">Anua PDRN Hyaluronic Acid 100</text>
+  <text x="64" y="172" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#23444d">Moisture Cream</text>
+  <g filter="url(#shadow)">
+    <rect x="64" y="216" width="326" height="174" rx="20" fill="#fff"/>
+    <rect x="414" y="216" width="326" height="174" rx="20" fill="#fff"/>
+    <rect x="764" y="216" width="372" height="174" rx="20" fill="#fff"/>
+  </g>
+  <text x="94" y="260" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#668089">SKINCARE SALES RANK</text>
+  <text x="94" y="342" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="700" fill="#34788c">#2</text>
+  <text x="444" y="260" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#668089">DISPLAYED RATING</text>
+  <text x="444" y="333" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="700" fill="#23444d">4.8</text>
+  <text x="572" y="333" font-family="Arial,Helvetica,sans-serif" font-size="34" fill="#e4a13b">★★★★★</text>
+  <text x="444" y="370" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#668089">9,704 linked records</text>
+  <text x="794" y="260" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#668089">STAR SHARES</text>
+  <text x="794" y="303" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#23444d">5★ 86%  ·  4★ 10%  ·  3★ 3%</text>
+  <text x="794" y="342" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#23444d">2★ 1%  ·  1★ 1%</text>
+  <text x="794" y="374" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#668089">Rows total 101% after rounding</text>
+  <g filter="url(#shadow)"><rect x="64" y="420" width="1072" height="134" rx="20" fill="#fff"/></g>
+  <text x="94" y="462" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#668089">LEADING SHOPPER-POLL RESPONSES</text>
+  <text x="94" y="511" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700" fill="#23444d">Combination 48%</text>
+  <text x="435" y="511" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700" fill="#23444d">Moisture 70%</text>
+  <text x="755" y="511" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700" fill="#23444d">Gentle 75%</text>
+  <text x="64" y="596" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#4f6d75">Rounded, self-selected retail signals — not clinical outcomes or a suitability guarantee.</text>
+</svg>

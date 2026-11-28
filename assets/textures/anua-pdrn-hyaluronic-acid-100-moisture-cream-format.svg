@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Brand-neutral cream-format illustration</title>
+  <desc id="desc">Abstract pale blue and white cream folds on a clean blue-gray background. This is not a product photograph or tested swatch.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf5f8"/><stop offset="1" stop-color="#cfe3e8"/></linearGradient>
+    <radialGradient id="cream" cx="42%" cy="30%" r="78%"><stop stop-color="#fff"/><stop offset=".55" stop-color="#eaf7fa"/><stop offset="1" stop-color="#bad9e1"/></radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur in="SourceAlpha" stdDeviation="18"/><feOffset dy="20"/><feColorMatrix values="0 0 0 0 0.09 0 0 0 0 0.26 0 0 0 0 0.31 0 0 0 .25 0"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <ellipse cx="610" cy="640" rx="390" ry="72" fill="#6f9daa" opacity=".2"/>
+  <g filter="url(#shadow)">
+    <path d="M264 590C315 487 404 437 510 414c-50-47-50-104 2-151 61-56 172-64 246-18 57 36 75 93 45 147 92 20 165 73 191 151 26 80-17 137-121 154-172 27-459 19-574-30-53-23-64-49-35-77z" fill="url(#cream)"/>
+    <path d="M379 566c81-56 161-80 239-72-25-33-11-70 34-88 53-22 126-6 150 34 20 34-1 66-51 83 72 13 123 41 142 78-124 36-362 31-514-35z" fill="#fff" opacity=".72"/>
+    <path d="M457 436c51-21 108-25 167-10-10-39 21-78 75-88 53-9 105 14 112 50 6 31-24 58-75 67-95-24-185-28-279-19z" fill="#f7fdff" opacity=".88"/>
+  </g>
+  <circle cx="315" cy="210" r="54" fill="#fff" opacity=".38"/>
+  <circle cx="960" cy="174" r="88" fill="#fff" opacity=".28"/>
+  <path d="M163 304c110-89 214-133 313-132" fill="none" stroke="#fff" stroke-width="18" stroke-linecap="round" opacity=".34"/>
+  <text x="600" y="744" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#4c6c74">GENERIC CREAM FORMAT · NOT THE PRODUCT OR A TESTED SWATCH</text>
+</svg>

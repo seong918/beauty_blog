@@ -2,6 +2,18 @@
 
 > Captured Olive Young aggregate review data, with scoped topic counts, metadata flags, and explicit limits. One section per covered product. Ratings, counts, and star shares are captured Olive Young Korea aggregates; publication dates and summaries are site metadata. Individual reviews are never quoted.
 
+## Anua PDRN Hyaluronic Acid 100 Moisture Cream: What 9,704 Olive Young Review Signals Show (2026)
+
+- URL: https://seong918.github.io/beauty_blog/posts/anua-pdrn-hyaluronic-acid-100-moisture-cream.html
+- Published: 2026-11-28
+- Summary: Anua PDRN Hyaluronic Acid 100 Moisture Cream analysis: 4.8 stars from 9,704 Olive Young Korea review records, skincare rank 2, star shares, shopper polls, anonymous themes, and evidence limits.
+- Rating: 4.8 / 5 from 9,704 reviews (5★ 86% · 4★ 10% · 3★ 3% · 2★ 1% · 1★ 1%; displayed rows total 101% after rounding)
+- Skin-type poll: combination 48% · dry 45% · oily 7%
+- Concern poll: moisture 70% · soothing 25% · wrinkle / brightening 5%
+- Irritation poll: gentle 75% · ordinary 24% · felt irritation 1%
+- Anonymous aggregate themes: the retailer labeled 91% of an undisclosed recent-review subset positive and grouped broad themes around moisture or relief from a tight feeling, makeup adhesion, and the convenience or hygiene of the pointed tube opening.
+- Limits: retailer-displayed aggregates; undisclosed poll denominators and recent-review subset; rounded shares; no individual review text, reviewer identity, product photo, firsthand use, clinical or instrument endpoint, independently verified formula, PDRN or hyaluronic-acid identity or concentration, raw star counts, sensory test, or universal suitability claim.
+
 ## Purcell Pixelbiome Cera Capsule Intensive Moisturizing Cream: What 159 Olive Young Review Signals Show (2026)
 
 - URL: https://seong918.github.io/beauty_blog/posts/purcell-pixelbiome-cera-capsule-intensive-moisturizing-cream.html
